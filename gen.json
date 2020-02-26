@@ -1,0 +1,650 @@
+{
+   "1985": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 960.84
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 3799.55
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 860.81
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 1190.69
+      }
+   ],
+   "1986": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 1017.01
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 3617.01
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 823.06
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 1122.76
+      }
+   ],
+   "1987": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 1183.72
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 4163.25
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 861.05
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 1337.43
+      }
+   ],
+   "1988": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 1216.19
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 4061.31
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 904.38
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 1291.25
+      }
+   ],
+   "1989": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 1266.53
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 4346.97
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 1010.25
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 1412.79
+      }
+   ],
+   "1990": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 1581.93
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 5274.17
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 1233.82
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 1788.83
+      }
+   ],
+   "1991": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 3461.17
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 3415.41
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 1267.92
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 72.74
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 2103.82
+      }
+   ],
+   "1992": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 3668.38
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 3367.77
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 1194.25
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 75.77
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 2222.71
+      }
+   ],
+   "1993": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 3820.37
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 3411.78
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 1213.03
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 100.93
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 2244.18
+      }
+   ],
+   "1994": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 3890.53
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 3872.05
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 1290.33
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 85
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 2345.88
+      }
+   ],
+   "1995": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2896.41
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 4709.41
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 3912.88
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 94.11
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 3047.45
+      }
+   ],
+   "1996": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2831.15
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 4326.52
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 3846.27
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 113.25
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 3025.02
+      }
+   ],
+   "1997": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2718.52
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 4257.63
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 3846.65
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 98.66
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 2896.37
+      }
+   ],
+   "1998": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2824.65
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 4336.9
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 3856.37
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 115.29
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 3017.51
+      }
+   ],
+   "1999": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2890.01
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 4287.24
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 4135
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 109.02
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 3052.64
+      }
+   ],
+   "2000": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2828.26
+      },
+      {
+         "generation": "G.I. Generation",
+         "suicides_rate": 4461.89
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 3990.34
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 91.58
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 3015.38
+      }
+   ],
+   "2001": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2892.34
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 2325.57
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 1723.91
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 7334.39
+      }
+   ],
+   "2002": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2791.34
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 2283.04
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 1750.66
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 7402.68
+      }
+   ],
+   "2003": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2765.27
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 2144.21
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 1657.59
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 7060.51
+      }
+   ],
+   "2004": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2522.2
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 2000.72
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 1563.69
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 6495.19
+      }
+   ],
+   "2005": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2410.15
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 1970.14
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 1507.08
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 6277.62
+      }
+   ],
+   "2006": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2390.74
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 1864.05
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 1549.42
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 6361.8
+      }
+   ],
+   "2007": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2364.54
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 2058.83
+      },
+      {
+         "generation": "Generation Z",
+         "suicides_rate": 111.15
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 1419.76
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 6455.87
+      }
+   ],
+   "2008": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2452.07
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 1914.94
+      },
+      {
+         "generation": "Generation Z",
+         "suicides_rate": 105.2
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 1426.23
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 6247.4
+      }
+   ],
+   "2009": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2506.18
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 1957.17
+      },
+      {
+         "generation": "Generation Z",
+         "suicides_rate": 106.44
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 1429.18
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 6177.07
+      }
+   ],
+   "2010": [
+      {
+         "generation": "Generation X",
+         "suicides_rate": 4304.52
+      },
+      {
+         "generation": "Generation Z",
+         "suicides_rate": 114.2
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 1403.38
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 6021.89
+      }
+   ],
+   "2011": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2367.78
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 2286.93
+      },
+      {
+         "generation": "Generation Z",
+         "suicides_rate": 109.68
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 3274.97
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 3328.48
+      }
+   ],
+   "2012": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2325.46
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 2214.23
+      },
+      {
+         "generation": "Generation Z",
+         "suicides_rate": 104.12
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 3101.26
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 3356.84
+      }
+   ],
+   "2013": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2297.64
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 2119.91
+      },
+      {
+         "generation": "Generation Z",
+         "suicides_rate": 105.57
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 3038.27
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 3102.25
+      }
+   ],
+   "2014": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 2148.63
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 1975.33
+      },
+      {
+         "generation": "Generation Z",
+         "suicides_rate": 100.44
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 2870.25
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 3212.08
+      }
+   ],
+   "2015": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 1792.02
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 1556.9
+      },
+      {
+         "generation": "Generation Z",
+         "suicides_rate": 87.38
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 2217.74
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 2599.95
+      }
+   ],
+   "2016": [
+      {
+         "generation": "Boomers",
+         "suicides_rate": 481.02
+      },
+      {
+         "generation": "Generation X",
+         "suicides_rate": 425.55
+      },
+      {
+         "generation": "Millenials",
+         "suicides_rate": 572
+      },
+      {
+         "generation": "Silent",
+         "suicides_rate": 668.82
+      }
+   ]
+}
