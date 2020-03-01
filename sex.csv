@@ -1,0 +1,4643 @@
+,country,year,sex,suicides_rate
+0,Albania,1987,female,11.350000000000001
+1,Albania,1987,male,20.500000000000004
+2,Albania,1988,female,13.549999999999999
+3,Albania,1988,male,18.91
+4,Albania,1989,female,5.52
+5,Albania,1989,male,27.88
+6,Albania,1992,female,5.12
+7,Albania,1992,male,12.88
+8,Albania,1993,female,9.759999999999998
+9,Albania,1993,male,22.8
+10,Albania,1994,female,9.81
+11,Albania,1994,male,22.37
+12,Albania,1995,female,16.06
+13,Albania,1995,male,24.49
+14,Albania,1996,female,17.460000000000004
+15,Albania,1996,male,26.160000000000004
+16,Albania,1997,female,21.28
+17,Albania,1997,male,56.150000000000006
+18,Albania,1998,female,20.34
+19,Albania,1998,male,46.17999999999999
+20,Albania,1999,female,25.32
+21,Albania,1999,male,44.49
+22,Albania,2000,female,10.290000000000001
+23,Albania,2000,male,20.41
+24,Albania,2001,female,16.400000000000002
+25,Albania,2001,male,34.22
+26,Albania,2002,female,16.729999999999997
+27,Albania,2002,male,45.78000000000001
+28,Albania,2003,female,29.2
+29,Albania,2003,male,29.4
+30,Albania,2004,female,24.54
+31,Albania,2004,male,40.85
+32,Albania,2005,female,0.0
+33,Albania,2005,male,0.0
+34,Albania,2006,female,0.0
+35,Albania,2006,male,0.0
+36,Albania,2007,female,21.86
+37,Albania,2007,male,43.989999999999995
+38,Albania,2008,female,28.91
+39,Albania,2008,male,42.14
+40,Albania,2009,female,0.0
+41,Albania,2009,male,0.0
+42,Albania,2010,female,15.48
+43,Albania,2010,male,26.18
+44,Antigua and Barbuda,1985,female,0.0
+45,Antigua and Barbuda,1985,male,0.0
+46,Antigua and Barbuda,1986,female,0.0
+47,Antigua and Barbuda,1986,male,0.0
+48,Antigua and Barbuda,1987,female,0.0
+49,Antigua and Barbuda,1987,male,0.0
+50,Antigua and Barbuda,1988,female,0.0
+51,Antigua and Barbuda,1988,male,0.0
+52,Antigua and Barbuda,1989,female,0.0
+53,Antigua and Barbuda,1989,male,0.0
+54,Antigua and Barbuda,1990,female,0.0
+55,Antigua and Barbuda,1990,male,17.24
+56,Antigua and Barbuda,1991,female,0.0
+57,Antigua and Barbuda,1991,male,0.0
+58,Antigua and Barbuda,1992,female,0.0
+59,Antigua and Barbuda,1992,male,0.0
+60,Antigua and Barbuda,1993,female,0.0
+61,Antigua and Barbuda,1993,male,15.0
+62,Antigua and Barbuda,1994,female,0.0
+63,Antigua and Barbuda,1994,male,0.0
+64,Antigua and Barbuda,1995,female,0.0
+65,Antigua and Barbuda,1995,male,0.0
+66,Antigua and Barbuda,1998,female,0.0
+67,Antigua and Barbuda,1998,male,0.0
+68,Antigua and Barbuda,1999,female,0.0
+69,Antigua and Barbuda,1999,male,0.0
+70,Antigua and Barbuda,2000,female,0.0
+71,Antigua and Barbuda,2000,male,39.97
+72,Antigua and Barbuda,2001,female,0.0
+73,Antigua and Barbuda,2001,male,19.45
+74,Antigua and Barbuda,2002,female,0.0
+75,Antigua and Barbuda,2002,male,0.0
+76,Antigua and Barbuda,2003,female,0.0
+77,Antigua and Barbuda,2003,male,27.82
+78,Antigua and Barbuda,2004,female,0.0
+79,Antigua and Barbuda,2004,male,36.06
+80,Antigua and Barbuda,2005,female,0.0
+81,Antigua and Barbuda,2005,male,0.0
+82,Antigua and Barbuda,2006,female,0.0
+83,Antigua and Barbuda,2006,male,0.0
+84,Antigua and Barbuda,2007,female,0.0
+85,Antigua and Barbuda,2007,male,7.98
+86,Antigua and Barbuda,2008,female,0.0
+87,Antigua and Barbuda,2008,male,0.0
+88,Antigua and Barbuda,2009,female,0.0
+89,Antigua and Barbuda,2009,male,0.0
+90,Antigua and Barbuda,2012,female,0.0
+91,Antigua and Barbuda,2012,male,0.0
+92,Antigua and Barbuda,2013,female,0.0
+93,Antigua and Barbuda,2013,male,0.0
+94,Antigua and Barbuda,2014,female,0.0
+95,Antigua and Barbuda,2014,male,0.0
+96,Antigua and Barbuda,2015,female,15.62
+97,Antigua and Barbuda,2015,male,0.0
+98,Argentina,1985,female,27.25
+99,Argentina,1985,male,107.22
+100,Argentina,1986,female,32.010000000000005
+101,Argentina,1986,male,120.89
+102,Argentina,1987,female,34.42
+103,Argentina,1987,male,110.55999999999999
+104,Argentina,1988,female,32.63
+105,Argentina,1988,male,113.61000000000001
+106,Argentina,1989,female,30.580000000000005
+107,Argentina,1989,male,108.35
+108,Argentina,1990,female,29.02
+109,Argentina,1990,male,105.88
+110,Argentina,1991,female,23.810000000000002
+111,Argentina,1991,male,95.43
+112,Argentina,1992,female,22.93
+113,Argentina,1992,male,103.93
+114,Argentina,1993,female,23.249999999999996
+115,Argentina,1993,male,111.52
+116,Argentina,1994,female,20.72
+117,Argentina,1994,male,101.32999999999998
+118,Argentina,1995,female,21.699999999999996
+119,Argentina,1995,male,98.27000000000001
+120,Argentina,1996,female,22.8
+121,Argentina,1996,male,95.23
+122,Argentina,1997,female,21.259999999999998
+123,Argentina,1997,male,90.13999999999999
+124,Argentina,1998,female,20.970000000000002
+125,Argentina,1998,male,95.96
+126,Argentina,1999,female,18.869999999999997
+127,Argentina,1999,male,98.32000000000001
+128,Argentina,2000,female,20.07
+129,Argentina,2000,male,111.32000000000001
+130,Argentina,2001,female,24.46
+131,Argentina,2001,male,119.09999999999998
+132,Argentina,2002,female,25.320000000000004
+133,Argentina,2002,male,114.1
+134,Argentina,2003,female,24.74
+135,Argentina,2003,male,121.54999999999998
+136,Argentina,2004,female,22.5
+137,Argentina,2004,male,108.56
+138,Argentina,2005,female,23.240000000000002
+139,Argentina,2005,male,104.94
+140,Argentina,2006,female,19.640000000000004
+141,Argentina,2006,male,108.58
+142,Argentina,2007,female,19.07
+143,Argentina,2007,male,99.28000000000002
+144,Argentina,2008,female,19.209999999999997
+145,Argentina,2008,male,98.89999999999999
+146,Argentina,2009,female,17.810000000000002
+147,Argentina,2009,male,89.51
+148,Argentina,2010,female,17.4
+149,Argentina,2010,male,93.84
+150,Argentina,2011,female,17.54
+151,Argentina,2011,male,88.33
+152,Argentina,2012,female,18.77
+153,Argentina,2012,male,101.05
+154,Argentina,2013,female,17.32
+155,Argentina,2013,male,86.10000000000001
+156,Argentina,2014,female,19.479999999999997
+157,Argentina,2014,male,91.87
+158,Argentina,2015,female,17.259999999999998
+159,Argentina,2015,male,94.87
+160,Armenia,1990,female,11.32
+161,Armenia,1990,male,29.800000000000004
+162,Armenia,1991,female,11.66
+163,Armenia,1991,male,34.21
+164,Armenia,1992,female,9.35
+165,Armenia,1992,male,31.51
+166,Armenia,1993,female,20.599999999999998
+167,Armenia,1993,male,30.45
+168,Armenia,1994,female,19.48
+169,Armenia,1994,male,47.25000000000001
+170,Armenia,1995,female,13.879999999999999
+171,Armenia,1995,male,37.91
+172,Armenia,1996,female,7.050000000000001
+173,Armenia,1996,male,30.0
+174,Armenia,1997,female,9.419999999999998
+175,Armenia,1997,male,22.810000000000002
+176,Armenia,1998,female,6.26
+177,Armenia,1998,male,21.16
+178,Armenia,1999,female,9.76
+179,Armenia,1999,male,14.92
+180,Armenia,2000,female,10.5
+181,Armenia,2000,male,23.8
+182,Armenia,2001,female,8.3
+183,Armenia,2001,male,21.48
+184,Armenia,2002,female,4.97
+185,Armenia,2002,male,33.10000000000001
+186,Armenia,2003,female,6.6
+187,Armenia,2003,male,26.830000000000002
+188,Armenia,2006,female,7.930000000000001
+189,Armenia,2006,male,35.74
+190,Armenia,2007,female,7.42
+191,Armenia,2007,male,31.599999999999998
+192,Armenia,2008,female,5.62
+193,Armenia,2008,male,29.53
+194,Armenia,2009,female,4.38
+195,Armenia,2009,male,29.320000000000004
+196,Armenia,2010,female,8.74
+197,Armenia,2010,male,31.67
+198,Armenia,2011,female,10.34
+199,Armenia,2011,male,22.64
+200,Armenia,2012,female,8.7
+201,Armenia,2012,male,27.87
+202,Armenia,2013,female,12.06
+203,Armenia,2013,male,25.419999999999998
+204,Armenia,2014,female,9.440000000000001
+205,Armenia,2014,male,27.57
+206,Armenia,2015,female,9.76
+207,Armenia,2015,male,35.519999999999996
+208,Armenia,2016,female,5.869999999999999
+209,Armenia,2016,male,34.690000000000005
+210,Aruba,1995,female,0.0
+211,Aruba,1995,male,308.51
+212,Aruba,1999,female,0.0
+213,Aruba,1999,male,115.47000000000001
+214,Aruba,2000,female,146.22
+215,Aruba,2000,male,159.11
+216,Aruba,2001,female,0.0
+217,Aruba,2001,male,27.28
+218,Aruba,2002,female,0.0
+219,Aruba,2002,male,126.46000000000002
+220,Aruba,2003,female,0.0
+221,Aruba,2003,male,12.93
+222,Aruba,2004,female,15.04
+223,Aruba,2004,male,161.67999999999998
+224,Aruba,2005,female,52.22
+225,Aruba,2005,male,47.36
+226,Aruba,2006,female,10.93
+227,Aruba,2006,male,85.38
+228,Aruba,2007,female,11.17
+229,Aruba,2007,male,81.02000000000001
+230,Aruba,2008,female,5.5
+231,Aruba,2008,male,35.940000000000005
+232,Aruba,2009,female,0.0
+233,Aruba,2009,male,42.230000000000004
+234,Aruba,2010,female,9.82
+235,Aruba,2010,male,48.83
+236,Aruba,2011,female,25.450000000000003
+237,Aruba,2011,male,67.97
+238,Australia,1985,female,36.300000000000004
+239,Australia,1985,male,127.11
+240,Australia,1986,female,35.379999999999995
+241,Australia,1986,male,140.41
+242,Australia,1987,female,35.629999999999995
+243,Australia,1987,male,153.19
+244,Australia,1988,female,36.50000000000001
+245,Australia,1988,male,142.82
+246,Australia,1989,female,32.489999999999995
+247,Australia,1989,male,135.62
+248,Australia,1990,female,34.02
+249,Australia,1990,male,138.32999999999998
+250,Australia,1991,female,35.690000000000005
+251,Australia,1991,male,144.46
+252,Australia,1992,female,35.349999999999994
+253,Australia,1992,male,135.29000000000002
+254,Australia,1993,female,28.2
+255,Australia,1993,male,126.75
+256,Australia,1994,female,29.09
+257,Australia,1994,male,138.66
+258,Australia,1995,female,30.54
+259,Australia,1995,male,124.64999999999999
+260,Australia,1996,female,29.97
+261,Australia,1996,male,145.36999999999998
+262,Australia,1997,female,36.519999999999996
+263,Australia,1997,male,150.41000000000003
+264,Australia,1998,female,34.2
+265,Australia,1998,male,142.20999999999998
+266,Australia,1999,female,29.6
+267,Australia,1999,male,137.54999999999998
+268,Australia,2000,female,31.34
+269,Australia,2000,male,126.48
+270,Australia,2001,female,31.529999999999998
+271,Australia,2001,male,127.26
+272,Australia,2002,female,30.1
+273,Australia,2002,male,114.58000000000003
+274,Australia,2003,female,26.980000000000004
+275,Australia,2003,male,106.86
+276,Australia,2004,female,26.429999999999996
+277,Australia,2004,male,107.32999999999998
+278,Australia,2006,female,28.67
+279,Australia,2006,male,99.22
+280,Australia,2007,female,28.73
+281,Australia,2007,male,101.52
+282,Australia,2008,female,26.2
+283,Australia,2008,male,104.28999999999999
+284,Australia,2009,female,29.52
+285,Australia,2009,male,100.6
+286,Australia,2010,female,29.07
+287,Australia,2010,male,103.56999999999998
+288,Australia,2011,female,30.640000000000004
+289,Australia,2011,male,102.57999999999998
+290,Australia,2012,female,34.00999999999999
+291,Australia,2012,male,105.56
+292,Australia,2013,female,33.080000000000005
+293,Australia,2013,male,105.7
+294,Australia,2014,female,34.88
+295,Australia,2014,male,114.19000000000001
+296,Australia,2015,female,35.940000000000005
+297,Australia,2015,male,118.24000000000001
+298,Austria,1985,female,96.99
+299,Austria,1985,male,287.82
+300,Austria,1986,female,98.65
+301,Austria,1986,male,303.15
+302,Austria,1987,female,99.23000000000002
+303,Austria,1987,male,306.65000000000003
+304,Austria,1988,female,83.41
+305,Austria,1988,male,274.23
+306,Austria,1989,female,94.36999999999999
+307,Austria,1989,male,264.95
+308,Austria,1990,female,87.31
+309,Austria,1990,male,266.47
+310,Austria,1991,female,73.35999999999999
+311,Austria,1991,male,282.11
+312,Austria,1992,female,74.03999999999999
+313,Austria,1992,male,267.7
+314,Austria,1993,female,71.72999999999999
+315,Austria,1993,male,276.22999999999996
+316,Austria,1994,female,76.36
+317,Austria,1994,male,267.26
+318,Austria,1995,female,71.34
+319,Austria,1995,male,276.75
+320,Austria,1996,female,70.1
+321,Austria,1996,male,272.54999999999995
+322,Austria,1997,female,62.629999999999995
+323,Austria,1997,male,234.87000000000003
+324,Austria,1998,female,57.73
+325,Austria,1998,male,231.65
+326,Austria,1999,female,65.94
+327,Austria,1999,male,214.35999999999999
+328,Austria,2000,female,63.93999999999999
+329,Austria,2000,male,225.83
+330,Austria,2001,female,60.0
+331,Austria,2001,male,201.91
+332,Austria,2002,female,51.88
+333,Austria,2002,male,225.04000000000002
+334,Austria,2003,female,55.62
+335,Austria,2003,male,201.44
+336,Austria,2004,female,49.09
+337,Austria,2004,male,204.95
+338,Austria,2005,female,49.839999999999996
+339,Austria,2005,male,185.41
+340,Austria,2006,female,43.120000000000005
+341,Austria,2006,male,175.77999999999997
+342,Austria,2007,female,45.480000000000004
+343,Austria,2007,male,171.83
+344,Austria,2008,female,41.980000000000004
+345,Austria,2008,male,174.47
+346,Austria,2009,female,41.69
+347,Austria,2009,male,171.53
+348,Austria,2010,female,39.71
+349,Austria,2010,male,167.84000000000003
+350,Austria,2011,female,41.919999999999995
+351,Austria,2011,male,169.57
+352,Austria,2012,female,39.839999999999996
+353,Austria,2012,male,166.79
+354,Austria,2013,female,43.49
+355,Austria,2013,male,168.63
+356,Austria,2014,female,44.11999999999999
+357,Austria,2014,male,165.7
+358,Austria,2015,female,39.14
+359,Austria,2015,male,155.48000000000002
+360,Austria,2016,female,37.6
+361,Austria,2016,male,145.63
+362,Azerbaijan,1990,female,6.14
+363,Azerbaijan,1990,male,18.469999999999995
+364,Azerbaijan,1991,female,6.1499999999999995
+365,Azerbaijan,1991,male,26.080000000000002
+366,Azerbaijan,1992,female,10.989999999999998
+367,Azerbaijan,1992,male,23.790000000000003
+368,Azerbaijan,1993,female,9.35
+369,Azerbaijan,1993,male,22.169999999999998
+370,Azerbaijan,1994,female,4.050000000000001
+371,Azerbaijan,1994,male,7.99
+372,Azerbaijan,1995,female,1.9
+373,Azerbaijan,1995,male,12.38
+374,Azerbaijan,1996,female,4.7700000000000005
+375,Azerbaijan,1996,male,13.059999999999999
+376,Azerbaijan,1997,female,3.2399999999999998
+377,Azerbaijan,1997,male,15.350000000000001
+378,Azerbaijan,1998,female,4.08
+379,Azerbaijan,1998,male,6.59
+380,Azerbaijan,1999,female,1.48
+381,Azerbaijan,1999,male,7.1000000000000005
+382,Azerbaijan,2000,female,4.48
+383,Azerbaijan,2000,male,9.930000000000001
+384,Azerbaijan,2001,female,18.66
+385,Azerbaijan,2001,male,41.39
+386,Azerbaijan,2002,female,3.82
+387,Azerbaijan,2002,male,15.599999999999998
+388,Azerbaijan,2003,female,8.6
+389,Azerbaijan,2003,male,18.47
+390,Azerbaijan,2004,female,8.32
+391,Azerbaijan,2004,male,10.01
+392,Azerbaijan,2007,female,2.3200000000000003
+393,Azerbaijan,2007,male,9.510000000000002
+394,Bahamas,1985,female,0.0
+395,Bahamas,1985,male,4.76
+396,Bahamas,1987,female,0.0
+397,Bahamas,1987,male,13.59
+398,Bahamas,1993,female,8.4
+399,Bahamas,1993,male,29.11
+400,Bahamas,1994,female,0.0
+401,Bahamas,1994,male,10.6
+402,Bahamas,1995,female,0.0
+403,Bahamas,1995,male,7.16
+404,Bahamas,1996,female,0.0
+405,Bahamas,1996,male,9.82
+406,Bahamas,1997,female,0.0
+407,Bahamas,1997,male,7.15
+408,Bahamas,1998,female,0.0
+409,Bahamas,1998,male,11.09
+410,Bahamas,1999,female,3.94
+411,Bahamas,1999,male,19.02
+412,Bahamas,2000,female,10.35
+413,Bahamas,2000,male,30.310000000000002
+414,Bahamas,2001,female,0.0
+415,Bahamas,2001,male,2.68
+416,Bahamas,2002,female,0.0
+417,Bahamas,2002,male,9.969999999999999
+418,Bahamas,2003,female,0.0
+419,Bahamas,2003,male,2.49
+420,Bahamas,2004,female,0.0
+421,Bahamas,2004,male,5.93
+422,Bahamas,2005,female,3.72
+423,Bahamas,2005,male,9.6
+424,Bahamas,2006,female,0.0
+425,Bahamas,2006,male,5.640000000000001
+426,Bahamas,2007,female,2.04
+427,Bahamas,2007,male,11.38
+428,Bahamas,2008,female,0.0
+429,Bahamas,2008,male,12.490000000000002
+430,Bahamas,2009,female,1.93
+431,Bahamas,2009,male,14.05
+432,Bahamas,2010,female,12.149999999999999
+433,Bahamas,2010,male,46.17
+434,Bahamas,2011,female,3.43
+435,Bahamas,2011,male,9.559999999999999
+436,Bahamas,2012,female,1.84
+437,Bahamas,2012,male,10.0
+438,Bahamas,2013,female,1.83
+439,Bahamas,2013,male,12.08
+440,Bahrain,1985,female,3.72
+441,Bahrain,1985,male,16.4
+442,Bahrain,1987,female,6.23
+443,Bahrain,1987,male,19.450000000000003
+444,Bahrain,1988,female,3.24
+445,Bahrain,1988,male,21.56
+446,Bahrain,1997,female,0.0
+447,Bahrain,1997,male,0.0
+448,Bahrain,1998,female,0.0
+449,Bahrain,1998,male,0.0
+450,Bahrain,1999,female,5.57
+451,Bahrain,1999,male,16.89
+452,Bahrain,2000,female,1.88
+453,Bahrain,2000,male,30.849999999999998
+454,Bahrain,2001,female,5.09
+455,Bahrain,2001,male,25.569999999999997
+456,Bahrain,2002,female,10.75
+457,Bahrain,2002,male,16.93
+458,Bahrain,2003,female,7.89
+459,Bahrain,2003,male,24.5
+460,Bahrain,2004,female,9.74
+461,Bahrain,2004,male,44.47
+462,Bahrain,2005,female,9.33
+463,Bahrain,2005,male,30.889999999999997
+464,Bahrain,2006,female,13.56
+465,Bahrain,2006,male,13.62
+466,Bahrain,2007,female,6.61
+467,Bahrain,2007,male,25.48
+468,Bahrain,2008,female,8.67
+469,Bahrain,2008,male,19.22
+470,Bahrain,2009,female,5.699999999999999
+471,Bahrain,2009,male,18.89
+472,Bahrain,2010,female,3.79
+473,Bahrain,2010,male,8.1
+474,Bahrain,2011,female,6.2700000000000005
+475,Bahrain,2011,male,8.690000000000001
+476,Bahrain,2012,female,0.9
+477,Bahrain,2012,male,7.78
+478,Bahrain,2013,female,0.0
+479,Bahrain,2013,male,2.49
+480,Bahrain,2014,female,0.9
+481,Bahrain,2014,male,5.62
+482,Barbados,1985,female,9.09
+483,Barbados,1985,male,52.629999999999995
+484,Barbados,1986,female,4.55
+485,Barbados,1986,male,32.18
+486,Barbados,1987,female,8.2
+487,Barbados,1987,male,21.26
+488,Barbados,1988,female,5.15
+489,Barbados,1988,male,52.24
+490,Barbados,1989,female,17.03
+491,Barbados,1989,male,56.55
+492,Barbados,1990,female,12.690000000000001
+493,Barbados,1990,male,108.53999999999999
+494,Barbados,1991,female,19.35
+495,Barbados,1991,male,57.58
+496,Barbados,1992,female,12.620000000000001
+497,Barbados,1992,male,50.910000000000004
+498,Barbados,1993,female,5.29
+499,Barbados,1993,male,85.64
+500,Barbados,1994,female,18.270000000000003
+501,Barbados,1994,male,48.81
+502,Barbados,1995,female,20.729999999999997
+503,Barbados,1995,male,51.559999999999995
+504,Barbados,2000,female,4.96
+505,Barbados,2000,male,32.17
+506,Barbados,2001,female,0.0
+507,Barbados,2001,male,8.65
+508,Barbados,2002,female,0.0
+509,Barbados,2002,male,0.0
+510,Barbados,2003,female,0.0
+511,Barbados,2003,male,0.0
+512,Barbados,2004,female,0.0
+513,Barbados,2004,male,7.79
+514,Barbados,2005,female,0.0
+515,Barbados,2005,male,2.58
+516,Barbados,2006,female,0.0
+517,Barbados,2006,male,45.38
+518,Barbados,2007,female,0.0
+519,Barbados,2007,male,0.0
+520,Barbados,2008,female,2.31
+521,Barbados,2008,male,0.0
+522,Barbados,2009,female,0.0
+523,Barbados,2009,male,28.799999999999997
+524,Barbados,2010,female,0.0
+525,Barbados,2010,male,7.62
+526,Barbados,2011,female,0.0
+527,Barbados,2011,male,0.0
+528,Barbados,2012,female,0.0
+529,Barbados,2012,male,0.0
+530,Barbados,2013,female,0.0
+531,Barbados,2013,male,0.0
+532,Belarus,1990,female,52.67
+533,Belarus,1990,male,221.70000000000002
+534,Belarus,1991,female,56.48
+535,Belarus,1991,male,241.16
+536,Belarus,1992,female,58.35
+537,Belarus,1992,male,255.89000000000001
+538,Belarus,1993,female,62.57
+539,Belarus,1993,male,302.54
+540,Belarus,1994,female,67.41
+541,Belarus,1994,male,336.17
+542,Belarus,1995,female,57.12
+543,Belarus,1995,male,346.89
+544,Belarus,1996,female,62.75000000000001
+545,Belarus,1996,male,392.96
+546,Belarus,1997,female,65.35000000000001
+547,Belarus,1997,male,381.15
+548,Belarus,1998,female,66.32
+549,Belarus,1998,male,389.32
+550,Belarus,1999,female,63.92
+551,Belarus,1999,male,386.43999999999994
+552,Belarus,2000,female,60.29
+553,Belarus,2000,male,387.01000000000005
+554,Belarus,2001,female,59.279999999999994
+555,Belarus,2001,male,360.37000000000006
+556,Belarus,2002,female,59.79
+557,Belarus,2002,male,351.21
+558,Belarus,2003,female,63.71
+559,Belarus,2003,male,381.15000000000003
+560,Belarus,2007,female,52.589999999999996
+561,Belarus,2007,male,303.3
+562,Belarus,2008,female,52.17
+563,Belarus,2008,male,299.99
+564,Belarus,2009,female,58.39
+565,Belarus,2009,male,317.15
+566,Belarus,2010,female,46.169999999999995
+567,Belarus,2010,male,285.81
+568,Belarus,2011,female,45.129999999999995
+569,Belarus,2011,male,254.23
+570,Belarus,2013,female,40.040000000000006
+571,Belarus,2013,male,233.28
+572,Belarus,2014,female,33.17
+573,Belarus,2014,male,219.73999999999998
+574,Belgium,1985,female,91.62
+575,Belgium,1985,male,240.42000000000002
+576,Belgium,1986,female,82.34
+577,Belgium,1986,male,232.35
+578,Belgium,1987,female,84.65
+579,Belgium,1987,male,243.11
+580,Belgium,1988,female,77.03
+581,Belgium,1988,male,206.76999999999998
+582,Belgium,1989,female,68.67
+583,Belgium,1989,male,216.17999999999998
+584,Belgium,1990,female,70.5
+585,Belgium,1990,male,206.60999999999999
+586,Belgium,1991,female,60.67
+587,Belgium,1991,male,203.35
+588,Belgium,1992,female,67.08
+589,Belgium,1992,male,198.8
+590,Belgium,1993,female,69.57000000000001
+591,Belgium,1993,male,230.90000000000003
+592,Belgium,1994,female,67.01
+593,Belgium,1994,male,233.39
+594,Belgium,1995,female,68.94000000000001
+595,Belgium,1995,male,216.96000000000004
+596,Belgium,1996,female,61.620000000000005
+597,Belgium,1996,male,205.92
+598,Belgium,1997,female,64.6
+599,Belgium,1997,male,220.14
+600,Belgium,1998,female,61.739999999999995
+601,Belgium,1998,male,203.0
+602,Belgium,1999,female,53.43
+603,Belgium,1999,male,177.27
+604,Belgium,2000,female,65.69
+605,Belgium,2000,male,202.11
+606,Belgium,2001,female,62.64000000000001
+607,Belgium,2001,male,198.58000000000004
+608,Belgium,2002,female,59.14
+609,Belgium,2002,male,188.72
+610,Belgium,2003,female,57.89000000000001
+611,Belgium,2003,male,190.84
+612,Belgium,2004,female,54.86
+613,Belgium,2004,male,176.20000000000002
+614,Belgium,2005,female,55.17
+615,Belgium,2005,male,176.58
+616,Belgium,2006,female,53.709999999999994
+617,Belgium,2006,male,161.19
+618,Belgium,2007,female,52.83
+619,Belgium,2007,male,155.73999999999998
+620,Belgium,2008,female,54.46
+621,Belgium,2008,male,167.08
+622,Belgium,2009,female,53.65
+623,Belgium,2009,male,164.70000000000002
+624,Belgium,2010,female,53.89
+625,Belgium,2010,male,166.29
+626,Belgium,2011,female,57.65
+627,Belgium,2011,male,169.06
+628,Belgium,2012,female,50.84
+629,Belgium,2012,male,166.29
+630,Belgium,2013,female,50.66
+631,Belgium,2013,male,150.89000000000001
+632,Belgium,2014,female,52.84
+633,Belgium,2014,male,149.01000000000002
+634,Belgium,2015,female,52.21
+635,Belgium,2015,male,144.45000000000002
+636,Belize,1986,female,5.62
+637,Belize,1986,male,13.75
+638,Belize,1987,female,0.0
+639,Belize,1987,male,31.41
+640,Belize,1989,female,0.0
+641,Belize,1989,male,5.16
+642,Belize,1990,female,4.98
+643,Belize,1990,male,24.72
+644,Belize,1991,female,0.0
+645,Belize,1991,male,23.93
+646,Belize,1993,female,0.0
+647,Belize,1993,male,6.49
+648,Belize,1994,female,52.3
+649,Belize,1994,male,112.43
+650,Belize,1995,female,4.29
+651,Belize,1995,male,139.67999999999998
+652,Belize,1996,female,0.0
+653,Belize,1996,male,61.290000000000006
+654,Belize,1997,female,0.0
+655,Belize,1997,male,5.77
+656,Belize,1998,female,5.63
+657,Belize,1998,male,76.14999999999999
+658,Belize,1999,female,0.0
+659,Belize,1999,male,83.71999999999998
+660,Belize,2000,female,18.3
+661,Belize,2000,male,142.50000000000003
+662,Belize,2001,female,8.83
+663,Belize,2001,male,142.87
+664,Belize,2002,female,19.939999999999998
+665,Belize,2002,male,49.68000000000001
+666,Belize,2003,female,16.43
+667,Belize,2003,male,42.57000000000001
+668,Belize,2004,female,13.14
+669,Belize,2004,male,104.24
+670,Belize,2005,female,3.51
+671,Belize,2005,male,42.59
+672,Belize,2006,female,6.15
+673,Belize,2006,male,31.77
+674,Belize,2007,female,6.8100000000000005
+675,Belize,2007,male,71.68
+676,Belize,2008,female,4.14
+677,Belize,2008,male,82.22000000000001
+678,Belize,2009,female,13.45
+679,Belize,2009,male,44.309999999999995
+680,Belize,2010,female,6.09
+681,Belize,2010,male,55.38999999999999
+682,Belize,2011,female,14.78
+683,Belize,2011,male,138.52
+684,Belize,2012,female,5.77
+685,Belize,2012,male,67.67999999999999
+686,Belize,2013,female,2.81
+687,Belize,2013,male,53.59
+688,Belize,2014,female,16.779999999999998
+689,Belize,2014,male,74.17
+690,Belize,2015,female,15.13
+691,Belize,2015,male,120.33000000000001
+692,Bosnia and Herzegovina,2011,female,0.0
+693,Bosnia and Herzegovina,2011,male,1.31
+694,Bosnia and Herzegovina,2014,female,22.02
+695,Bosnia and Herzegovina,2014,male,87.48
+696,Brazil,1985,female,13.08
+697,Brazil,1985,male,46.1
+698,Brazil,1986,female,13.36
+699,Brazil,1986,male,43.800000000000004
+700,Brazil,1987,female,13.32
+701,Brazil,1987,male,56.8
+702,Brazil,1988,female,14.75
+703,Brazil,1988,male,50.61
+704,Brazil,1989,female,13.010000000000003
+705,Brazil,1989,male,51.00999999999999
+706,Brazil,1990,female,13.429999999999998
+707,Brazil,1990,male,53.629999999999995
+708,Brazil,1991,female,13.12
+709,Brazil,1991,male,55.22
+710,Brazil,1992,female,11.97
+711,Brazil,1992,male,52.949999999999996
+712,Brazil,1993,female,11.65
+713,Brazil,1993,male,56.21
+714,Brazil,1994,female,12.39
+715,Brazil,1994,male,59.12
+716,Brazil,1995,female,13.18
+717,Brazil,1995,male,62.059999999999995
+718,Brazil,1996,female,13.33
+719,Brazil,1996,male,60.00000000000001
+720,Brazil,1997,female,12.51
+721,Brazil,1997,male,64.29
+722,Brazil,1998,female,12.999999999999998
+723,Brazil,1998,male,62.05
+724,Brazil,1999,female,10.14
+725,Brazil,1999,male,57.510000000000005
+726,Brazil,2000,female,11.43
+727,Brazil,2000,male,56.79999999999999
+728,Brazil,2001,female,11.730000000000002
+729,Brazil,2001,male,61.760000000000005
+730,Brazil,2002,female,13.24
+731,Brazil,2002,male,56.53000000000001
+732,Brazil,2003,female,11.87
+733,Brazil,2003,male,56.2
+734,Brazil,2004,female,12.18
+735,Brazil,2004,male,58.040000000000006
+736,Brazil,2005,female,12.55
+737,Brazil,2005,male,61.05
+738,Brazil,2006,female,11.959999999999999
+739,Brazil,2006,male,57.94
+740,Brazil,2007,female,12.250000000000002
+741,Brazil,2007,male,59.43
+742,Brazil,2008,female,12.329999999999998
+743,Brazil,2008,male,59.88
+744,Brazil,2009,female,11.930000000000001
+745,Brazil,2009,male,58.44
+746,Brazil,2010,female,13.379999999999999
+747,Brazil,2010,male,59.35
+748,Brazil,2011,female,13.02
+749,Brazil,2011,male,59.38999999999999
+750,Brazil,2012,female,13.870000000000001
+751,Brazil,2012,male,60.58
+752,Brazil,2013,female,13.56
+753,Brazil,2013,male,59.85
+754,Brazil,2014,female,13.239999999999998
+755,Brazil,2014,male,59.89000000000001
+756,Brazil,2015,female,14.06
+757,Brazil,2015,male,63.39000000000001
+758,Bulgaria,1985,female,78.77
+759,Bulgaria,1985,male,224.35
+760,Bulgaria,1986,female,80.14999999999999
+761,Bulgaria,1986,male,195.33
+762,Bulgaria,1987,female,79.21000000000001
+763,Bulgaria,1987,male,229.18999999999997
+764,Bulgaria,1988,female,79.33000000000001
+765,Bulgaria,1988,male,213.16
+766,Bulgaria,1989,female,74.8
+767,Bulgaria,1989,male,217.38999999999996
+768,Bulgaria,1990,female,71.84999999999998
+769,Bulgaria,1990,male,184.57999999999998
+770,Bulgaria,1991,female,62.57000000000001
+771,Bulgaria,1991,male,206.36999999999998
+772,Bulgaria,1992,female,78.43999999999998
+773,Bulgaria,1992,male,232.16
+774,Bulgaria,1993,female,82.8
+775,Bulgaria,1993,male,195.56000000000003
+776,Bulgaria,1994,female,74.64
+777,Bulgaria,1994,male,213.75
+778,Bulgaria,1995,female,72.46
+779,Bulgaria,1995,male,205.39
+780,Bulgaria,1996,female,74.39
+781,Bulgaria,1996,male,221.80999999999995
+782,Bulgaria,1997,female,78.43999999999998
+783,Bulgaria,1997,male,197.92
+784,Bulgaria,1998,female,86.36
+785,Bulgaria,1998,male,218.24999999999997
+786,Bulgaria,1999,female,57.830000000000005
+787,Bulgaria,1999,male,192.88
+788,Bulgaria,2000,female,66.9
+789,Bulgaria,2000,male,192.32
+790,Bulgaria,2001,female,63.88
+791,Bulgaria,2001,male,180.74
+792,Bulgaria,2002,female,58.71
+793,Bulgaria,2002,male,188.64
+794,Bulgaria,2003,female,49.10999999999999
+795,Bulgaria,2003,male,158.54
+796,Bulgaria,2004,female,41.18
+797,Bulgaria,2004,male,142.93999999999997
+798,Bulgaria,2005,female,43.65
+799,Bulgaria,2005,male,134.41
+800,Bulgaria,2006,female,38.559999999999995
+801,Bulgaria,2006,male,147.97
+802,Bulgaria,2007,female,40.09999999999999
+803,Bulgaria,2007,male,133.67000000000002
+804,Bulgaria,2008,female,39.56
+805,Bulgaria,2008,male,130.78
+806,Bulgaria,2009,female,33.730000000000004
+807,Bulgaria,2009,male,120.69000000000001
+808,Bulgaria,2010,female,33.14
+809,Bulgaria,2010,male,125.11
+810,Bulgaria,2011,female,25.98
+811,Bulgaria,2011,male,107.53999999999998
+812,Bulgaria,2012,female,33.379999999999995
+813,Bulgaria,2012,male,130.79000000000002
+814,Bulgaria,2013,female,24.93
+815,Bulgaria,2013,male,109.23
+816,Bulgaria,2014,female,30.31
+817,Bulgaria,2014,male,109.45999999999998
+818,Cabo Verde,2011,female,15.92
+819,Cabo Verde,2011,male,117.91999999999999
+820,Canada,1985,female,32.47
+821,Canada,1985,male,133.99
+822,Canada,1986,female,37.61
+823,Canada,1986,male,152.5
+824,Canada,1987,female,37.18
+825,Canada,1987,male,142.15
+826,Canada,1988,female,34.83
+827,Canada,1988,male,140.54999999999998
+828,Canada,1989,female,34.75000000000001
+829,Canada,1989,male,136.23
+830,Canada,1990,female,29.98
+831,Canada,1990,male,135.04
+832,Canada,1991,female,29.830000000000002
+833,Canada,1991,male,137.95000000000002
+834,Canada,1992,female,31.53
+835,Canada,1992,male,132.07000000000002
+836,Canada,1993,female,32.36
+837,Canada,1993,male,131.66
+838,Canada,1994,female,30.180000000000003
+839,Canada,1994,male,131.73000000000002
+840,Canada,1995,female,30.430000000000003
+841,Canada,1995,male,133.09
+842,Canada,1996,female,30.29
+843,Canada,1996,male,132.6
+844,Canada,1997,female,28.6
+845,Canada,1997,male,122.83000000000001
+846,Canada,1998,female,29.51
+847,Canada,1998,male,120.61
+848,Canada,1999,female,30.29
+849,Canada,1999,male,128.15
+850,Canada,2000,female,28.1
+851,Canada,2000,male,110.9
+852,Canada,2001,female,28.729999999999997
+853,Canada,2001,male,108.7
+854,Canada,2002,female,27.53
+855,Canada,2002,male,110.2
+856,Canada,2003,female,28.91
+857,Canada,2003,male,108.35999999999999
+858,Canada,2004,female,29.15
+859,Canada,2004,male,102.50999999999999
+860,Canada,2005,female,30.230000000000004
+861,Canada,2005,male,103.61000000000001
+862,Canada,2006,female,27.32
+863,Canada,2006,male,99.11
+864,Canada,2007,female,29.14
+865,Canada,2007,male,98.30999999999999
+866,Canada,2008,female,29.24
+867,Canada,2008,male,98.35
+868,Canada,2009,female,28.759999999999998
+869,Canada,2009,male,101.90999999999998
+870,Canada,2010,female,30.79
+871,Canada,2010,male,101.88
+872,Canada,2011,female,30.33
+873,Canada,2011,male,94.69000000000001
+874,Canada,2012,female,29.710000000000004
+875,Canada,2012,male,98.16999999999999
+876,Canada,2013,female,31.91
+877,Canada,2013,male,101.18
+878,Chile,1985,female,12.9
+879,Chile,1985,male,96.01000000000002
+880,Chile,1986,female,13.029999999999998
+881,Chile,1986,male,77.91
+882,Chile,1987,female,11.81
+883,Chile,1987,male,77.61
+884,Chile,1988,female,12.190000000000001
+885,Chile,1988,male,82.71000000000001
+886,Chile,1989,female,10.14
+887,Chile,1989,male,90.3
+888,Chile,1990,female,11.180000000000001
+889,Chile,1990,male,80.68
+890,Chile,1991,female,13.53
+891,Chile,1991,male,85.30000000000001
+892,Chile,1992,female,8.04
+893,Chile,1992,male,70.84
+894,Chile,1993,female,9.56
+895,Chile,1993,male,93.62000000000002
+896,Chile,1994,female,9.240000000000002
+897,Chile,1994,male,86.1
+898,Chile,1995,female,12.010000000000002
+899,Chile,1995,male,96.89999999999999
+900,Chile,1996,female,10.95
+901,Chile,1996,male,84.75999999999999
+902,Chile,1997,female,11.659999999999998
+903,Chile,1997,male,88.46999999999998
+904,Chile,1998,female,12.67
+905,Chile,1998,male,97.1
+906,Chile,1999,female,12.170000000000002
+907,Chile,1999,male,99.68999999999998
+908,Chile,2000,female,16.87
+909,Chile,2000,male,132.31
+910,Chile,2001,female,17.98
+911,Chile,2001,male,129.6
+912,Chile,2002,female,20.32
+913,Chile,2002,male,128.95999999999998
+914,Chile,2003,female,20.49
+915,Chile,2003,male,133.04999999999998
+916,Chile,2004,female,20.550000000000004
+917,Chile,2004,male,135.14
+918,Chile,2005,female,19.98
+919,Chile,2005,male,127.44999999999999
+920,Chile,2006,female,20.72
+921,Chile,2006,male,134.34
+922,Chile,2007,female,24.930000000000003
+923,Chile,2007,male,125.99000000000001
+924,Chile,2008,female,29.349999999999998
+925,Chile,2008,male,138.53
+926,Chile,2009,female,29.439999999999998
+927,Chile,2009,male,144.85999999999999
+928,Chile,2010,female,25.759999999999998
+929,Chile,2010,male,137.12
+930,Chile,2011,female,24.91
+931,Chile,2011,male,135.93
+932,Chile,2012,female,21.669999999999998
+933,Chile,2012,male,126.74000000000001
+934,Chile,2013,female,21.29
+935,Chile,2013,male,113.23000000000002
+936,Chile,2014,female,19.96
+937,Chile,2014,male,117.41
+938,Chile,2015,female,25.77
+939,Chile,2015,male,121.91
+940,Colombia,1985,female,10.059999999999999
+941,Colombia,1985,male,52.50000000000001
+942,Colombia,1986,female,8.29
+943,Colombia,1986,male,41.82
+944,Colombia,1987,female,7.320000000000001
+945,Colombia,1987,male,37.849999999999994
+946,Colombia,1988,female,7.630000000000001
+947,Colombia,1988,male,43.010000000000005
+948,Colombia,1989,female,7.05
+949,Colombia,1989,male,34.64
+950,Colombia,1990,female,7.7
+951,Colombia,1990,male,35.73
+952,Colombia,1991,female,7.72
+953,Colombia,1991,male,35.85
+954,Colombia,1992,female,7.84
+955,Colombia,1992,male,41.64
+956,Colombia,1993,female,7.21
+957,Colombia,1993,male,42.02
+958,Colombia,1994,female,9.399999999999999
+959,Colombia,1994,male,46.55
+960,Colombia,1995,female,8.13
+961,Colombia,1995,male,41.51
+962,Colombia,1996,female,8.379999999999999
+963,Colombia,1996,male,44.79
+964,Colombia,1997,female,8.9
+965,Colombia,1997,male,43.87
+966,Colombia,1998,female,14.42
+967,Colombia,1998,male,67.25999999999999
+968,Colombia,1999,female,13.92
+969,Colombia,1999,male,70.17999999999999
+970,Colombia,2000,female,15.729999999999999
+971,Colombia,2000,male,74.05000000000001
+972,Colombia,2001,female,15.78
+973,Colombia,2001,male,72.49
+974,Colombia,2002,female,15.54
+975,Colombia,2002,male,65.83999999999999
+976,Colombia,2003,female,16.16
+977,Colombia,2003,male,63.69
+978,Colombia,2004,female,14.530000000000001
+979,Colombia,2004,male,69.72
+980,Colombia,2005,female,12.67
+981,Colombia,2005,male,62.17
+982,Colombia,2006,female,12.299999999999999
+983,Colombia,2006,male,66.11
+984,Colombia,2007,female,11.56
+985,Colombia,2007,male,62.69
+986,Colombia,2008,female,11.71
+987,Colombia,2008,male,62.51
+988,Colombia,2009,female,11.440000000000001
+989,Colombia,2009,male,62.39
+990,Colombia,2010,female,10.12
+991,Colombia,2010,male,57.12
+992,Colombia,2011,female,9.54
+993,Colombia,2011,male,53.339999999999996
+994,Colombia,2012,female,9.979999999999999
+995,Colombia,2012,male,56.47
+996,Colombia,2013,female,10.05
+997,Colombia,2013,male,53.48
+998,Colombia,2014,female,9.299999999999999
+999,Colombia,2014,male,57.32
+1000,Colombia,2015,female,12.400000000000002
+1001,Colombia,2015,male,58.0
+1002,Costa Rica,1985,female,7.08
+1003,Costa Rica,1985,male,62.379999999999995
+1004,Costa Rica,1986,female,5.640000000000001
+1005,Costa Rica,1986,male,84.19999999999999
+1006,Costa Rica,1987,female,8.66
+1007,Costa Rica,1987,male,76.9
+1008,Costa Rica,1988,female,6.4399999999999995
+1009,Costa Rica,1988,male,82.54
+1010,Costa Rica,1989,female,11.959999999999997
+1011,Costa Rica,1989,male,72.80999999999997
+1012,Costa Rica,1990,female,11.299999999999999
+1013,Costa Rica,1990,male,81.97000000000001
+1014,Costa Rica,1991,female,6.71
+1015,Costa Rica,1991,male,55.010000000000005
+1016,Costa Rica,1992,female,9.020000000000001
+1017,Costa Rica,1992,male,63.519999999999996
+1018,Costa Rica,1993,female,10.419999999999998
+1019,Costa Rica,1993,male,88.41000000000001
+1020,Costa Rica,1994,female,10.86
+1021,Costa Rica,1994,male,69.92999999999999
+1022,Costa Rica,1995,female,12.45
+1023,Costa Rica,1995,male,66.72999999999999
+1024,Costa Rica,1996,female,8.02
+1025,Costa Rica,1996,male,86.84
+1026,Costa Rica,1997,female,10.69
+1027,Costa Rica,1997,male,69.94
+1028,Costa Rica,1998,female,9.049999999999999
+1029,Costa Rica,1998,male,83.03999999999999
+1030,Costa Rica,1999,female,6.97
+1031,Costa Rica,1999,male,78.09
+1032,Costa Rica,2000,female,10.6
+1033,Costa Rica,2000,male,77.68999999999998
+1034,Costa Rica,2001,female,9.35
+1035,Costa Rica,2001,male,66.67999999999999
+1036,Costa Rica,2002,female,10.91
+1037,Costa Rica,2002,male,84.71000000000001
+1038,Costa Rica,2003,female,14.280000000000001
+1039,Costa Rica,2003,male,101.6
+1040,Costa Rica,2004,female,13.709999999999999
+1041,Costa Rica,2004,male,87.01
+1042,Costa Rica,2005,female,10.07
+1043,Costa Rica,2005,male,68.66
+1044,Costa Rica,2006,female,17.03
+1045,Costa Rica,2006,male,83.8
+1046,Costa Rica,2007,female,11.29
+1047,Costa Rica,2007,male,64.06
+1048,Costa Rica,2008,female,11.059999999999999
+1049,Costa Rica,2008,male,61.209999999999994
+1050,Costa Rica,2009,female,10.38
+1051,Costa Rica,2009,male,66.99
+1052,Costa Rica,2010,female,10.200000000000001
+1053,Costa Rica,2010,male,74.15
+1054,Costa Rica,2011,female,13.940000000000001
+1055,Costa Rica,2011,male,75.89
+1056,Costa Rica,2012,female,9.7
+1057,Costa Rica,2012,male,71.05999999999999
+1058,Costa Rica,2013,female,9.93
+1059,Costa Rica,2013,male,79.33
+1060,Costa Rica,2014,female,12.39
+1061,Costa Rica,2014,male,58.46
+1062,Croatia,1995,female,66.19
+1063,Croatia,1995,male,239.35
+1064,Croatia,1996,female,74.22
+1065,Croatia,1996,male,260.57
+1066,Croatia,1997,female,79.02999999999999
+1067,Croatia,1997,male,234.67
+1068,Croatia,1998,female,78.27
+1069,Croatia,1998,male,266.03000000000003
+1070,Croatia,1999,female,73.82999999999998
+1071,Croatia,1999,male,253.45000000000002
+1072,Croatia,2000,female,71.89
+1073,Croatia,2000,male,250.85999999999999
+1074,Croatia,2001,female,62.14
+1075,Croatia,2001,male,225.39999999999998
+1076,Croatia,2002,female,67.74
+1077,Croatia,2002,male,236.38
+1078,Croatia,2003,female,51.6
+1079,Croatia,2003,male,230.08999999999997
+1080,Croatia,2004,female,60.349999999999994
+1081,Croatia,2004,male,241.89000000000001
+1082,Croatia,2005,female,59.82
+1083,Croatia,2005,male,209.74999999999997
+1084,Croatia,2006,female,57.809999999999995
+1085,Croatia,2006,male,190.41
+1086,Croatia,2007,female,53.169999999999995
+1087,Croatia,2007,male,190.28
+1088,Croatia,2008,female,49.53
+1089,Croatia,2008,male,216.16
+1090,Croatia,2009,female,47.059999999999995
+1091,Croatia,2009,male,207.23
+1092,Croatia,2010,female,50.27
+1093,Croatia,2010,male,191.70000000000002
+1094,Croatia,2011,female,46.56999999999999
+1095,Croatia,2011,male,174.54
+1096,Croatia,2012,female,47.459999999999994
+1097,Croatia,2012,male,191.55
+1098,Croatia,2013,female,37.39
+1099,Croatia,2013,male,172.91
+1100,Croatia,2014,female,48.260000000000005
+1101,Croatia,2014,male,173.78
+1102,Croatia,2015,female,51.63
+1103,Croatia,2015,male,178.04999999999998
+1104,Croatia,2016,female,41.870000000000005
+1105,Croatia,2016,male,171.69
+1106,Cuba,1992,female,128.84
+1107,Cuba,1992,male,240.87
+1108,Cuba,1993,female,134.3
+1109,Cuba,1993,male,258.63
+1110,Cuba,1994,female,110.11000000000001
+1111,Cuba,1994,male,253.2
+1112,Cuba,1995,female,106.6
+1113,Cuba,1995,male,246.15999999999997
+1114,Cuba,1996,female,88.04
+1115,Cuba,1996,male,228.19
+1116,Cuba,1997,female,82.45
+1117,Cuba,1997,male,234.95000000000002
+1118,Cuba,1998,female,86.88
+1119,Cuba,1998,male,240.10000000000002
+1120,Cuba,1999,female,75.96
+1121,Cuba,1999,male,230.16
+1122,Cuba,2000,female,67.87
+1123,Cuba,2000,male,204.9
+1124,Cuba,2001,female,56.19
+1125,Cuba,2001,male,188.32000000000002
+1126,Cuba,2002,female,60.07000000000001
+1127,Cuba,2002,male,180.35000000000002
+1128,Cuba,2003,female,47.1
+1129,Cuba,2003,male,174.02
+1130,Cuba,2004,female,44.760000000000005
+1131,Cuba,2004,male,171.35999999999999
+1132,Cuba,2005,female,44.93
+1133,Cuba,2005,male,161.00999999999996
+1134,Cuba,2006,female,34.11
+1135,Cuba,2006,male,168.43999999999997
+1136,Cuba,2007,female,34.98
+1137,Cuba,2007,male,153.20000000000002
+1138,Cuba,2008,female,36.31
+1139,Cuba,2008,male,154.67999999999998
+1140,Cuba,2009,female,38.47999999999999
+1141,Cuba,2009,male,162.84999999999997
+1142,Cuba,2010,female,37.269999999999996
+1143,Cuba,2010,male,164.86
+1144,Cuba,2011,female,36.879999999999995
+1145,Cuba,2011,male,170.17000000000002
+1146,Cuba,2012,female,35.489999999999995
+1147,Cuba,2012,male,168.51
+1148,Cuba,2013,female,34.68
+1149,Cuba,2013,male,155.77999999999997
+1150,Cuba,2014,female,34.22
+1151,Cuba,2014,male,150.40999999999997
+1152,Cuba,2015,female,34.07
+1153,Cuba,2015,male,160.24
+1154,Cyprus,1999,female,0.0
+1155,Cyprus,1999,male,1.57
+1156,Cyprus,2000,female,0.0
+1157,Cyprus,2000,male,8.36
+1158,Cyprus,2004,female,2.81
+1159,Cyprus,2004,male,6.359999999999999
+1160,Cyprus,2005,female,7.140000000000001
+1161,Cyprus,2005,male,17.6
+1162,Cyprus,2006,female,8.87
+1163,Cyprus,2006,male,18.77
+1164,Cyprus,2007,female,5.68
+1165,Cyprus,2007,male,30.490000000000006
+1166,Cyprus,2008,female,11.95
+1167,Cyprus,2008,male,47.120000000000005
+1168,Cyprus,2009,female,10.35
+1169,Cyprus,2009,male,45.18
+1170,Cyprus,2010,female,9.27
+1171,Cyprus,2010,male,49.61
+1172,Cyprus,2011,female,7.550000000000001
+1173,Cyprus,2011,male,36.23
+1174,Cyprus,2012,female,2.13
+1175,Cyprus,2012,male,40.769999999999996
+1176,Cyprus,2013,female,4.34
+1177,Cyprus,2013,male,60.27000000000001
+1178,Cyprus,2014,female,17.16
+1179,Cyprus,2014,male,39.94
+1180,Cyprus,2015,female,10.48
+1181,Cyprus,2015,male,39.11
+1182,Cyprus,2016,female,5.06
+1183,Cyprus,2016,male,42.089999999999996
+1184,Czech Republic,1990,female,77.58
+1185,Czech Republic,1990,male,236.64
+1186,Czech Republic,1991,female,68.2
+1187,Czech Republic,1991,male,223.81000000000003
+1188,Czech Republic,1992,female,68.48
+1189,Czech Republic,1992,male,234.73000000000002
+1190,Czech Republic,1993,female,70.95000000000002
+1191,Czech Republic,1993,male,226.69
+1192,Czech Republic,1994,female,71.88999999999999
+1193,Czech Republic,1994,male,221.39
+1194,Czech Republic,1995,female,62.52
+1195,Czech Republic,1995,male,201.88
+1196,Czech Republic,1996,female,49.309999999999995
+1197,Czech Republic,1996,male,194.17
+1198,Czech Republic,1997,female,44.26999999999999
+1199,Czech Republic,1997,male,189.86
+1200,Czech Republic,1998,female,43.81
+1201,Czech Republic,1998,male,182.89000000000001
+1202,Czech Republic,1999,female,41.949999999999996
+1203,Czech Republic,1999,male,194.98000000000002
+1204,Czech Republic,2000,female,42.60000000000001
+1205,Czech Republic,2000,male,184.04000000000002
+1206,Czech Republic,2001,female,38.690000000000005
+1207,Czech Republic,2001,male,182.23000000000002
+1208,Czech Republic,2002,female,39.81
+1209,Czech Republic,2002,male,172.33999999999997
+1210,Czech Republic,2003,female,43.28
+1211,Czech Republic,2003,male,191.60000000000002
+1212,Czech Republic,2004,female,35.82
+1213,Czech Republic,2004,male,167.20000000000002
+1214,Czech Republic,2005,female,33.34
+1215,Czech Republic,2005,male,160.06
+1216,Czech Republic,2006,female,28.040000000000003
+1217,Czech Republic,2006,male,150.36
+1218,Czech Republic,2007,female,27.07
+1219,Czech Republic,2007,male,143.71000000000004
+1220,Czech Republic,2008,female,27.44
+1221,Czech Republic,2008,male,147.57
+1222,Czech Republic,2009,female,25.89
+1223,Czech Republic,2009,male,153.81999999999996
+1224,Czech Republic,2010,female,27.759999999999998
+1225,Czech Republic,2010,male,147.86
+1226,Czech Republic,2011,female,28.009999999999998
+1227,Czech Republic,2011,male,158.23
+1228,Czech Republic,2012,female,29.05
+1229,Czech Republic,2012,male,167.18
+1230,Czech Republic,2013,female,29.13
+1231,Czech Republic,2013,male,156.94
+1232,Czech Republic,2014,female,31.65
+1233,Czech Republic,2014,male,143.64
+1234,Czech Republic,2015,female,28.339999999999996
+1235,Czech Republic,2015,male,142.52999999999997
+1236,Czech Republic,2016,female,26.72
+1237,Czech Republic,2016,male,135.04
+1238,Denmark,1994,female,75.42
+1239,Denmark,1994,male,177.8
+1240,Denmark,1995,female,69.02
+1241,Denmark,1995,male,170.11
+1242,Denmark,1996,female,57.13000000000001
+1243,Denmark,1996,male,172.42999999999998
+1244,Denmark,1997,female,58.919999999999995
+1245,Denmark,1997,male,159.54000000000002
+1246,Denmark,1998,female,47.879999999999995
+1247,Denmark,1998,male,140.8
+1248,Denmark,1999,female,42.00000000000001
+1249,Denmark,1999,male,141.09000000000003
+1250,Denmark,2000,female,44.6
+1251,Denmark,2000,male,136.47
+1252,Denmark,2001,female,49.629999999999995
+1253,Denmark,2001,male,136.54000000000002
+1254,Denmark,2002,female,42.13999999999999
+1255,Denmark,2002,male,134.37
+1256,Denmark,2003,female,34.160000000000004
+1257,Denmark,2003,male,122.54
+1258,Denmark,2004,female,40.00000000000001
+1259,Denmark,2004,male,121.78
+1260,Denmark,2005,female,39.2
+1261,Denmark,2005,male,125.02999999999999
+1262,Denmark,2006,female,37.47
+1263,Denmark,2006,male,124.61
+1264,Denmark,2007,female,38.6
+1265,Denmark,2007,male,101.35999999999999
+1266,Denmark,2008,female,37.34
+1267,Denmark,2008,male,105.71000000000001
+1268,Denmark,2009,female,32.88999999999999
+1269,Denmark,2009,male,111.81
+1270,Denmark,2010,female,31.200000000000003
+1271,Denmark,2010,male,98.82
+1272,Denmark,2011,female,31.470000000000002
+1273,Denmark,2011,male,94.86
+1274,Denmark,2012,female,31.979999999999997
+1275,Denmark,2012,male,111.22999999999999
+1276,Denmark,2013,female,33.800000000000004
+1277,Denmark,2013,male,100.75
+1278,Denmark,2014,female,34.02
+1279,Denmark,2014,male,103.71000000000001
+1280,Denmark,2015,female,36.32
+1281,Denmark,2015,male,85.1
+1282,Dominica,1985,female,0.0
+1283,Dominica,1985,male,0.0
+1284,Ecuador,1985,female,19.51
+1285,Ecuador,1985,male,63.01
+1286,Ecuador,1986,female,24.87
+1287,Ecuador,1986,male,51.67
+1288,Ecuador,1987,female,16.939999999999998
+1289,Ecuador,1987,male,45.589999999999996
+1290,Ecuador,1988,female,19.509999999999998
+1291,Ecuador,1988,male,55.779999999999994
+1292,Ecuador,1989,female,21.990000000000002
+1293,Ecuador,1989,male,48.39000000000001
+1294,Ecuador,1990,female,18.95
+1295,Ecuador,1990,male,41.529999999999994
+1296,Ecuador,1991,female,21.589999999999996
+1297,Ecuador,1991,male,45.370000000000005
+1298,Ecuador,1992,female,20.71
+1299,Ecuador,1992,male,55.09
+1300,Ecuador,1993,female,24.59
+1301,Ecuador,1993,male,46.32000000000001
+1302,Ecuador,1994,female,17.660000000000004
+1303,Ecuador,1994,male,50.010000000000005
+1304,Ecuador,1995,female,18.72
+1305,Ecuador,1995,male,49.5
+1306,Ecuador,1996,female,20.81
+1307,Ecuador,1996,male,55.53
+1308,Ecuador,1997,female,18.16
+1309,Ecuador,1997,male,48.86
+1310,Ecuador,1998,female,17.630000000000003
+1311,Ecuador,1998,male,44.44
+1312,Ecuador,1999,female,18.22
+1313,Ecuador,1999,male,53.71
+1314,Ecuador,2000,female,15.61
+1315,Ecuador,2000,male,41.56
+1316,Ecuador,2001,female,17.62
+1317,Ecuador,2001,male,49.620000000000005
+1318,Ecuador,2002,female,15.81
+1319,Ecuador,2002,male,45.61
+1320,Ecuador,2003,female,21.439999999999998
+1321,Ecuador,2003,male,49.120000000000005
+1322,Ecuador,2004,female,22.130000000000003
+1323,Ecuador,2004,male,62.260000000000005
+1324,Ecuador,2005,female,22.200000000000003
+1325,Ecuador,2005,male,74.53
+1326,Ecuador,2006,female,25.990000000000002
+1327,Ecuador,2006,male,67.08
+1328,Ecuador,2007,female,22.959999999999997
+1329,Ecuador,2007,male,73.01
+1330,Ecuador,2008,female,20.819999999999997
+1331,Ecuador,2008,male,74.47
+1332,Ecuador,2009,female,23.05
+1333,Ecuador,2009,male,71.2
+1334,Ecuador,2010,female,22.1
+1335,Ecuador,2010,male,59.39
+1336,Ecuador,2011,female,20.979999999999997
+1337,Ecuador,2011,male,60.81999999999999
+1338,Ecuador,2012,female,20.810000000000002
+1339,Ecuador,2012,male,64.07
+1340,Ecuador,2013,female,14.49
+1341,Ecuador,2013,male,48.39
+1342,Ecuador,2014,female,12.559999999999997
+1343,Ecuador,2014,male,53.46
+1344,Ecuador,2015,female,20.63
+1345,Ecuador,2015,male,76.76
+1346,El Salvador,1990,female,44.910000000000004
+1347,El Salvador,1990,male,139.55
+1348,El Salvador,1991,female,33.45
+1349,El Salvador,1991,male,137.85
+1350,El Salvador,1992,female,33.910000000000004
+1351,El Salvador,1992,male,86.71
+1352,El Salvador,1993,female,38.239999999999995
+1353,El Salvador,1993,male,85.44999999999999
+1354,El Salvador,1995,female,41.18000000000001
+1355,El Salvador,1995,male,118.01
+1356,El Salvador,1996,female,32.339999999999996
+1357,El Salvador,1996,male,112.82000000000002
+1358,El Salvador,1997,female,40.8
+1359,El Salvador,1997,male,99.20000000000002
+1360,El Salvador,1998,female,31.69
+1361,El Salvador,1998,male,91.13999999999999
+1362,El Salvador,1999,female,32.879999999999995
+1363,El Salvador,1999,male,95.08
+1364,El Salvador,2000,female,32.16
+1365,El Salvador,2000,male,78.39
+1366,El Salvador,2001,female,32.1
+1367,El Salvador,2001,male,97.61
+1368,El Salvador,2002,female,24.389999999999997
+1369,El Salvador,2002,male,88.8
+1370,El Salvador,2003,female,26.59
+1371,El Salvador,2003,male,102.33
+1372,El Salvador,2004,female,21.959999999999997
+1373,El Salvador,2004,male,89.6
+1374,El Salvador,2005,female,25.539999999999996
+1375,El Salvador,2005,male,90.19000000000001
+1376,El Salvador,2006,female,22.149999999999995
+1377,El Salvador,2006,male,77.42000000000002
+1378,El Salvador,2007,female,22.189999999999998
+1379,El Salvador,2007,male,104.95
+1380,El Salvador,2008,female,20.779999999999998
+1381,El Salvador,2008,male,105.03999999999999
+1382,El Salvador,2009,female,21.82
+1383,El Salvador,2009,male,102.3
+1384,El Salvador,2010,female,17.73
+1385,El Salvador,2010,male,80.19000000000001
+1386,El Salvador,2011,female,22.23
+1387,El Salvador,2011,male,93.22999999999999
+1388,El Salvador,2012,female,20.98
+1389,El Salvador,2012,male,102.16
+1390,El Salvador,2013,female,16.509999999999998
+1391,El Salvador,2013,male,99.54999999999998
+1392,El Salvador,2014,female,24.61
+1393,El Salvador,2014,male,77.22999999999999
+1394,Estonia,1995,female,101.78999999999999
+1395,Estonia,1995,male,441.3999999999999
+1396,Estonia,1996,female,100.35000000000001
+1397,Estonia,1996,male,428.37
+1398,Estonia,1997,female,76.28
+1399,Estonia,1997,male,425.78
+1400,Estonia,1998,female,67.19
+1401,Estonia,1998,male,360.33000000000004
+1402,Estonia,1999,female,83.19
+1403,Estonia,1999,male,403.28
+1404,Estonia,2000,female,68.88
+1405,Estonia,2000,male,295.76
+1406,Estonia,2001,female,82.85999999999999
+1407,Estonia,2001,male,288.82000000000005
+1408,Estonia,2002,female,59.480000000000004
+1409,Estonia,2002,male,298.81999999999994
+1410,Estonia,2003,female,58.500000000000014
+1411,Estonia,2003,male,279.74
+1412,Estonia,2004,female,50.74999999999999
+1413,Estonia,2004,male,248.70999999999998
+1414,Estonia,2005,female,47.290000000000006
+1415,Estonia,2005,male,209.14
+1416,Estonia,2006,female,51.61
+1417,Estonia,2006,male,191.01999999999998
+1418,Estonia,2007,female,39.24
+1419,Estonia,2007,male,225.81
+1420,Estonia,2008,female,44.980000000000004
+1421,Estonia,2008,male,199.59
+1422,Estonia,2009,female,42.61000000000001
+1423,Estonia,2009,male,206.05999999999997
+1424,Estonia,2010,female,36.57999999999999
+1425,Estonia,2010,male,192.49
+1426,Estonia,2011,female,33.52
+1427,Estonia,2011,male,195.74
+1428,Estonia,2012,female,41.919999999999995
+1429,Estonia,2012,male,199.68999999999997
+1430,Estonia,2013,female,40.809999999999995
+1431,Estonia,2013,male,191.11
+1432,Estonia,2014,female,40.13000000000001
+1433,Estonia,2014,male,218.78
+1434,Estonia,2015,female,28.64
+1435,Estonia,2015,male,176.73999999999998
+1436,Fiji,2001,female,12.59
+1437,Fiji,2001,male,42.36
+1438,Fiji,2002,female,42.22
+1439,Fiji,2002,male,68.32
+1440,Fiji,2003,female,5.6899999999999995
+1441,Fiji,2003,male,10.43
+1442,Fiji,2004,female,11.75
+1443,Fiji,2004,male,78.74000000000001
+1444,Fiji,2005,female,8.53
+1445,Fiji,2005,male,44.3
+1446,Fiji,2006,female,12.66
+1447,Fiji,2006,male,18.109999999999996
+1448,Fiji,2007,female,4.42
+1449,Fiji,2007,male,16.04
+1450,Fiji,2008,female,15.54
+1451,Fiji,2008,male,31.939999999999998
+1452,Fiji,2009,female,26.47
+1453,Fiji,2009,male,25.200000000000003
+1454,Fiji,2011,female,11.469999999999999
+1455,Fiji,2011,male,95.49999999999999
+1456,Fiji,2012,female,27.67
+1457,Fiji,2012,male,63.910000000000004
+1458,Finland,1987,female,60.86
+1459,Finland,1987,male,286.49
+1460,Finland,1988,female,65.78999999999999
+1461,Finland,1988,male,288.25
+1462,Finland,1989,female,63.49000000000001
+1463,Finland,1989,male,309.87
+1464,Finland,1990,female,69.94
+1465,Finland,1990,male,326.28
+1466,Finland,1991,female,65.33
+1467,Finland,1991,male,312.24999999999994
+1468,Finland,1992,female,62.660000000000004
+1469,Finland,1992,male,287.21000000000004
+1470,Finland,1993,female,57.68
+1471,Finland,1993,male,275.32
+1472,Finland,1994,female,62.23
+1473,Finland,1994,male,268.01
+1474,Finland,1995,female,64.47
+1475,Finland,1995,male,260.48999999999995
+1476,Finland,1996,female,58.11
+1477,Finland,1996,male,231.54
+1478,Finland,1997,female,58.71
+1479,Finland,1997,male,251.64000000000001
+1480,Finland,1998,female,56.71
+1481,Finland,1998,male,244.72
+1482,Finland,1999,female,50.14
+1483,Finland,1999,male,232.96999999999997
+1484,Finland,2000,female,60.190000000000005
+1485,Finland,2000,male,205.45999999999998
+1486,Finland,2001,female,54.1
+1487,Finland,2001,male,213.09000000000003
+1488,Finland,2002,female,53.86000000000001
+1489,Finland,2002,male,201.66
+1490,Finland,2003,female,53.36
+1491,Finland,2003,male,190.09
+1492,Finland,2004,female,52.25
+1493,Finland,2004,male,191.70000000000002
+1494,Finland,2005,female,55.989999999999995
+1495,Finland,2005,male,174.52999999999997
+1496,Finland,2006,female,52.77
+1497,Finland,2006,male,181.02999999999997
+1498,Finland,2007,female,49.07
+1499,Finland,2007,male,174.01000000000002
+1500,Finland,2008,female,46.76
+1501,Finland,2008,male,173.53
+1502,Finland,2009,female,55.48
+1503,Finland,2009,male,173.00999999999996
+1504,Finland,2010,female,50.1
+1505,Finland,2010,male,165.11
+1506,Finland,2011,female,39.8
+1507,Finland,2011,male,163.80999999999997
+1508,Finland,2012,female,42.540000000000006
+1509,Finland,2012,male,144.47
+1510,Finland,2013,female,45.510000000000005
+1511,Finland,2013,male,151.32
+1512,Finland,2014,female,39.13
+1513,Finland,2014,male,138.03000000000003
+1514,Finland,2015,female,35.550000000000004
+1515,Finland,2015,male,125.63999999999999
+1516,France,1985,female,82.14
+1517,France,1985,male,266.76
+1518,France,1986,female,84.13
+1519,France,1986,male,267.64
+1520,France,1987,female,80.60000000000001
+1521,France,1987,male,250.42999999999998
+1522,France,1988,female,74.13000000000001
+1523,France,1988,male,238.59000000000003
+1524,France,1989,female,74.29
+1525,France,1989,male,238.23999999999998
+1526,France,1990,female,71.17999999999999
+1527,France,1990,male,231.55
+1528,France,1991,female,71.26
+1529,France,1991,male,226.84
+1530,France,1992,female,68.92999999999999
+1531,France,1992,male,232.54
+1532,France,1993,female,72.72
+1533,France,1993,male,239.96999999999997
+1534,France,1994,female,66.3
+1535,France,1994,male,233.65
+1536,France,1995,female,66.24
+1537,France,1995,male,226.38
+1538,France,1996,female,62.93000000000001
+1539,France,1996,male,208.28999999999996
+1540,France,1997,female,60.87
+1541,France,1997,male,205.45999999999998
+1542,France,1998,female,55.56
+1543,France,1998,male,198.09
+1544,France,1999,female,56.21999999999999
+1545,France,1999,male,189.61
+1546,France,2000,female,56.29
+1547,France,2000,male,200.94
+1548,France,2001,female,53.63
+1549,France,2001,male,186.30999999999997
+1550,France,2002,female,54.91
+1551,France,2002,male,183.73000000000002
+1552,France,2003,female,52.72
+1553,France,2003,male,188.59
+1554,France,2004,female,53.36
+1555,France,2004,male,179.15
+1556,France,2005,female,52.09
+1557,France,2005,male,180.0
+1558,France,2006,female,50.03
+1559,France,2006,male,170.59999999999997
+1560,France,2007,female,47.29
+1561,France,2007,male,166.4
+1562,France,2008,female,47.18999999999999
+1563,France,2008,male,169.01999999999998
+1564,France,2009,female,47.35
+1565,France,2009,male,168.89000000000001
+1566,France,2010,female,46.540000000000006
+1567,France,2010,male,164.63000000000002
+1568,France,2011,female,44.470000000000006
+1569,France,2011,male,166.71000000000004
+1570,France,2012,female,41.6
+1571,France,2012,male,157.38
+1572,France,2013,female,40.330000000000005
+1573,France,2013,male,152.0
+1574,France,2014,female,37.82
+1575,France,2014,male,141.74
+1576,Georgia,1990,female,14.370000000000001
+1577,Georgia,1990,male,50.06
+1578,Georgia,1991,female,13.600000000000001
+1579,Georgia,1991,male,39.449999999999996
+1580,Georgia,1992,female,13.4
+1581,Georgia,1992,male,47.07999999999999
+1582,Georgia,1994,female,10.559999999999999
+1583,Georgia,1994,male,26.740000000000002
+1584,Georgia,1995,female,8.39
+1585,Georgia,1995,male,32.349999999999994
+1586,Georgia,1996,female,15.040000000000001
+1587,Georgia,1996,male,44.66000000000001
+1588,Georgia,1997,female,11.25
+1589,Georgia,1997,male,49.400000000000006
+1590,Georgia,1998,female,9.479999999999999
+1591,Georgia,1998,male,39.82
+1592,Georgia,1999,female,13.400000000000002
+1593,Georgia,1999,male,55.17999999999999
+1594,Georgia,2000,female,9.270000000000001
+1595,Georgia,2000,male,37.370000000000005
+1596,Georgia,2001,female,9.870000000000001
+1597,Georgia,2001,male,25.32
+1598,Georgia,2004,female,8.27
+1599,Georgia,2004,male,58.27
+1600,Georgia,2005,female,5.619999999999999
+1601,Georgia,2005,male,22.739999999999995
+1602,Georgia,2006,female,4.15
+1603,Georgia,2006,male,19.36
+1604,Georgia,2007,female,6.11
+1605,Georgia,2007,male,30.48
+1606,Georgia,2009,female,12.32
+1607,Georgia,2009,male,52.739999999999995
+1608,Georgia,2010,female,4.81
+1609,Georgia,2010,male,29.52
+1610,Georgia,2011,female,3.6399999999999997
+1611,Georgia,2011,male,32.67
+1612,Georgia,2012,female,3.8100000000000005
+1613,Georgia,2012,male,31.07
+1614,Georgia,2013,female,6.14
+1615,Georgia,2013,male,49.42999999999999
+1616,Georgia,2014,female,11.49
+1617,Georgia,2014,male,62.99999999999999
+1618,Georgia,2015,female,19.380000000000003
+1619,Georgia,2015,male,65.30000000000001
+1620,Germany,1990,female,68.0
+1621,Germany,1990,male,191.45
+1622,Germany,1991,female,66.79
+1623,Germany,1991,male,191.32
+1624,Germany,1992,female,63.949999999999996
+1625,Germany,1992,male,186.09
+1626,Germany,1993,female,56.419999999999995
+1627,Germany,1993,male,179.08
+1628,Germany,1994,female,54.019999999999996
+1629,Germany,1994,male,176.77
+1630,Germany,1995,female,55.410000000000004
+1631,Germany,1995,male,178.17
+1632,Germany,1996,female,51.28
+1633,Germany,1996,male,165.14
+1634,Germany,1997,female,49.97
+1635,Germany,1997,male,160.98999999999998
+1636,Germany,1998,female,44.589999999999996
+1637,Germany,1998,male,155.92000000000002
+1638,Germany,1999,female,44.480000000000004
+1639,Germany,1999,male,144.76000000000002
+1640,Germany,2000,female,41.98
+1641,Germany,2000,male,143.57000000000002
+1642,Germany,2001,female,42.63999999999999
+1643,Germany,2001,male,143.14
+1644,Germany,2002,female,43.480000000000004
+1645,Germany,2002,male,140.48000000000002
+1646,Germany,2003,female,42.620000000000005
+1647,Germany,2003,male,138.62
+1648,Germany,2004,female,39.629999999999995
+1649,Germany,2004,male,132.6
+1650,Germany,2005,female,37.55
+1651,Germany,2005,male,123.94
+1652,Germany,2006,female,34.51
+1653,Germany,2006,male,118.01
+1654,Germany,2007,female,32.79
+1655,Germany,2007,male,113.73
+1656,Germany,2008,female,33.129999999999995
+1657,Germany,2008,male,112.39000000000001
+1658,Germany,2009,female,31.55
+1659,Germany,2009,male,113.97000000000001
+1660,Germany,2010,female,34.39999999999999
+1661,Germany,2010,male,117.77
+1662,Germany,2011,female,34.08
+1663,Germany,2011,male,118.74
+1664,Germany,2012,female,34.51
+1665,Germany,2012,male,113.79999999999998
+1666,Germany,2013,female,35.2
+1667,Germany,2013,male,117.87999999999998
+1668,Germany,2014,female,34.169999999999995
+1669,Germany,2014,male,118.87
+1670,Germany,2015,female,35.23
+1671,Germany,2015,male,115.11000000000001
+1672,Greece,1985,female,16.51
+1673,Greece,1985,male,41.66
+1674,Greece,1986,female,13.8
+1675,Greece,1986,male,47.41
+1676,Greece,1987,female,14.27
+1677,Greece,1987,male,48.79
+1678,Greece,1988,female,15.420000000000002
+1679,Greece,1988,male,44.7
+1680,Greece,1989,female,13.209999999999999
+1681,Greece,1989,male,41.32
+1682,Greece,1990,female,9.389999999999999
+1683,Greece,1990,male,42.099999999999994
+1684,Greece,1991,female,10.73
+1685,Greece,1991,male,43.83999999999999
+1686,Greece,1992,female,9.03
+1687,Greece,1992,male,39.900000000000006
+1688,Greece,1993,female,12.840000000000002
+1689,Greece,1993,male,40.260000000000005
+1690,Greece,1994,female,8.71
+1691,Greece,1994,male,38.129999999999995
+1692,Greece,1995,female,7.11
+1693,Greece,1995,male,42.57
+1694,Greece,1996,female,8.379999999999999
+1695,Greece,1996,male,36.75000000000001
+1696,Greece,1997,female,6.68
+1697,Greece,1997,male,40.980000000000004
+1698,Greece,1998,female,8.52
+1699,Greece,1998,male,39.75
+1700,Greece,1999,female,9.379999999999999
+1701,Greece,1999,male,36.36
+1702,Greece,2000,female,9.65
+1703,Greece,2000,male,35.21
+1704,Greece,2001,female,5.709999999999999
+1705,Greece,2001,male,33.1
+1706,Greece,2002,female,7.43
+1707,Greece,2002,male,30.92
+1708,Greece,2003,female,6.9799999999999995
+1709,Greece,2003,male,33.69
+1710,Greece,2004,female,6.03
+1711,Greece,2004,male,34.89
+1712,Greece,2005,female,8.47
+1713,Greece,2005,male,38.059999999999995
+1714,Greece,2006,female,6.950000000000001
+1715,Greece,2006,male,38.46
+1716,Greece,2007,female,6.550000000000001
+1717,Greece,2007,male,27.36
+1718,Greece,2008,female,5.66
+1719,Greece,2008,male,34.64
+1720,Greece,2009,female,5.72
+1721,Greece,2009,male,35.25
+1722,Greece,2010,female,4.1499999999999995
+1723,Greece,2010,male,35.75
+1724,Greece,2011,female,9.030000000000001
+1725,Greece,2011,male,39.64999999999999
+1726,Greece,2012,female,9.339999999999998
+1727,Greece,2012,male,43.98
+1728,Greece,2013,female,10.47
+1729,Greece,2013,male,44.64
+1730,Greece,2014,female,11.209999999999999
+1731,Greece,2014,male,48.61000000000001
+1732,Greece,2015,female,10.080000000000002
+1733,Greece,2015,male,45.98
+1734,Grenada,1985,female,0.0
+1735,Grenada,1985,male,25.08
+1736,Grenada,1988,female,8.55
+1737,Grenada,1988,male,38.25
+1738,Grenada,1989,female,0.0
+1739,Grenada,1989,male,65.09
+1740,Grenada,1990,female,0.0
+1741,Grenada,1990,male,24.75
+1742,Grenada,1991,female,0.0
+1743,Grenada,1991,male,0.0
+1744,Grenada,1992,female,0.0
+1745,Grenada,1992,male,0.0
+1746,Grenada,1993,female,0.0
+1747,Grenada,1993,male,34.21
+1748,Grenada,1994,female,0.0
+1749,Grenada,1994,male,60.82
+1750,Grenada,1995,female,51.95
+1751,Grenada,1995,male,0.0
+1752,Grenada,1996,female,0.0
+1753,Grenada,1996,male,11.96
+1754,Grenada,2001,female,0.0
+1755,Grenada,2001,male,0.0
+1756,Grenada,2002,female,0.0
+1757,Grenada,2002,male,0.0
+1758,Grenada,2003,female,0.0
+1759,Grenada,2003,male,69.18
+1760,Grenada,2004,female,0.0
+1761,Grenada,2004,male,13.37
+1762,Grenada,2005,female,14.02
+1763,Grenada,2005,male,146.8
+1764,Grenada,2006,female,0.0
+1765,Grenada,2006,male,9.89
+1766,Grenada,2007,female,12.99
+1767,Grenada,2007,male,35.35
+1768,Grenada,2008,female,0.0
+1769,Grenada,2008,male,0.0
+1770,Grenada,2009,female,0.0
+1771,Grenada,2009,male,0.0
+1772,Grenada,2010,female,0.0
+1773,Grenada,2010,male,0.0
+1774,Grenada,2011,female,0.0
+1775,Grenada,2011,male,20.73
+1776,Grenada,2012,female,0.0
+1777,Grenada,2012,male,18.009999999999998
+1778,Grenada,2013,female,0.0
+1779,Grenada,2013,male,0.0
+1780,Grenada,2014,female,0.0
+1781,Grenada,2014,male,0.0
+1782,Grenada,2015,female,0.0
+1783,Grenada,2015,male,0.0
+1784,Grenada,2016,female,0.0
+1785,Grenada,2016,male,0.0
+1786,Guatemala,1986,female,5.199999999999999
+1787,Guatemala,1986,male,37.63999999999999
+1788,Guatemala,1987,female,13.12
+1789,Guatemala,1987,male,44.8
+1790,Guatemala,1988,female,4.43
+1791,Guatemala,1988,male,42.809999999999995
+1792,Guatemala,1989,female,4.22
+1793,Guatemala,1989,male,31.009999999999998
+1794,Guatemala,1990,female,3.7199999999999998
+1795,Guatemala,1990,male,30.35
+1796,Guatemala,1991,female,4.76
+1797,Guatemala,1991,male,28.759999999999998
+1798,Guatemala,1992,female,7.159999999999999
+1799,Guatemala,1992,male,31.09
+1800,Guatemala,1993,female,4.1499999999999995
+1801,Guatemala,1993,male,27.020000000000003
+1802,Guatemala,1994,female,2.6999999999999997
+1803,Guatemala,1994,male,23.2
+1804,Guatemala,1995,female,7.130000000000001
+1805,Guatemala,1995,male,27.0
+1806,Guatemala,1996,female,3.89
+1807,Guatemala,1996,male,26.16
+1808,Guatemala,1997,female,4.82
+1809,Guatemala,1997,male,21.69
+1810,Guatemala,1998,female,7.17
+1811,Guatemala,1998,male,29.89
+1812,Guatemala,1999,female,4.359999999999999
+1813,Guatemala,1999,male,32.14
+1814,Guatemala,2000,female,4.08
+1815,Guatemala,2000,male,23.339999999999996
+1816,Guatemala,2001,female,5.09
+1817,Guatemala,2001,male,25.5
+1818,Guatemala,2002,female,11.05
+1819,Guatemala,2002,male,29.479999999999997
+1820,Guatemala,2003,female,5.0600000000000005
+1821,Guatemala,2003,male,32.28
+1822,Guatemala,2004,female,5.989999999999999
+1823,Guatemala,2004,male,23.939999999999998
+1824,Guatemala,2005,female,4.96
+1825,Guatemala,2005,male,27.65
+1826,Guatemala,2006,female,7.78
+1827,Guatemala,2006,male,34.169999999999995
+1828,Guatemala,2007,female,5.96
+1829,Guatemala,2007,male,34.31
+1830,Guatemala,2008,female,9.159999999999998
+1831,Guatemala,2008,male,45.6
+1832,Guatemala,2009,female,11.189999999999998
+1833,Guatemala,2009,male,46.379999999999995
+1834,Guatemala,2010,female,6.2
+1835,Guatemala,2010,male,29.229999999999997
+1836,Guatemala,2011,female,8.54
+1837,Guatemala,2011,male,26.15
+1838,Guatemala,2012,female,8.450000000000001
+1839,Guatemala,2012,male,33.35
+1840,Guatemala,2013,female,8.39
+1841,Guatemala,2013,male,32.3
+1842,Guatemala,2014,female,10.74
+1843,Guatemala,2014,male,35.14
+1844,Guatemala,2015,female,11.0
+1845,Guatemala,2015,male,33.849999999999994
+1846,Guyana,1988,female,20.28
+1847,Guyana,1988,male,71.64
+1848,Guyana,1989,female,41.54
+1849,Guyana,1989,male,143.34
+1850,Guyana,1990,female,40.79
+1851,Guyana,1990,male,136.27
+1852,Guyana,1991,female,42.51
+1853,Guyana,1991,male,190.33
+1854,Guyana,1992,female,44.63000000000001
+1855,Guyana,1992,male,137.52
+1856,Guyana,1993,female,22.8
+1857,Guyana,1993,male,94.01
+1858,Guyana,1994,female,43.08
+1859,Guyana,1994,male,119.12
+1860,Guyana,1995,female,31.93
+1861,Guyana,1995,male,176.79000000000002
+1862,Guyana,1996,female,18.78
+1863,Guyana,1996,male,109.53
+1864,Guyana,1997,female,22.16
+1865,Guyana,1997,male,60.489999999999995
+1866,Guyana,1998,female,5.0200000000000005
+1867,Guyana,1998,male,59.839999999999996
+1868,Guyana,1999,female,80.55000000000001
+1869,Guyana,1999,male,233.07000000000002
+1870,Guyana,2001,female,68.47
+1871,Guyana,2001,male,312.28999999999996
+1872,Guyana,2002,female,53.73
+1873,Guyana,2002,male,258.2
+1874,Guyana,2003,female,86.04
+1875,Guyana,2003,male,296.5
+1876,Guyana,2004,female,90.84
+1877,Guyana,2004,male,309.16
+1878,Guyana,2005,female,66.06
+1879,Guyana,2005,male,267.90000000000003
+1880,Guyana,2006,female,78.98
+1881,Guyana,2006,male,315.62000000000006
+1882,Guyana,2007,female,97.63
+1883,Guyana,2007,male,276.11999999999995
+1884,Guyana,2008,female,87.04
+1885,Guyana,2008,male,266.58
+1886,Guyana,2009,female,85.13000000000001
+1887,Guyana,2009,male,216.65
+1888,Guyana,2010,female,76.38
+1889,Guyana,2010,male,326.69
+1890,Guyana,2011,female,70.86
+1891,Guyana,2011,male,278.66999999999996
+1892,Guyana,2012,female,75.58
+1893,Guyana,2012,male,292.40000000000003
+1894,Guyana,2013,female,70.35000000000001
+1895,Guyana,2013,male,286.03000000000003
+1896,Hungary,1991,female,147.35
+1897,Hungary,1991,male,427.65000000000003
+1898,Hungary,1992,female,134.15
+1899,Hungary,1992,male,436.10999999999996
+1900,Hungary,1993,female,125.70000000000002
+1901,Hungary,1993,male,413.58
+1902,Hungary,1994,female,122.92000000000002
+1903,Hungary,1994,male,412.89
+1904,Hungary,1995,female,116.92999999999999
+1905,Hungary,1995,male,376.49000000000007
+1906,Hungary,1996,female,120.89999999999999
+1907,Hungary,1996,male,361.84000000000003
+1908,Hungary,1997,female,106.41
+1909,Hungary,1997,male,364.03
+1910,Hungary,1998,female,98.25
+1911,Hungary,1998,male,338.53
+1912,Hungary,1999,female,100.13
+1913,Hungary,1999,male,383.74999999999994
+1914,Hungary,2000,female,103.92
+1915,Hungary,2000,male,360.64000000000004
+1916,Hungary,2001,female,82.69
+1917,Hungary,2001,male,326.29
+1918,Hungary,2002,female,76.39
+1919,Hungary,2002,male,306.35999999999996
+1920,Hungary,2003,female,76.26
+1921,Hungary,2003,male,295.78
+1922,Hungary,2004,female,75.04000000000002
+1923,Hungary,2004,male,294.43
+1924,Hungary,2005,female,65.42
+1925,Hungary,2005,male,286.59
+1926,Hungary,2006,female,65.5
+1927,Hungary,2006,male,247.16
+1928,Hungary,2007,female,63.54
+1929,Hungary,2007,male,263.78000000000003
+1930,Hungary,2008,female,63.07
+1931,Hungary,2008,male,268.60999999999996
+1932,Hungary,2009,female,58.220000000000006
+1933,Hungary,2009,male,252.50000000000003
+1934,Hungary,2010,female,58.769999999999996
+1935,Hungary,2010,male,262.53999999999996
+1936,Hungary,2011,female,61.10000000000001
+1937,Hungary,2011,male,238.74999999999997
+1938,Hungary,2012,female,59.31
+1939,Hungary,2012,male,246.65000000000003
+1940,Hungary,2013,female,53.94
+1941,Hungary,2013,male,212.29000000000002
+1942,Hungary,2014,female,45.25
+1943,Hungary,2014,male,199.06
+1944,Hungary,2015,female,53.88
+1945,Hungary,2015,male,203.39
+1946,Hungary,2016,female,51.03
+1947,Hungary,2016,male,190.31
+1948,Iceland,1985,female,34.86
+1949,Iceland,1985,male,136.19
+1950,Iceland,1986,female,81.48
+1951,Iceland,1986,male,133.62
+1952,Iceland,1987,female,72.92999999999999
+1953,Iceland,1987,male,137.01000000000002
+1954,Iceland,1988,female,32.86
+1955,Iceland,1988,male,135.12
+1956,Iceland,1989,female,41.33
+1957,Iceland,1989,male,68.79
+1958,Iceland,1990,female,20.060000000000002
+1959,Iceland,1990,male,160.25
+1960,Iceland,1991,female,35.660000000000004
+1961,Iceland,1991,male,164.07
+1962,Iceland,1992,female,21.759999999999998
+1963,Iceland,1992,male,101.13000000000001
+1964,Iceland,1993,female,27.949999999999996
+1965,Iceland,1993,male,81.07
+1966,Iceland,1994,female,37.49
+1967,Iceland,1994,male,87.95000000000002
+1968,Iceland,1995,female,31.130000000000003
+1969,Iceland,1995,male,98.53
+1970,Iceland,1996,female,28.97
+1971,Iceland,1996,male,148.38
+1972,Iceland,1997,female,28.19
+1973,Iceland,1997,male,135.83
+1974,Iceland,1998,female,35.400000000000006
+1975,Iceland,1998,male,105.68999999999998
+1976,Iceland,1999,female,31.959999999999997
+1977,Iceland,1999,male,96.95999999999998
+1978,Iceland,2000,female,29.83
+1979,Iceland,2000,male,178.16
+1980,Iceland,2001,female,27.380000000000003
+1981,Iceland,2001,male,135.68
+1982,Iceland,2002,female,45.32
+1983,Iceland,2002,male,85.91999999999999
+1984,Iceland,2003,female,25.58
+1985,Iceland,2003,male,75.39
+1986,Iceland,2004,female,38.07
+1987,Iceland,2004,male,130.74
+1988,Iceland,2005,female,27.740000000000002
+1989,Iceland,2005,male,87.25999999999999
+1990,Iceland,2006,female,31.88
+1991,Iceland,2006,male,74.51
+1992,Iceland,2007,female,34.0
+1993,Iceland,2007,male,129.29000000000002
+1994,Iceland,2008,female,37.980000000000004
+1995,Iceland,2008,male,98.11000000000001
+1996,Iceland,2009,female,17.88
+1997,Iceland,2009,male,105.85000000000001
+1998,Iceland,2010,female,31.71
+1999,Iceland,2010,male,152.56
+2000,Iceland,2011,female,18.380000000000003
+2001,Iceland,2011,male,74.57
+2002,Iceland,2012,female,38.67
+2003,Iceland,2012,male,106.74000000000001
+2004,Iceland,2013,female,62.589999999999996
+2005,Iceland,2013,male,158.65
+2006,Iceland,2014,female,42.410000000000004
+2007,Iceland,2014,male,155.54999999999998
+2008,Iceland,2015,female,45.69
+2009,Iceland,2015,male,94.96000000000001
+2010,Iceland,2016,female,14.68
+2011,Iceland,2016,male,123.39000000000001
+2012,Ireland,1985,female,21.04
+2013,Ireland,1985,male,81.12
+2014,Ireland,1986,female,23.199999999999996
+2015,Ireland,1986,male,81.68
+2016,Ireland,1987,female,24.46
+2017,Ireland,1987,male,70.96000000000001
+2018,Ireland,1988,female,24.58
+2019,Ireland,1988,male,88.66
+2020,Ireland,1989,female,25.3
+2021,Ireland,1989,male,85.25999999999999
+2022,Ireland,1990,female,29.39
+2023,Ireland,1990,male,96.29
+2024,Ireland,1991,female,22.13
+2025,Ireland,1991,male,104.39999999999999
+2026,Ireland,1992,female,21.979999999999997
+2027,Ireland,1992,male,115.89
+2028,Ireland,1993,female,22.880000000000003
+2029,Ireland,1993,male,94.27
+2030,Ireland,1994,female,29.419999999999998
+2031,Ireland,1994,male,113.4
+2032,Ireland,1995,female,27.26
+2033,Ireland,1995,male,116.58000000000001
+2034,Ireland,1996,female,20.299999999999997
+2035,Ireland,1996,male,125.24
+2036,Ireland,1997,female,28.69
+2037,Ireland,1997,male,127.46000000000001
+2038,Ireland,1998,female,22.22
+2039,Ireland,1998,male,139.95000000000002
+2040,Ireland,1999,female,27.25
+2041,Ireland,1999,male,113.97000000000001
+2042,Ireland,2000,female,25.05
+2043,Ireland,2000,male,117.31
+2044,Ireland,2001,female,22.659999999999997
+2045,Ireland,2001,male,126.31000000000002
+2046,Ireland,2002,female,24.05
+2047,Ireland,2002,male,111.77
+2048,Ireland,2003,female,28.43
+2049,Ireland,2003,male,106.33999999999999
+2050,Ireland,2004,female,20.17
+2051,Ireland,2004,male,109.25
+2052,Ireland,2005,female,25.590000000000003
+2053,Ireland,2005,male,95.52
+2054,Ireland,2006,female,21.46
+2055,Ireland,2006,male,105.0
+2056,Ireland,2007,female,24.14
+2057,Ireland,2007,male,97.63
+2058,Ireland,2008,female,31.279999999999998
+2059,Ireland,2008,male,98.27999999999999
+2060,Ireland,2009,female,26.59
+2061,Ireland,2009,male,106.04000000000002
+2062,Ireland,2010,female,24.920000000000005
+2063,Ireland,2010,male,95.38000000000001
+2064,Ireland,2011,female,22.46
+2065,Ireland,2011,male,116.12
+2066,Ireland,2012,female,23.21
+2067,Ireland,2012,male,114.45000000000002
+2068,Ireland,2013,female,23.02
+2069,Ireland,2013,male,94.39
+2070,Ireland,2014,female,20.5
+2071,Ireland,2014,male,99.18
+2072,Israel,1985,female,32.89000000000001
+2073,Israel,1985,male,79.14
+2074,Israel,1986,female,41.87
+2075,Israel,1986,male,88.41
+2076,Israel,1987,female,39.309999999999995
+2077,Israel,1987,male,94.30000000000003
+2078,Israel,1988,female,37.08
+2079,Israel,1988,male,87.07999999999998
+2080,Israel,1989,female,50.550000000000004
+2081,Israel,1989,male,119.77000000000001
+2082,Israel,1990,female,31.700000000000003
+2083,Israel,1990,male,90.56
+2084,Israel,1991,female,38.330000000000005
+2085,Israel,1991,male,101.01
+2086,Israel,1992,female,34.800000000000004
+2087,Israel,1992,male,96.14999999999998
+2088,Israel,1993,female,34.84
+2089,Israel,1993,male,102.38999999999999
+2090,Israel,1994,female,43.980000000000004
+2091,Israel,1994,male,105.91
+2092,Israel,1995,female,38.42
+2093,Israel,1995,male,89.00999999999999
+2094,Israel,1996,female,26.660000000000004
+2095,Israel,1996,male,83.85
+2096,Israel,1997,female,27.500000000000004
+2097,Israel,1997,male,99.08
+2098,Israel,1998,female,23.42
+2099,Israel,1998,male,76.69
+2100,Israel,1999,female,21.85
+2101,Israel,1999,male,80.73
+2102,Israel,2000,female,22.55
+2103,Israel,2000,male,86.01
+2104,Israel,2001,female,20.5
+2105,Israel,2001,male,87.73
+2106,Israel,2002,female,21.58
+2107,Israel,2002,male,71.91
+2108,Israel,2003,female,16.560000000000002
+2109,Israel,2003,male,80.61
+2110,Israel,2004,female,21.369999999999997
+2111,Israel,2004,male,77.07
+2112,Israel,2005,female,28.35
+2113,Israel,2005,male,74.56
+2114,Israel,2006,female,18.810000000000002
+2115,Israel,2006,male,61.709999999999994
+2116,Israel,2007,female,12.489999999999998
+2117,Israel,2007,male,61.17999999999999
+2118,Israel,2008,female,13.51
+2119,Israel,2008,male,73.82000000000001
+2120,Israel,2009,female,17.099999999999998
+2121,Israel,2009,male,63.22
+2122,Israel,2010,female,15.54
+2123,Israel,2010,male,83.93
+2124,Israel,2011,female,15.549999999999999
+2125,Israel,2011,male,71.86
+2126,Israel,2012,female,15.100000000000001
+2127,Israel,2012,male,68.68999999999998
+2128,Israel,2013,female,15.129999999999999
+2129,Israel,2013,male,59.08
+2130,Israel,2014,female,15.470000000000002
+2131,Israel,2014,male,55.79
+2132,Israel,2015,female,14.110000000000001
+2133,Israel,2015,male,51.8
+2134,Italy,1985,female,31.34
+2135,Italy,1985,male,102.05999999999999
+2136,Italy,1986,female,31.109999999999996
+2137,Italy,1986,male,99.93999999999998
+2138,Italy,1987,female,28.33
+2139,Italy,1987,male,97.21000000000001
+2140,Italy,1988,female,28.310000000000002
+2141,Italy,1988,male,93.5
+2142,Italy,1989,female,26.26
+2143,Italy,1989,male,90.38
+2144,Italy,1990,female,26.130000000000003
+2145,Italy,1990,male,95.85
+2146,Italy,1991,female,26.42
+2147,Italy,1991,male,89.44999999999999
+2148,Italy,1992,female,24.96
+2149,Italy,1992,male,90.51999999999998
+2150,Italy,1993,female,24.7
+2151,Italy,1993,male,96.44
+2152,Italy,1994,female,24.230000000000004
+2153,Italy,1994,male,94.69999999999999
+2154,Italy,1995,female,23.449999999999996
+2155,Italy,1995,male,94.56
+2156,Italy,1996,female,25.37
+2157,Italy,1996,male,90.08000000000001
+2158,Italy,1997,female,23.490000000000002
+2159,Italy,1997,male,93.55000000000001
+2160,Italy,1998,female,21.18
+2161,Italy,1998,male,92.66
+2162,Italy,1999,female,20.009999999999998
+2163,Italy,1999,male,79.71
+2164,Italy,2000,female,20.910000000000004
+2165,Italy,2000,male,78.31
+2166,Italy,2001,female,18.709999999999997
+2167,Italy,2001,male,77.16
+2168,Italy,2002,female,17.76
+2169,Italy,2002,male,76.85
+2170,Italy,2003,female,18.83
+2171,Italy,2003,male,75.58999999999999
+2172,Italy,2004,female,18.009999999999998
+2173,Italy,2004,male,73.32000000000001
+2174,Italy,2005,female,17.639999999999997
+2175,Italy,2005,male,64.95
+2176,Italy,2006,female,15.4
+2177,Italy,2006,male,66.21000000000001
+2178,Italy,2007,female,15.46
+2179,Italy,2007,male,66.50000000000001
+2180,Italy,2008,female,15.93
+2181,Italy,2008,male,65.75999999999999
+2182,Italy,2009,female,14.950000000000001
+2183,Italy,2009,male,66.97999999999999
+2184,Italy,2010,female,14.76
+2185,Italy,2010,male,66.01
+2186,Italy,2011,female,14.900000000000002
+2187,Italy,2011,male,71.17999999999999
+2188,Italy,2012,female,16.09
+2189,Italy,2012,male,69.36
+2190,Italy,2013,female,16.47
+2191,Italy,2013,male,68.39
+2192,Italy,2014,female,15.59
+2193,Italy,2014,male,66.54
+2194,Italy,2015,female,14.570000000000002
+2195,Italy,2015,male,63.88
+2196,Jamaica,1985,female,3.1999999999999997
+2197,Jamaica,1985,male,5.84
+2198,Jamaica,1986,female,0.0
+2199,Jamaica,1986,male,0.57
+2200,Jamaica,1987,female,1.46
+2201,Jamaica,1987,male,6.32
+2202,Jamaica,1988,female,2.86
+2203,Jamaica,1988,male,1.34
+2204,Jamaica,1989,female,0.0
+2205,Jamaica,1989,male,0.0
+2206,Jamaica,1990,female,0.0
+2207,Jamaica,1990,male,1.32
+2208,Jamaica,1991,female,0.0
+2209,Jamaica,1991,male,0.9
+2210,Jamaica,2000,female,0.0
+2211,Jamaica,2000,male,1.16
+2212,Jamaica,2001,female,0.41
+2213,Jamaica,2001,male,2.39
+2214,Jamaica,2002,female,0.0
+2215,Jamaica,2002,male,0.7
+2216,Jamaica,2003,female,0.41
+2217,Jamaica,2003,male,0.5
+2218,Jamaica,2004,female,0.0
+2219,Jamaica,2004,male,0.74
+2220,Jamaica,2005,female,2.77
+2221,Jamaica,2005,male,23.399999999999995
+2222,Jamaica,2006,female,0.0
+2223,Jamaica,2006,male,0.0
+2224,Jamaica,2009,female,1.4900000000000002
+2225,Jamaica,2009,male,19.639999999999997
+2226,Jamaica,2010,female,0.0
+2227,Jamaica,2010,male,1.16
+2228,Jamaica,2011,female,2.4499999999999997
+2229,Jamaica,2011,male,25.410000000000004
+2230,Japan,1985,female,107.69000000000001
+2231,Japan,1985,male,192.78
+2232,Japan,1986,female,119.92999999999998
+2233,Japan,1986,male,203.61999999999998
+2234,Japan,1987,female,108.67
+2235,Japan,1987,male,186.62000000000003
+2236,Japan,1988,female,108.17000000000002
+2237,Japan,1988,male,176.55
+2238,Japan,1989,female,101.81
+2239,Japan,1989,male,161.60999999999999
+2240,Japan,1990,female,95.13999999999999
+2241,Japan,1990,male,151.23
+2242,Japan,1991,female,87.36
+2243,Japan,1991,male,147.15
+2244,Japan,1992,female,85.40999999999998
+2245,Japan,1992,male,154.86999999999998
+2246,Japan,1993,female,77.94
+2247,Japan,1993,male,146.16000000000003
+2248,Japan,1994,female,75.96
+2249,Japan,1994,male,152.99
+2250,Japan,1995,female,76.77000000000001
+2251,Japan,1995,male,151.35999999999999
+2252,Japan,1996,female,76.1
+2253,Japan,1996,male,152.38000000000002
+2254,Japan,1997,female,77.46000000000001
+2255,Japan,1997,male,159.92
+2256,Japan,1998,female,93.59
+2257,Japan,1998,male,213.01000000000002
+2258,Japan,1999,female,87.42
+2259,Japan,1999,male,211.48
+2260,Japan,2000,female,81.86
+2261,Japan,2000,male,196.66
+2262,Japan,2001,female,77.15
+2263,Japan,2001,male,190.01
+2264,Japan,2002,female,74.9
+2265,Japan,2002,male,190.94
+2266,Japan,2003,female,77.87
+2267,Japan,2003,male,201.54
+2268,Japan,2004,female,73.83999999999999
+2269,Japan,2004,male,192.40999999999997
+2270,Japan,2005,female,74.19
+2271,Japan,2005,male,192.7
+2272,Japan,2006,female,75.05
+2273,Japan,2006,male,187.19
+2274,Japan,2007,female,76.16
+2275,Japan,2007,male,192.6
+2276,Japan,2008,female,76.46
+2277,Japan,2008,male,188.86
+2278,Japan,2009,female,74.03
+2279,Japan,2009,male,192.65999999999997
+2280,Japan,2010,female,72.1
+2281,Japan,2010,male,183.38
+2282,Japan,2011,female,77.21000000000001
+2283,Japan,2011,male,175.20000000000002
+2284,Japan,2012,female,67.55000000000001
+2285,Japan,2012,male,166.15
+2286,Japan,2013,female,67.08
+2287,Japan,2013,male,164.08
+2288,Japan,2014,female,63.67999999999999
+2289,Japan,2014,male,154.53
+2290,Japan,2015,female,58.29
+2291,Japan,2015,male,147.75
+2292,Kazakhstan,1990,female,79.38000000000001
+2293,Kazakhstan,1990,male,254.74000000000004
+2294,Kazakhstan,1991,female,74.09
+2295,Kazakhstan,1991,male,244.57000000000002
+2296,Kazakhstan,1992,female,77.24
+2297,Kazakhstan,1992,male,246.29
+2298,Kazakhstan,1993,female,75.30999999999999
+2299,Kazakhstan,1993,male,301.18
+2300,Kazakhstan,1994,female,79.89
+2301,Kazakhstan,1994,male,334.79
+2302,Kazakhstan,1995,female,82.12
+2303,Kazakhstan,1995,male,372.55
+2304,Kazakhstan,1996,female,73.67999999999999
+2305,Kazakhstan,1996,male,379.15999999999997
+2306,Kazakhstan,1997,female,74.53999999999999
+2307,Kazakhstan,1997,male,359.20000000000005
+2308,Kazakhstan,1998,female,76.24
+2309,Kazakhstan,1998,male,364.28000000000003
+2310,Kazakhstan,1999,female,69.69
+2311,Kazakhstan,1999,male,338.03999999999996
+2312,Kazakhstan,2000,female,73.27
+2313,Kazakhstan,2000,male,352.78
+2314,Kazakhstan,2001,female,67.27
+2315,Kazakhstan,2001,male,355.21999999999997
+2316,Kazakhstan,2002,female,66.99
+2317,Kazakhstan,2002,male,338.9
+2318,Kazakhstan,2003,female,69.07
+2319,Kazakhstan,2003,male,342.64
+2320,Kazakhstan,2004,female,67.13
+2321,Kazakhstan,2004,male,346.72999999999996
+2322,Kazakhstan,2005,female,60.54999999999999
+2323,Kazakhstan,2005,male,297.25
+2324,Kazakhstan,2006,female,62.1
+2325,Kazakhstan,2006,male,312.63
+2326,Kazakhstan,2007,female,63.33
+2327,Kazakhstan,2007,male,312.3
+2328,Kazakhstan,2008,female,65.08
+2329,Kazakhstan,2008,male,301.85999999999996
+2330,Kazakhstan,2009,female,60.589999999999996
+2331,Kazakhstan,2009,male,269.48
+2332,Kazakhstan,2010,female,54.78999999999999
+2333,Kazakhstan,2010,male,266.02000000000004
+2334,Kazakhstan,2011,female,52.56999999999999
+2335,Kazakhstan,2011,male,241.19
+2336,Kazakhstan,2012,female,46.97
+2337,Kazakhstan,2012,male,224.04999999999998
+2338,Kazakhstan,2013,female,55.8
+2339,Kazakhstan,2013,male,240.87
+2340,Kazakhstan,2014,female,46.97
+2341,Kazakhstan,2014,male,210.12
+2342,Kazakhstan,2015,female,42.67
+2343,Kazakhstan,2015,male,195.35
+2344,Kiribati,1991,female,31.049999999999997
+2345,Kiribati,1991,male,150.49
+2346,Kiribati,1992,female,35.73
+2347,Kiribati,1992,male,46.05
+2348,Kiribati,1993,female,25.82
+2349,Kiribati,1993,male,178.4
+2350,Kiribati,1994,female,25.72
+2351,Kiribati,1994,male,124.68
+2352,Kiribati,1995,female,0.0
+2353,Kiribati,1995,male,56.71
+2354,Kiribati,1996,female,43.65
+2355,Kiribati,1996,male,33.7
+2356,Kiribati,1997,female,0.0
+2357,Kiribati,1997,male,76.06
+2358,Kiribati,1998,female,0.0
+2359,Kiribati,1998,male,50.45
+2360,Kiribati,1999,female,0.0
+2361,Kiribati,1999,male,0.0
+2362,Kiribati,2000,female,0.0
+2363,Kiribati,2000,male,0.0
+2364,Kiribati,2001,female,0.0
+2365,Kiribati,2001,male,0.0
+2366,Kuwait,1985,female,2.29
+2367,Kuwait,1985,male,8.91
+2368,Kuwait,1986,female,2.88
+2369,Kuwait,1986,male,5.86
+2370,Kuwait,1987,female,6.91
+2371,Kuwait,1987,male,4.5600000000000005
+2372,Kuwait,1993,female,4.68
+2373,Kuwait,1993,male,8.33
+2374,Kuwait,1994,female,9.34
+2375,Kuwait,1994,male,9.129999999999999
+2376,Kuwait,1995,female,3.86
+2377,Kuwait,1995,male,8.88
+2378,Kuwait,1996,female,8.05
+2379,Kuwait,1996,male,10.28
+2380,Kuwait,1997,female,12.379999999999999
+2381,Kuwait,1997,male,7.5600000000000005
+2382,Kuwait,1998,female,8.83
+2383,Kuwait,1998,male,7.38
+2384,Kuwait,1999,female,7.15
+2385,Kuwait,1999,male,9.67
+2386,Kuwait,2000,female,7.65
+2387,Kuwait,2000,male,7.58
+2388,Kuwait,2001,female,2.48
+2389,Kuwait,2001,male,6.65
+2390,Kuwait,2002,female,5.299999999999999
+2391,Kuwait,2002,male,9.260000000000002
+2392,Kuwait,2003,female,7.500000000000001
+2393,Kuwait,2003,male,8.94
+2394,Kuwait,2004,female,8.719999999999999
+2395,Kuwait,2004,male,8.54
+2396,Kuwait,2005,female,5.680000000000001
+2397,Kuwait,2005,male,12.5
+2398,Kuwait,2006,female,6.67
+2399,Kuwait,2006,male,9.16
+2400,Kuwait,2007,female,4.61
+2401,Kuwait,2007,male,8.41
+2402,Kuwait,2008,female,5.48
+2403,Kuwait,2008,male,6.28
+2404,Kuwait,2009,female,8.14
+2405,Kuwait,2009,male,6.670000000000001
+2406,Kuwait,2010,female,3.9
+2407,Kuwait,2010,male,6.14
+2408,Kuwait,2011,female,4.86
+2409,Kuwait,2011,male,6.550000000000001
+2410,Kuwait,2012,female,7.4
+2411,Kuwait,2012,male,8.19
+2412,Kuwait,2013,female,3.7700000000000005
+2413,Kuwait,2013,male,6.109999999999999
+2414,Kuwait,2014,female,6.029999999999999
+2415,Kuwait,2014,male,9.83
+2416,Kyrgyzstan,1990,female,65.71999999999998
+2417,Kyrgyzstan,1990,male,181.35
+2418,Kyrgyzstan,1991,female,60.54
+2419,Kyrgyzstan,1991,male,186.05
+2420,Kyrgyzstan,1992,female,41.5
+2421,Kyrgyzstan,1992,male,179.92
+2422,Kyrgyzstan,1993,female,62.06
+2423,Kyrgyzstan,1993,male,196.73000000000002
+2424,Kyrgyzstan,1994,female,40.15
+2425,Kyrgyzstan,1994,male,214.16
+2426,Kyrgyzstan,1995,female,50.26
+2427,Kyrgyzstan,1995,male,189.51
+2428,Kyrgyzstan,1996,female,45.56
+2429,Kyrgyzstan,1996,male,160.97999999999996
+2430,Kyrgyzstan,1997,female,36.72
+2431,Kyrgyzstan,1997,male,154.13
+2432,Kyrgyzstan,1998,female,28.88
+2433,Kyrgyzstan,1998,male,156.06
+2434,Kyrgyzstan,1999,female,44.910000000000004
+2435,Kyrgyzstan,1999,male,146.53
+2436,Kyrgyzstan,2000,female,39.21
+2437,Kyrgyzstan,2000,male,143.42000000000002
+2438,Kyrgyzstan,2001,female,26.770000000000003
+2439,Kyrgyzstan,2001,male,166.53
+2440,Kyrgyzstan,2002,female,31.57
+2441,Kyrgyzstan,2002,male,141.54
+2442,Kyrgyzstan,2003,female,23.5
+2443,Kyrgyzstan,2003,male,114.35999999999999
+2444,Kyrgyzstan,2004,female,24.7
+2445,Kyrgyzstan,2004,male,116.63
+2446,Kyrgyzstan,2005,female,21.32
+2447,Kyrgyzstan,2005,male,114.16
+2448,Kyrgyzstan,2006,female,31.580000000000002
+2449,Kyrgyzstan,2006,male,114.41000000000001
+2450,Kyrgyzstan,2007,female,32.73
+2451,Kyrgyzstan,2007,male,93.16000000000001
+2452,Kyrgyzstan,2008,female,29.83
+2453,Kyrgyzstan,2008,male,106.13000000000001
+2454,Kyrgyzstan,2009,female,24.440000000000005
+2455,Kyrgyzstan,2009,male,88.84
+2456,Kyrgyzstan,2010,female,29.759999999999998
+2457,Kyrgyzstan,2010,male,113.44
+2458,Kyrgyzstan,2011,female,28.240000000000002
+2459,Kyrgyzstan,2011,male,98.65000000000002
+2460,Kyrgyzstan,2012,female,37.11
+2461,Kyrgyzstan,2012,male,103.55
+2462,Kyrgyzstan,2013,female,24.29
+2463,Kyrgyzstan,2013,male,85.55
+2464,Kyrgyzstan,2014,female,25.16
+2465,Kyrgyzstan,2014,male,86.63000000000001
+2466,Kyrgyzstan,2015,female,21.720000000000002
+2467,Kyrgyzstan,2015,male,76.64999999999999
+2468,Latvia,1995,female,94.30000000000001
+2469,Latvia,1995,male,451.32
+2470,Latvia,1996,female,81.11
+2471,Latvia,1996,male,410.90000000000003
+2472,Latvia,1997,female,87.36000000000001
+2473,Latvia,1997,male,405.2099999999999
+2474,Latvia,1998,female,75.91999999999999
+2475,Latvia,1998,male,365.9200000000001
+2476,Latvia,1999,female,80.37
+2477,Latvia,1999,male,340.04
+2478,Latvia,2000,female,76.91
+2479,Latvia,2000,male,376.28999999999996
+2480,Latvia,2001,female,68.63
+2481,Latvia,2001,male,314.86
+2482,Latvia,2002,female,70.78999999999999
+2483,Latvia,2002,male,296.97
+2484,Latvia,2003,female,60.099999999999994
+2485,Latvia,2003,male,301.53000000000003
+2486,Latvia,2004,female,55.45
+2487,Latvia,2004,male,272.93
+2488,Latvia,2005,female,60.519999999999996
+2489,Latvia,2005,male,251.54000000000002
+2490,Latvia,2006,female,41.4
+2491,Latvia,2006,male,247.5
+2492,Latvia,2007,female,51.12
+2493,Latvia,2007,male,244.63000000000002
+2494,Latvia,2008,female,52.89
+2495,Latvia,2008,male,270.79999999999995
+2496,Latvia,2009,female,50.46999999999999
+2497,Latvia,2009,male,257.3299999999999
+2498,Latvia,2010,female,28.38
+2499,Latvia,2010,male,230.96
+2500,Latvia,2011,female,41.7
+2501,Latvia,2011,male,247.05
+2502,Latvia,2012,female,39.959999999999994
+2503,Latvia,2012,male,227.72
+2504,Latvia,2013,female,29.529999999999998
+2505,Latvia,2013,male,212.66000000000003
+2506,Latvia,2014,female,40.28
+2507,Latvia,2014,male,208.53000000000003
+2508,Latvia,2015,female,40.39999999999999
+2509,Latvia,2015,male,211.07000000000005
+2510,Lithuania,1995,female,102.41
+2511,Lithuania,1995,male,536.8899999999999
+2512,Lithuania,1996,female,108.81000000000002
+2513,Lithuania,1996,male,486.8
+2514,Lithuania,1997,female,90.78999999999999
+2515,Lithuania,1997,male,474.65000000000003
+2516,Lithuania,1998,female,91.78
+2517,Lithuania,1998,male,474.58000000000004
+2518,Lithuania,1999,female,89.55999999999999
+2519,Lithuania,1999,male,471.96999999999997
+2520,Lithuania,2000,female,100.8
+2521,Lithuania,2000,male,471.0
+2522,Lithuania,2001,female,90.85
+2523,Lithuania,2001,male,478.13
+2524,Lithuania,2002,female,82.92
+2525,Lithuania,2002,male,472.70000000000005
+2526,Lithuania,2003,female,80.96
+2527,Lithuania,2003,male,449.56
+2528,Lithuania,2004,female,84.13999999999999
+2529,Lithuania,2004,male,419.22999999999996
+2530,Lithuania,2005,female,74.44
+2531,Lithuania,2005,male,411.34999999999997
+2532,Lithuania,2006,female,66.13
+2533,Lithuania,2006,male,334.44
+2534,Lithuania,2007,female,63.08
+2535,Lithuania,2007,male,343.71
+2536,Lithuania,2008,female,64.83
+2537,Lithuania,2008,male,365.22
+2538,Lithuania,2009,female,64.84
+2539,Lithuania,2009,male,372.23
+2540,Lithuania,2010,female,64.39000000000001
+2541,Lithuania,2010,male,330.85
+2542,Lithuania,2011,female,68.24000000000001
+2543,Lithuania,2011,male,339.45
+2544,Lithuania,2012,female,57.879999999999995
+2545,Lithuania,2012,male,316.24
+2546,Lithuania,2013,female,72.23000000000002
+2547,Lithuania,2013,male,372.33000000000004
+2548,Lithuania,2014,female,60.68999999999999
+2549,Lithuania,2014,male,340.58000000000004
+2550,Lithuania,2015,female,62.17
+2551,Lithuania,2015,male,323.31
+2552,Lithuania,2016,female,44.58
+2553,Lithuania,2016,male,317.14000000000004
+2554,Luxembourg,1985,female,63.8
+2555,Luxembourg,1985,male,183.59
+2556,Luxembourg,1986,female,42.75
+2557,Luxembourg,1986,male,140.3
+2558,Luxembourg,1987,female,89.0
+2559,Luxembourg,1987,male,154.23999999999998
+2560,Luxembourg,1988,female,46.830000000000005
+2561,Luxembourg,1988,male,164.67000000000002
+2562,Luxembourg,1989,female,61.98
+2563,Luxembourg,1989,male,199.34000000000003
+2564,Luxembourg,1990,female,64.33
+2565,Luxembourg,1990,male,169.01
+2566,Luxembourg,1991,female,55.29
+2567,Luxembourg,1991,male,225.54
+2568,Luxembourg,1992,female,90.03
+2569,Luxembourg,1992,male,138.33999999999997
+2570,Luxembourg,1993,female,41.35
+2571,Luxembourg,1993,male,166.60999999999999
+2572,Luxembourg,1994,female,35.989999999999995
+2573,Luxembourg,1994,male,241.25
+2574,Luxembourg,1995,female,53.45
+2575,Luxembourg,1995,male,156.63
+2576,Luxembourg,1996,female,50.97
+2577,Luxembourg,1996,male,178.28000000000003
+2578,Luxembourg,1997,female,55.190000000000005
+2579,Luxembourg,1997,male,252.41
+2580,Luxembourg,1998,female,49.519999999999996
+2581,Luxembourg,1998,male,151.73
+2582,Luxembourg,1999,female,55.68
+2583,Luxembourg,1999,male,156.31000000000003
+2584,Luxembourg,2000,female,41.72
+2585,Luxembourg,2000,male,180.91999999999996
+2586,Luxembourg,2001,female,77.61
+2587,Luxembourg,2001,male,162.21
+2588,Luxembourg,2002,female,55.17000000000001
+2589,Luxembourg,2002,male,208.97
+2590,Luxembourg,2003,female,17.509999999999998
+2591,Luxembourg,2003,male,146.85999999999999
+2592,Luxembourg,2004,female,41.79
+2593,Luxembourg,2004,male,147.74999999999997
+2594,Luxembourg,2005,female,21.32
+2595,Luxembourg,2005,male,137.75000000000003
+2596,Luxembourg,2006,female,33.78
+2597,Luxembourg,2006,male,150.01000000000002
+2598,Luxembourg,2007,female,58.040000000000006
+2599,Luxembourg,2007,male,125.85
+2600,Luxembourg,2008,female,18.470000000000002
+2601,Luxembourg,2008,male,93.83999999999999
+2602,Luxembourg,2009,female,23.330000000000002
+2603,Luxembourg,2009,male,87.61999999999999
+2604,Luxembourg,2010,female,23.11
+2605,Luxembourg,2010,male,118.05000000000003
+2606,Luxembourg,2011,female,49.69
+2607,Luxembourg,2011,male,86.83999999999999
+2608,Luxembourg,2012,female,27.24
+2609,Luxembourg,2012,male,112.94
+2610,Luxembourg,2013,female,34.71
+2611,Luxembourg,2013,male,56.769999999999996
+2612,Luxembourg,2014,female,37.410000000000004
+2613,Luxembourg,2014,male,110.47000000000001
+2614,Luxembourg,2015,female,38.599999999999994
+2615,Luxembourg,2015,male,95.80000000000001
+2616,Macau,1994,female,76.78
+2617,Macau,1994,male,94.96
+2618,Maldives,2000,female,0.0
+2619,Maldives,2000,male,0.0
+2620,Maldives,2001,female,102.46
+2621,Maldives,2001,male,8.030000000000001
+2622,Maldives,2002,female,2.95
+2623,Maldives,2002,male,6.890000000000001
+2624,Maldives,2003,female,3.95
+2625,Maldives,2003,male,11.57
+2626,Maldives,2004,female,3.74
+2627,Maldives,2004,male,0.0
+2628,Maldives,2005,female,0.0
+2629,Maldives,2005,male,2.75
+2630,Maldives,2007,female,6.33
+2631,Maldives,2007,male,8.030000000000001
+2632,Maldives,2008,female,0.0
+2633,Maldives,2008,male,0.0
+2634,Maldives,2010,female,0.0
+2635,Maldives,2010,male,1.99
+2636,Maldives,2011,female,0.0
+2637,Maldives,2011,male,5.39
+2638,Malta,1985,female,0.0
+2639,Malta,1985,male,8.76
+2640,Malta,1986,female,3.61
+2641,Malta,1986,male,0.0
+2642,Malta,1987,female,0.0
+2643,Malta,1987,male,18.87
+2644,Malta,1988,female,3.61
+2645,Malta,1988,male,25.0
+2646,Malta,1989,female,13.51
+2647,Malta,1989,male,76.45000000000002
+2648,Malta,1990,female,0.0
+2649,Malta,1990,male,23.75
+2650,Malta,1991,female,2.01
+2651,Malta,1991,male,28.330000000000002
+2652,Malta,1992,female,15.4
+2653,Malta,1992,male,71.74
+2654,Malta,1993,female,17.78
+2655,Malta,1993,male,29.76
+2656,Malta,1994,female,15.41
+2657,Malta,1994,male,49.28
+2658,Malta,1995,female,14.44
+2659,Malta,1995,male,32.580000000000005
+2660,Malta,1996,female,4.17
+2661,Malta,1996,male,43.260000000000005
+2662,Malta,1997,female,15.24
+2663,Malta,1997,male,55.44
+2664,Malta,1998,female,1.76
+2665,Malta,1998,male,28.869999999999997
+2666,Malta,1999,female,20.34
+2667,Malta,1999,male,71.42
+2668,Malta,2000,female,16.3
+2669,Malta,2000,male,61.75
+2670,Malta,2001,female,23.63
+2671,Malta,2001,male,61.66
+2672,Malta,2002,female,26.84
+2673,Malta,2002,male,28.44
+2674,Malta,2003,female,7.949999999999999
+2675,Malta,2003,male,66.99
+2676,Malta,2004,female,34.160000000000004
+2677,Malta,2004,male,51.66
+2678,Malta,2005,female,5.88
+2679,Malta,2005,male,62.06
+2680,Malta,2006,female,9.850000000000001
+2681,Malta,2006,male,77.36
+2682,Malta,2007,female,6.72
+2683,Malta,2007,male,67.12
+2684,Malta,2008,female,3.65
+2685,Malta,2008,male,35.03
+2686,Malta,2009,female,10.48
+2687,Malta,2009,male,96.63999999999999
+2688,Malta,2010,female,4.03
+2689,Malta,2010,male,78.07999999999998
+2690,Malta,2011,female,0.0
+2691,Malta,2011,male,47.49999999999999
+2692,Malta,2012,female,11.14
+2693,Malta,2012,male,48.73
+2694,Malta,2013,female,3.37
+2695,Malta,2013,male,53.85
+2696,Malta,2014,female,15.9
+2697,Malta,2014,male,86.17999999999999
+2698,Malta,2015,female,16.25
+2699,Malta,2015,male,62.019999999999996
+2700,Mauritius,1985,female,61.52
+2701,Mauritius,1985,male,81.61
+2702,Mauritius,1986,female,8.0
+2703,Mauritius,1986,male,22.07
+2704,Mauritius,1987,female,76.32
+2705,Mauritius,1987,male,95.61999999999999
+2706,Mauritius,1988,female,59.449999999999996
+2707,Mauritius,1988,male,186.66
+2708,Mauritius,1989,female,59.33
+2709,Mauritius,1989,male,152.31000000000003
+2710,Mauritius,1990,female,60.19
+2711,Mauritius,1990,male,102.99
+2712,Mauritius,1991,female,47.599999999999994
+2713,Mauritius,1991,male,149.19
+2714,Mauritius,1992,female,55.099999999999994
+2715,Mauritius,1992,male,143.89000000000001
+2716,Mauritius,1993,female,47.569999999999986
+2717,Mauritius,1993,male,127.42
+2718,Mauritius,1994,female,29.060000000000002
+2719,Mauritius,1994,male,125.59
+2720,Mauritius,1995,female,41.769999999999996
+2721,Mauritius,1995,male,140.88
+2722,Mauritius,1996,female,45.71
+2723,Mauritius,1996,male,120.43
+2724,Mauritius,1997,female,20.45
+2725,Mauritius,1997,male,123.11999999999999
+2726,Mauritius,1998,female,45.99
+2727,Mauritius,1998,male,108.77999999999999
+2728,Mauritius,1999,female,50.21
+2729,Mauritius,1999,male,135.83
+2730,Mauritius,2000,female,27.58
+2731,Mauritius,2000,male,113.24
+2732,Mauritius,2001,female,39.06
+2733,Mauritius,2001,male,82.78
+2734,Mauritius,2002,female,27.3
+2735,Mauritius,2002,male,104.59999999999998
+2736,Mauritius,2003,female,22.419999999999998
+2737,Mauritius,2003,male,71.60000000000001
+2738,Mauritius,2004,female,20.12
+2739,Mauritius,2004,male,80.86999999999999
+2740,Mauritius,2005,female,26.070000000000004
+2741,Mauritius,2005,male,76.44
+2742,Mauritius,2006,female,39.040000000000006
+2743,Mauritius,2006,male,124.64
+2744,Mauritius,2007,female,26.939999999999998
+2745,Mauritius,2007,male,114.51
+2746,Mauritius,2008,female,11.16
+2747,Mauritius,2008,male,66.97
+2748,Mauritius,2009,female,25.959999999999997
+2749,Mauritius,2009,male,80.11
+2750,Mauritius,2010,female,18.41
+2751,Mauritius,2010,male,93.42000000000002
+2752,Mauritius,2011,female,21.38
+2753,Mauritius,2011,male,98.65999999999998
+2754,Mauritius,2012,female,27.35
+2755,Mauritius,2012,male,86.89999999999999
+2756,Mauritius,2013,female,14.499999999999998
+2757,Mauritius,2013,male,83.16999999999999
+2758,Mauritius,2014,female,28.310000000000002
+2759,Mauritius,2014,male,87.14
+2760,Mauritius,2015,female,25.250000000000004
+2761,Mauritius,2015,male,74.72
+2762,Mauritius,2016,female,12.8
+2763,Mauritius,2016,male,86.5
+2764,Mexico,1985,female,5.280000000000001
+2765,Mexico,1985,male,32.89
+2766,Mexico,1986,female,4.6899999999999995
+2767,Mexico,1986,male,41.05
+2768,Mexico,1987,female,5.0600000000000005
+2769,Mexico,1987,male,36.37
+2770,Mexico,1988,female,5.260000000000001
+2771,Mexico,1988,male,36.96
+2772,Mexico,1989,female,5.08
+2773,Mexico,1989,male,43.18
+2774,Mexico,1990,female,4.91
+2775,Mexico,1990,male,43.94
+2776,Mexico,1991,female,5.56
+2777,Mexico,1991,male,42.129999999999995
+2778,Mexico,1992,female,5.7700000000000005
+2779,Mexico,1992,male,46.300000000000004
+2780,Mexico,1993,female,5.24
+2781,Mexico,1993,male,46.760000000000005
+2782,Mexico,1994,female,6.42
+2783,Mexico,1994,male,49.5
+2784,Mexico,1995,female,6.449999999999999
+2785,Mexico,1995,male,52.64
+2786,Mexico,1996,female,6.249999999999999
+2787,Mexico,1996,male,50.08
+2788,Mexico,1997,female,6.600000000000001
+2789,Mexico,1997,male,50.470000000000006
+2790,Mexico,1998,female,6.61
+2791,Mexico,1998,male,50.22999999999999
+2792,Mexico,1999,female,6.45
+2793,Mexico,1999,male,48.43999999999999
+2794,Mexico,2000,female,6.909999999999999
+2795,Mexico,2000,male,47.98
+2796,Mexico,2001,female,8.39
+2797,Mexico,2001,male,54.910000000000004
+2798,Mexico,2002,female,7.800000000000001
+2799,Mexico,2002,male,50.56
+2800,Mexico,2003,female,8.24
+2801,Mexico,2003,male,54.76
+2802,Mexico,2004,female,8.309999999999999
+2803,Mexico,2004,male,52.44
+2804,Mexico,2005,female,8.309999999999999
+2805,Mexico,2005,male,53.910000000000004
+2806,Mexico,2006,female,7.909999999999999
+2807,Mexico,2006,male,51.31
+2808,Mexico,2007,female,8.370000000000001
+2809,Mexico,2007,male,49.64000000000001
+2810,Mexico,2008,female,9.16
+2811,Mexico,2008,male,51.67
+2812,Mexico,2009,female,9.719999999999999
+2813,Mexico,2009,male,54.419999999999995
+2814,Mexico,2010,female,8.850000000000001
+2815,Mexico,2010,male,52.16
+2816,Mexico,2011,female,10.36
+2817,Mexico,2011,male,55.160000000000004
+2818,Mexico,2012,female,10.109999999999998
+2819,Mexico,2012,male,53.32
+2820,Mexico,2013,female,10.280000000000001
+2821,Mexico,2013,male,54.71
+2822,Mexico,2014,female,11.29
+2823,Mexico,2014,male,57.089999999999996
+2824,Mexico,2015,female,11.47
+2825,Mexico,2015,male,55.1
+2826,Mongolia,2016,female,28.180000000000003
+2827,Mongolia,2016,male,156.21
+2828,Montenegro,2000,female,0.0
+2829,Montenegro,2000,male,0.0
+2830,Montenegro,2001,female,0.0
+2831,Montenegro,2001,male,0.0
+2832,Montenegro,2002,female,0.0
+2833,Montenegro,2002,male,0.0
+2834,Montenegro,2003,female,0.0
+2835,Montenegro,2003,male,0.0
+2836,Montenegro,2004,female,0.0
+2837,Montenegro,2004,male,0.0
+2838,Montenegro,2005,female,85.35000000000001
+2839,Montenegro,2005,male,189.13000000000002
+2840,Montenegro,2006,female,0.0
+2841,Montenegro,2006,male,0.0
+2842,Montenegro,2007,female,78.36999999999999
+2843,Montenegro,2007,male,257.15999999999997
+2844,Montenegro,2008,female,110.2
+2845,Montenegro,2008,male,197.89
+2846,Montenegro,2009,female,63.62
+2847,Montenegro,2009,male,212.31
+2848,Netherlands,1985,female,49.33
+2849,Netherlands,1985,male,110.56
+2850,Netherlands,1986,female,50.92
+2851,Netherlands,1986,male,107.36000000000001
+2852,Netherlands,1987,female,51.949999999999996
+2853,Netherlands,1987,male,105.22
+2854,Netherlands,1988,female,45.379999999999995
+2855,Netherlands,1988,male,102.22000000000001
+2856,Netherlands,1989,female,45.71
+2857,Netherlands,1989,male,90.3
+2858,Netherlands,1990,female,46.099999999999994
+2859,Netherlands,1990,male,90.07000000000001
+2860,Netherlands,1991,female,46.26
+2861,Netherlands,1991,male,104.23
+2862,Netherlands,1992,female,43.459999999999994
+2863,Netherlands,1992,male,100.03
+2864,Netherlands,1993,female,42.92
+2865,Netherlands,1993,male,93.05999999999999
+2866,Netherlands,1994,female,38.260000000000005
+2867,Netherlands,1994,male,98.69999999999999
+2868,Netherlands,1995,female,39.23
+2869,Netherlands,1995,male,85.79
+2870,Netherlands,1996,female,41.209999999999994
+2871,Netherlands,1996,male,93.86
+2872,Netherlands,1997,female,41.27
+2873,Netherlands,1997,male,95.30000000000001
+2874,Netherlands,1998,female,38.42
+2875,Netherlands,1998,male,90.08
+2876,Netherlands,1999,female,37.720000000000006
+2877,Netherlands,1999,male,85.44000000000001
+2878,Netherlands,2000,female,34.62
+2879,Netherlands,2000,male,84.37
+2880,Netherlands,2001,female,33.089999999999996
+2881,Netherlands,2001,male,83.21
+2882,Netherlands,2002,female,35.31
+2883,Netherlands,2002,male,84.42
+2884,Netherlands,2003,female,35.339999999999996
+2885,Netherlands,2003,male,77.99000000000001
+2886,Netherlands,2004,female,33.49
+2887,Netherlands,2004,male,77.67
+2888,Netherlands,2005,female,33.47
+2889,Netherlands,2005,male,79.81
+2890,Netherlands,2006,female,31.95
+2891,Netherlands,2006,male,81.23999999999998
+2892,Netherlands,2007,female,27.59
+2893,Netherlands,2007,male,69.84999999999998
+2894,Netherlands,2008,female,29.119999999999997
+2895,Netherlands,2008,male,72.97
+2896,Netherlands,2009,female,30.15
+2897,Netherlands,2009,male,78.15000000000002
+2898,Netherlands,2010,female,30.850000000000005
+2899,Netherlands,2010,male,78.63999999999999
+2900,Netherlands,2011,female,33.03
+2901,Netherlands,2011,male,80.05
+2902,Netherlands,2012,female,36.32
+2903,Netherlands,2012,male,82.19000000000001
+2904,Netherlands,2013,female,35.74
+2905,Netherlands,2013,male,89.79
+2906,Netherlands,2014,female,38.14
+2907,Netherlands,2014,male,83.28
+2908,Netherlands,2015,female,37.41
+2909,Netherlands,2015,male,89.52
+2910,Netherlands,2016,female,40.33
+2911,Netherlands,2016,male,87.05999999999999
+2912,New Zealand,1985,female,32.23
+2913,New Zealand,1985,male,121.41
+2914,New Zealand,1986,female,46.199999999999996
+2915,New Zealand,1986,male,132.47
+2916,New Zealand,1987,female,40.879999999999995
+2917,New Zealand,1987,male,169.64
+2918,New Zealand,1988,female,43.660000000000004
+2919,New Zealand,1988,male,161.37
+2920,New Zealand,1989,female,32.68
+2921,New Zealand,1989,male,157.94000000000003
+2922,New Zealand,1990,female,34.18
+2923,New Zealand,1990,male,152.39000000000001
+2924,New Zealand,1991,female,28.98
+2925,New Zealand,1991,male,146.5
+2926,New Zealand,1992,female,33.32
+2927,New Zealand,1992,male,150.27
+2928,New Zealand,1993,female,31.81
+2929,New Zealand,1993,male,132.17000000000002
+2930,New Zealand,1994,female,37.83
+2931,New Zealand,1994,male,160.79999999999998
+2932,New Zealand,1995,female,40.74
+2933,New Zealand,1995,male,158.68
+2934,New Zealand,1996,female,37.550000000000004
+2935,New Zealand,1996,male,157.57999999999998
+2936,New Zealand,1997,female,38.550000000000004
+2937,New Zealand,1997,male,159.73000000000002
+2938,New Zealand,1998,female,42.51
+2939,New Zealand,1998,male,158.56
+2940,New Zealand,1999,female,41.019999999999996
+2941,New Zealand,1999,male,135.78000000000003
+2942,New Zealand,2000,female,25.860000000000003
+2943,New Zealand,2000,male,131.67999999999998
+2944,New Zealand,2001,female,39.01
+2945,New Zealand,2001,male,140.89000000000001
+2946,New Zealand,2002,female,34.97
+2947,New Zealand,2002,male,117.06
+2948,New Zealand,2003,female,43.11
+2949,New Zealand,2003,male,129.23999999999998
+2950,New Zealand,2004,female,32.910000000000004
+2951,New Zealand,2004,male,130.5
+2952,New Zealand,2005,female,38.86
+2953,New Zealand,2005,male,119.07000000000001
+2954,New Zealand,2006,female,39.730000000000004
+2955,New Zealand,2006,male,117.01000000000002
+2956,New Zealand,2007,female,31.469999999999995
+2957,New Zealand,2007,male,116.72
+2958,New Zealand,2008,female,38.080000000000005
+2959,New Zealand,2008,male,113.69999999999999
+2960,New Zealand,2009,female,33.26
+2961,New Zealand,2009,male,119.74000000000001
+2962,New Zealand,2010,female,42.099999999999994
+2963,New Zealand,2010,male,110.52000000000001
+2964,New Zealand,2011,female,33.440000000000005
+2965,New Zealand,2011,male,109.38000000000001
+2966,New Zealand,2012,female,41.89
+2967,New Zealand,2012,male,116.13999999999999
+2968,New Zealand,2013,female,37.54
+2969,New Zealand,2013,male,107.00999999999999
+2970,Nicaragua,2010,female,14.379999999999999
+2971,Nicaragua,2010,male,74.36
+2972,Nicaragua,2011,female,17.32
+2973,Nicaragua,2011,male,72.22999999999999
+2974,Nicaragua,2012,female,16.259999999999998
+2975,Nicaragua,2012,male,56.03
+2976,Nicaragua,2013,female,13.040000000000001
+2977,Nicaragua,2013,male,67.93
+2978,Nicaragua,2014,female,15.56
+2979,Nicaragua,2014,male,55.839999999999996
+2980,Nicaragua,2015,female,15.079999999999998
+2981,Nicaragua,2015,male,54.79
+2982,Norway,1986,female,41.43
+2983,Norway,1986,male,122.19000000000001
+2984,Norway,1987,female,42.23
+2985,Norway,1987,male,149.32999999999998
+2986,Norway,1988,female,53.65999999999999
+2987,Norway,1988,male,154.84
+2988,Norway,1989,female,49.59
+2989,Norway,1989,male,148.3
+2990,Norway,1990,female,45.58
+2991,Norway,1990,male,145.73000000000002
+2992,Norway,1991,female,48.17
+2993,Norway,1991,male,146.65
+2994,Norway,1992,female,44.6
+2995,Norway,1992,male,137.04000000000002
+2996,Norway,1993,female,40.63
+2997,Norway,1993,male,137.42
+2998,Norway,1994,female,39.9
+2999,Norway,1994,male,110.63000000000001
+3000,Norway,1995,female,35.32
+3001,Norway,1995,male,121.03
+3002,Norway,1996,female,33.88
+3003,Norway,1996,male,120.05
+3004,Norway,1997,female,36.82
+3005,Norway,1997,male,121.79
+3006,Norway,1998,female,39.04
+3007,Norway,1998,male,114.61999999999999
+3008,Norway,1999,female,40.23
+3009,Norway,1999,male,123.09999999999998
+3010,Norway,2000,female,34.56
+3011,Norway,2000,male,115.77000000000001
+3012,Norway,2001,female,33.730000000000004
+3013,Norway,2001,male,120.56
+3014,Norway,2002,female,33.449999999999996
+3015,Norway,2002,male,107.55
+3016,Norway,2003,female,33.47
+3017,Norway,2003,male,104.60999999999999
+3018,Norway,2004,female,41.620000000000005
+3019,Norway,2004,male,99.75000000000001
+3020,Norway,2005,female,44.22
+3021,Norway,2005,male,97.87
+3022,Norway,2006,female,33.17
+3023,Norway,2006,male,109.5
+3024,Norway,2007,female,35.669999999999995
+3025,Norway,2007,male,92.1
+3026,Norway,2008,female,39.69
+3027,Norway,2008,male,92.33999999999999
+3028,Norway,2009,female,37.29
+3029,Norway,2009,male,108.44999999999997
+3030,Norway,2010,female,36.720000000000006
+3031,Norway,2010,male,99.71
+3032,Norway,2011,female,36.21
+3033,Norway,2011,male,110.27999999999999
+3034,Norway,2012,female,33.96
+3035,Norway,2012,male,92.03999999999999
+3036,Norway,2013,female,36.68000000000001
+3037,Norway,2013,male,90.32999999999998
+3038,Norway,2014,female,31.71
+3039,Norway,2014,male,95.51999999999998
+3040,Norway,2015,female,42.940000000000005
+3041,Norway,2015,male,93.49000000000001
+3042,Oman,2009,female,0.0
+3043,Oman,2009,male,21.189999999999998
+3044,Oman,2010,female,0.0
+3045,Oman,2010,male,3.8000000000000003
+3046,Oman,2014,female,0.0
+3047,Oman,2014,male,1.51
+3048,Panama,1985,female,8.17
+3049,Panama,1985,male,42.88999999999999
+3050,Panama,1986,female,12.729999999999999
+3051,Panama,1986,male,48.18
+3052,Panama,1987,female,12.29
+3053,Panama,1987,male,54.77
+3054,Panama,1988,female,15.970000000000002
+3055,Panama,1988,male,44.220000000000006
+3056,Panama,1989,female,4.62
+3057,Panama,1989,male,50.67000000000001
+3058,Panama,1996,female,9.56
+3059,Panama,1996,male,56.82000000000001
+3060,Panama,1997,female,14.179999999999998
+3061,Panama,1997,male,69.00999999999999
+3062,Panama,1998,female,12.66
+3063,Panama,1998,male,64.03
+3064,Panama,1999,female,10.27
+3065,Panama,1999,male,67.35999999999999
+3066,Panama,2000,female,8.110000000000001
+3067,Panama,2000,male,77.47
+3068,Panama,2001,female,11.780000000000001
+3069,Panama,2001,male,74.99000000000001
+3070,Panama,2002,female,18.660000000000004
+3071,Panama,2002,male,60.279999999999994
+3072,Panama,2003,female,7.569999999999999
+3073,Panama,2003,male,89.66999999999999
+3074,Panama,2004,female,11.18
+3075,Panama,2004,male,70.58
+3076,Panama,2005,female,10.990000000000002
+3077,Panama,2005,male,66.82
+3078,Panama,2006,female,4.56
+3079,Panama,2006,male,87.07
+3080,Panama,2007,female,6.699999999999999
+3081,Panama,2007,male,65.2
+3082,Panama,2008,female,14.219999999999999
+3083,Panama,2008,male,59.08
+3084,Panama,2009,female,9.4
+3085,Panama,2009,male,58.89
+3086,Panama,2010,female,9.07
+3087,Panama,2010,male,54.93
+3088,Panama,2011,female,6.04
+3089,Panama,2011,male,56.690000000000005
+3090,Panama,2012,female,6.9
+3091,Panama,2012,male,48.62
+3092,Panama,2013,female,5.09
+3093,Panama,2013,male,44.22
+3094,Panama,2014,female,6.79
+3095,Panama,2014,male,49.19
+3096,Panama,2015,female,5.8
+3097,Panama,2015,male,39.1
+3098,Paraguay,1985,female,9.83
+3099,Paraguay,1985,male,29.589999999999996
+3100,Paraguay,1986,female,7.830000000000001
+3101,Paraguay,1986,male,18.93
+3102,Paraguay,1987,female,9.959999999999999
+3103,Paraguay,1987,male,26.64
+3104,Paraguay,1989,female,10.899999999999999
+3105,Paraguay,1989,male,24.430000000000003
+3106,Paraguay,1990,female,18.42
+3107,Paraguay,1990,male,26.59
+3108,Paraguay,1991,female,7.609999999999999
+3109,Paraguay,1991,male,19.53
+3110,Paraguay,1994,female,12.489999999999998
+3111,Paraguay,1994,male,31.97
+3112,Paraguay,1995,female,8.790000000000001
+3113,Paraguay,1995,male,31.540000000000003
+3114,Paraguay,1996,female,7.650000000000001
+3115,Paraguay,1996,male,25.81
+3116,Paraguay,1997,female,10.190000000000001
+3117,Paraguay,1997,male,25.390000000000004
+3118,Paraguay,1998,female,12.28
+3119,Paraguay,1998,male,36.27
+3120,Paraguay,1999,female,14.549999999999999
+3121,Paraguay,1999,male,29.87
+3122,Paraguay,2000,female,12.34
+3123,Paraguay,2000,male,30.44
+3124,Paraguay,2001,female,13.25
+3125,Paraguay,2001,male,43.27
+3126,Paraguay,2002,female,14.51
+3127,Paraguay,2002,male,28.939999999999998
+3128,Paraguay,2003,female,8.48
+3129,Paraguay,2003,male,42.87
+3130,Paraguay,2004,female,16.87
+3131,Paraguay,2004,male,48.57
+3132,Paraguay,2005,female,15.85
+3133,Paraguay,2005,male,46.96
+3134,Paraguay,2006,female,14.18
+3135,Paraguay,2006,male,51.39
+3136,Paraguay,2007,female,13.09
+3137,Paraguay,2007,male,49.42000000000001
+3138,Paraguay,2008,female,13.36
+3139,Paraguay,2008,male,44.96
+3140,Paraguay,2009,female,13.15
+3141,Paraguay,2009,male,54.17999999999999
+3142,Paraguay,2010,female,14.219999999999999
+3143,Paraguay,2010,male,40.339999999999996
+3144,Paraguay,2011,female,13.899999999999999
+3145,Paraguay,2011,male,53.93000000000001
+3146,Paraguay,2012,female,19.35
+3147,Paraguay,2012,male,43.949999999999996
+3148,Paraguay,2013,female,14.98
+3149,Paraguay,2013,male,60.410000000000004
+3150,Paraguay,2014,female,19.22
+3151,Paraguay,2014,male,52.93
+3152,Philippines,1992,female,2.4499999999999997
+3153,Philippines,1992,male,7.359999999999999
+3154,Philippines,1993,female,8.74
+3155,Philippines,1993,male,13.23
+3156,Philippines,1997,female,4.68
+3157,Philippines,1997,male,15.559999999999999
+3158,Philippines,1998,female,4.21
+3159,Philippines,1998,male,17.840000000000003
+3160,Philippines,1999,female,6.74
+3161,Philippines,1999,male,18.14
+3162,Philippines,2000,female,7.620000000000001
+3163,Philippines,2000,male,24.59
+3164,Philippines,2001,female,5.260000000000001
+3165,Philippines,2001,male,21.82
+3166,Philippines,2002,female,6.6
+3167,Philippines,2002,male,21.939999999999998
+3168,Philippines,2003,female,8.12
+3169,Philippines,2003,male,25.289999999999996
+3170,Philippines,2006,female,7.2299999999999995
+3171,Philippines,2006,male,29.43
+3172,Philippines,2007,female,6.37
+3173,Philippines,2007,male,22.8
+3174,Philippines,2008,female,7.010000000000001
+3175,Philippines,2008,male,26.04
+3176,Philippines,2009,female,7.660000000000001
+3177,Philippines,2009,male,27.23
+3178,Philippines,2010,female,7.24
+3179,Philippines,2010,male,29.72
+3180,Philippines,2011,female,8.5
+3181,Philippines,2011,male,36.41
+3182,Poland,1990,female,29.349999999999994
+3183,Poland,1990,male,143.29
+3184,Poland,1991,female,27.109999999999996
+3185,Poland,1991,male,153.16
+3186,Poland,1992,female,32.120000000000005
+3187,Poland,1992,male,162.31
+3188,Poland,1993,female,30.38
+3189,Poland,1993,male,157.47
+3190,Poland,1994,female,27.400000000000002
+3191,Poland,1994,male,158.56
+3192,Poland,1995,female,28.45
+3193,Poland,1995,male,153.25
+3194,Poland,1996,female,27.65
+3195,Poland,1996,male,150.56
+3196,Poland,1999,female,26.04
+3197,Poland,1999,male,158.11
+3198,Poland,2000,female,29.06
+3199,Poland,2000,male,161.95000000000002
+3200,Poland,2001,female,24.09
+3201,Poland,2001,male,156.56
+3202,Poland,2002,female,29.05
+3203,Poland,2002,male,154.21999999999997
+3204,Poland,2003,female,25.729999999999997
+3205,Poland,2003,male,154.42
+3206,Poland,2004,female,26.24
+3207,Poland,2004,male,161.49999999999997
+3208,Poland,2005,female,25.409999999999997
+3209,Poland,2005,male,160.63
+3210,Poland,2006,female,25.94
+3211,Poland,2006,male,156.91
+3212,Poland,2007,female,23.349999999999998
+3213,Poland,2007,male,143.11999999999998
+3214,Poland,2008,female,23.38
+3215,Poland,2008,male,153.99999999999997
+3216,Poland,2009,female,26.580000000000002
+3217,Poland,2009,male,170.51999999999998
+3218,Poland,2010,female,23.529999999999998
+3219,Poland,2010,male,167.10999999999999
+3220,Poland,2011,female,21.169999999999998
+3221,Poland,2011,male,162.69
+3222,Poland,2012,female,22.939999999999998
+3223,Poland,2012,male,169.43
+3224,Poland,2013,female,23.160000000000004
+3225,Poland,2013,male,164.43
+3226,Poland,2014,female,22.349999999999994
+3227,Poland,2014,male,155.95
+3228,Poland,2015,female,20.13
+3229,Poland,2015,male,146.86
+3230,Portugal,1985,female,39.6
+3231,Portugal,1985,male,125.22000000000001
+3232,Portugal,1986,female,36.029999999999994
+3233,Portugal,1986,male,129.5
+3234,Portugal,1987,female,35.449999999999996
+3235,Portugal,1987,male,135.88
+3236,Portugal,1988,female,26.84
+3237,Portugal,1988,male,110.91
+3238,Portugal,1989,female,27.979999999999997
+3239,Portugal,1989,male,102.34
+3240,Portugal,1990,female,33.61
+3241,Portugal,1990,male,116.59999999999998
+3242,Portugal,1991,female,30.25
+3243,Portugal,1991,male,134.90999999999997
+3244,Portugal,1992,female,30.95
+3245,Portugal,1992,male,117.34999999999998
+3246,Portugal,1993,female,25.389999999999997
+3247,Portugal,1993,male,100.44
+3248,Portugal,1994,female,24.459999999999997
+3249,Portugal,1994,male,99.36000000000001
+3250,Portugal,1995,female,29.75
+3251,Portugal,1995,male,99.18
+3252,Portugal,1996,female,22.010000000000005
+3253,Portugal,1996,male,93.75999999999999
+3254,Portugal,1997,female,17.69
+3255,Portugal,1997,male,84.49
+3256,Portugal,1998,female,18.14
+3257,Portugal,1998,male,68.91999999999999
+3258,Portugal,1999,female,19.869999999999997
+3259,Portugal,1999,male,69.59
+3260,Portugal,2000,female,14.219999999999999
+3261,Portugal,2000,male,71.66
+3262,Portugal,2001,female,20.93
+3263,Portugal,2001,male,94.80000000000001
+3264,Portugal,2002,female,30.400000000000002
+3265,Portugal,2002,male,141.42999999999998
+3266,Portugal,2003,female,30.959999999999997
+3267,Portugal,2003,male,135.5
+3268,Portugal,2007,female,29.459999999999997
+3269,Portugal,2007,male,114.09
+3270,Portugal,2008,female,26.180000000000003
+3271,Portugal,2008,male,114.83999999999999
+3272,Portugal,2009,female,24.05
+3273,Portugal,2009,male,115.64999999999999
+3274,Portugal,2010,female,28.670000000000005
+3275,Portugal,2010,male,120.17000000000002
+3276,Portugal,2011,female,21.990000000000002
+3277,Portugal,2011,male,105.87
+3278,Portugal,2012,female,22.86
+3279,Portugal,2012,male,116.54
+3280,Portugal,2013,female,24.57
+3281,Portugal,2013,male,108.16
+3282,Portugal,2014,female,29.72
+3283,Portugal,2014,male,124.17
+3284,Puerto Rico,1985,female,18.91
+3285,Puerto Rico,1985,male,135.7
+3286,Puerto Rico,1986,female,17.81
+3287,Puerto Rico,1986,male,160.42
+3288,Puerto Rico,1987,female,17.56
+3289,Puerto Rico,1987,male,126.2
+3290,Puerto Rico,1988,female,9.67
+3291,Puerto Rico,1988,male,152.01999999999998
+3292,Puerto Rico,1989,female,14.659999999999998
+3293,Puerto Rico,1989,male,154.88
+3294,Puerto Rico,1990,female,12.36
+3295,Puerto Rico,1990,male,169.22
+3296,Puerto Rico,1991,female,13.170000000000002
+3297,Puerto Rico,1991,male,171.64000000000001
+3298,Puerto Rico,1992,female,12.24
+3299,Puerto Rico,1992,male,123.07
+3300,Puerto Rico,1993,female,9.719999999999999
+3301,Puerto Rico,1993,male,141.53
+3302,Puerto Rico,1994,female,11.209999999999999
+3303,Puerto Rico,1994,male,136.07
+3304,Puerto Rico,1995,female,10.72
+3305,Puerto Rico,1995,male,110.15
+3306,Puerto Rico,1996,female,12.99
+3307,Puerto Rico,1996,male,126.82
+3308,Puerto Rico,1997,female,4.74
+3309,Puerto Rico,1997,male,94.51999999999998
+3310,Puerto Rico,1998,female,9.42
+3311,Puerto Rico,1998,male,121.64999999999999
+3312,Puerto Rico,1999,female,11.23
+3313,Puerto Rico,1999,male,106.08
+3314,Puerto Rico,2000,female,8.389999999999999
+3315,Puerto Rico,2000,male,99.87
+3316,Puerto Rico,2001,female,10.780000000000001
+3317,Puerto Rico,2001,male,96.11
+3318,Puerto Rico,2002,female,10.849999999999998
+3319,Puerto Rico,2002,male,80.74000000000001
+3320,Puerto Rico,2003,female,5.779999999999999
+3321,Puerto Rico,2003,male,91.21
+3322,Puerto Rico,2004,female,7.029999999999999
+3323,Puerto Rico,2004,male,101.92
+3324,Puerto Rico,2005,female,12.600000000000001
+3325,Puerto Rico,2005,male,92.51
+3326,Puerto Rico,2006,female,6.100000000000001
+3327,Puerto Rico,2006,male,89.2
+3328,Puerto Rico,2007,female,12.78
+3329,Puerto Rico,2007,male,80.30000000000003
+3330,Puerto Rico,2008,female,13.71
+3331,Puerto Rico,2008,male,93.36999999999999
+3332,Puerto Rico,2009,female,7.93
+3333,Puerto Rico,2009,male,116.97000000000001
+3334,Puerto Rico,2010,female,12.470000000000002
+3335,Puerto Rico,2010,male,91.37
+3336,Puerto Rico,2011,female,11.420000000000002
+3337,Puerto Rico,2011,male,79.13000000000001
+3338,Puerto Rico,2012,female,12.030000000000001
+3339,Puerto Rico,2012,male,75.07000000000001
+3340,Puerto Rico,2013,female,9.67
+3341,Puerto Rico,2013,male,80.92
+3342,Puerto Rico,2014,female,8.5
+3343,Puerto Rico,2014,male,68.59
+3344,Puerto Rico,2015,female,7.28
+3345,Puerto Rico,2015,male,78.30000000000001
+3346,Qatar,1995,female,0.0
+3347,Qatar,1995,male,0.0
+3348,Qatar,2001,female,10.370000000000001
+3349,Qatar,2001,male,16.93
+3350,Qatar,2004,female,1.81
+3351,Qatar,2004,male,13.44
+3352,Qatar,2005,female,1.61
+3353,Qatar,2005,male,17.189999999999998
+3354,Qatar,2006,female,7.87
+3355,Qatar,2006,male,79.43
+3356,Qatar,2007,female,5.41
+3357,Qatar,2007,male,23.2
+3358,Qatar,2008,female,2.28
+3359,Qatar,2008,male,11.27
+3360,Qatar,2009,female,3.95
+3361,Qatar,2009,male,15.950000000000001
+3362,Qatar,2010,female,0.88
+3363,Qatar,2010,male,11.95
+3364,Qatar,2011,female,5.07
+3365,Qatar,2011,male,13.78
+3366,Qatar,2012,female,3.72
+3367,Qatar,2012,male,9.55
+3368,Qatar,2013,female,0.7
+3369,Qatar,2013,male,7.530000000000001
+3370,Qatar,2014,female,6.2700000000000005
+3371,Qatar,2014,male,12.72
+3372,Qatar,2015,female,6.530000000000001
+3373,Qatar,2015,male,12.309999999999999
+3374,Qatar,2016,female,2.88
+3375,Qatar,2016,male,13.549999999999999
+3376,Republic of Korea,1985,female,38.29
+3377,Republic of Korea,1985,male,108.36
+3378,Republic of Korea,1986,female,32.34
+3379,Republic of Korea,1986,male,110.97
+3380,Republic of Korea,1987,female,32.33
+3381,Republic of Korea,1987,male,95.91
+3382,Republic of Korea,1988,female,32.989999999999995
+3383,Republic of Korea,1988,male,81.59
+3384,Republic of Korea,1989,female,33.26
+3385,Republic of Korea,1989,male,88.14
+3386,Republic of Korea,1990,female,35.37
+3387,Republic of Korea,1990,male,85.16
+3388,Republic of Korea,1991,female,34.489999999999995
+3389,Republic of Korea,1991,male,81.69000000000001
+3390,Republic of Korea,1992,female,37.86
+3391,Republic of Korea,1992,male,89.53
+3392,Republic of Korea,1993,female,47.58
+3393,Republic of Korea,1993,male,111.9
+3394,Republic of Korea,1994,female,49.55
+3395,Republic of Korea,1994,male,115.85
+3396,Republic of Korea,1995,female,52.809999999999995
+3397,Republic of Korea,1995,male,126.46999999999998
+3398,Republic of Korea,1996,female,63.53
+3399,Republic of Korea,1996,male,153.45999999999998
+3400,Republic of Korea,1997,female,65.98
+3401,Republic of Korea,1997,male,160.81999999999996
+3402,Republic of Korea,1998,female,82.74999999999999
+3403,Republic of Korea,1998,male,219.57
+3404,Republic of Korea,1999,female,72.74
+3405,Republic of Korea,1999,male,184.78
+3406,Republic of Korea,2000,female,71.17
+3407,Republic of Korea,2000,male,177.42000000000002
+3408,Republic of Korea,2001,female,79.09
+3409,Republic of Korea,2001,male,194.45
+3410,Republic of Korea,2002,female,108.92999999999999
+3411,Republic of Korea,2002,male,252.11
+3412,Republic of Korea,2003,female,131.28
+3413,Republic of Korea,2003,male,322.84
+3414,Republic of Korea,2004,female,140.23
+3415,Republic of Korea,2004,male,329.46999999999997
+3416,Republic of Korea,2005,female,145.35
+3417,Republic of Korea,2005,male,333.69
+3418,Republic of Korea,2006,female,128.0
+3419,Republic of Korea,2006,male,292.46000000000004
+3420,Republic of Korea,2007,female,149.6
+3421,Republic of Korea,2007,male,316.9400000000001
+3422,Republic of Korea,2008,female,147.04000000000002
+3423,Republic of Korea,2008,male,305.24
+3424,Republic of Korea,2009,female,170.89
+3425,Republic of Korea,2009,male,348.63000000000005
+3426,Republic of Korea,2010,female,158.52
+3427,Republic of Korea,2010,male,359.68
+3428,Republic of Korea,2011,female,147.84
+3429,Republic of Korea,2011,male,367.2099999999999
+3430,Republic of Korea,2012,female,132.32000000000002
+3431,Republic of Korea,2012,male,310.94
+3432,Republic of Korea,2013,female,121.14
+3433,Republic of Korea,2013,male,307.42999999999995
+3434,Republic of Korea,2014,female,107.91000000000001
+3435,Republic of Korea,2014,male,277.41999999999996
+3436,Republic of Korea,2015,female,103.94999999999999
+3437,Republic of Korea,2015,male,285.19
+3438,Romania,1989,female,38.02
+3439,Romania,1989,male,119.75
+3440,Romania,1990,female,33.56
+3441,Romania,1990,male,92.36
+3442,Romania,1991,female,32.15
+3443,Romania,1991,male,101.23
+3444,Romania,1992,female,34.949999999999996
+3445,Romania,1992,male,129.23
+3446,Romania,1993,female,34.43
+3447,Romania,1993,male,127.64
+3448,Romania,1994,female,33.879999999999995
+3449,Romania,1994,male,138.9
+3450,Romania,1995,female,28.23
+3451,Romania,1995,male,127.95000000000002
+3452,Romania,1996,female,26.23
+3453,Romania,1996,male,133.75
+3454,Romania,1997,female,26.72
+3455,Romania,1997,male,134.88
+3456,Romania,1998,female,25.85
+3457,Romania,1998,male,135.44
+3458,Romania,1999,female,28.0
+3459,Romania,1999,male,130.26999999999998
+3460,Romania,2000,female,29.290000000000003
+3461,Romania,2000,male,129.9
+3462,Romania,2001,female,24.689999999999998
+3463,Romania,2001,male,124.42
+3464,Romania,2002,female,29.389999999999997
+3465,Romania,2002,male,144.21
+3466,Romania,2003,female,27.380000000000003
+3467,Romania,2003,male,132.32999999999998
+3468,Romania,2004,female,24.68
+3469,Romania,2004,male,126.51
+3470,Romania,2005,female,26.509999999999998
+3471,Romania,2005,male,119.5
+3472,Romania,2006,female,25.810000000000002
+3473,Romania,2006,male,123.28000000000002
+3474,Romania,2007,female,24.659999999999997
+3475,Romania,2007,male,111.4
+3476,Romania,2008,female,24.349999999999998
+3477,Romania,2008,male,116.05
+3478,Romania,2009,female,21.29
+3479,Romania,2009,male,122.73
+3480,Romania,2010,female,24.279999999999998
+3481,Romania,2010,male,125.76
+3482,Romania,2011,female,21.339999999999996
+3483,Romania,2011,male,117.44000000000001
+3484,Romania,2012,female,19.11
+3485,Romania,2012,male,122.92
+3486,Romania,2013,female,19.93
+3487,Romania,2013,male,118.06000000000002
+3488,Romania,2014,female,17.7
+3489,Romania,2014,male,113.33
+3490,Romania,2015,female,19.220000000000002
+3491,Romania,2015,male,114.33
+3492,Romania,2016,female,17.53
+3493,Romania,2016,male,98.80000000000001
+3494,Russian Federation,1989,female,80.61
+3495,Russian Federation,1989,male,318.21
+3496,Russian Federation,1990,female,79.96
+3497,Russian Federation,1990,male,319.21
+3498,Russian Federation,1991,female,76.61
+3499,Russian Federation,1991,male,319.78999999999996
+3500,Russian Federation,1992,female,80.28
+3501,Russian Federation,1992,male,357.2
+3502,Russian Federation,1993,female,87.56999999999998
+3503,Russian Federation,1993,male,434.49000000000007
+3504,Russian Federation,1994,female,89.82
+3505,Russian Federation,1994,male,477.82
+3506,Russian Federation,1995,female,93.26
+3507,Russian Federation,1995,male,454.12
+3508,Russian Federation,1996,female,85.66
+3509,Russian Federation,1996,male,440.62000000000006
+3510,Russian Federation,1997,female,84.58
+3511,Russian Federation,1997,male,423.51
+3512,Russian Federation,1998,female,80.57000000000001
+3513,Russian Federation,1998,male,394.16999999999996
+3514,Russian Federation,1999,female,86.95
+3515,Russian Federation,1999,male,423.17999999999995
+3516,Russian Federation,2000,female,79.53999999999999
+3517,Russian Federation,2000,male,424.93
+3518,Russian Federation,2001,female,77.92
+3519,Russian Federation,2001,male,426.73
+3520,Russian Federation,2002,female,78.4
+3521,Russian Federation,2002,male,410.1499999999999
+3522,Russian Federation,2003,female,73.11999999999999
+3523,Russian Federation,2003,male,395.7900000000001
+3524,Russian Federation,2004,female,70.07
+3525,Russian Federation,2004,male,377.5400000000001
+3526,Russian Federation,2005,female,63.87
+3527,Russian Federation,2005,male,356.4699999999999
+3528,Russian Federation,2006,female,63.160000000000004
+3529,Russian Federation,2006,male,338.15
+3530,Russian Federation,2007,female,63.52
+3531,Russian Federation,2007,male,323.46999999999997
+3532,Russian Federation,2008,female,60.28
+3533,Russian Federation,2008,male,306.52000000000004
+3534,Russian Federation,2009,female,55.92999999999999
+3535,Russian Federation,2009,male,296.87
+3536,Russian Federation,2010,female,50.09
+3537,Russian Federation,2010,male,269.12
+3538,Russian Federation,2011,female,49.300000000000004
+3539,Russian Federation,2011,male,250.37999999999997
+3540,Russian Federation,2012,female,47.56
+3541,Russian Federation,2012,male,237.95000000000002
+3542,Russian Federation,2013,female,42.56
+3543,Russian Federation,2013,male,231.41
+3544,Russian Federation,2014,female,40.52
+3545,Russian Federation,2014,male,218.7
+3546,Russian Federation,2015,female,37.66
+3547,Russian Federation,2015,male,199.26
+3548,Saint Kitts and Nevis,1990,female,0.0
+3549,Saint Kitts and Nevis,1990,male,0.0
+3550,Saint Kitts and Nevis,1991,female,0.0
+3551,Saint Kitts and Nevis,1991,male,0.0
+3552,Saint Kitts and Nevis,1992,female,0.0
+3553,Saint Kitts and Nevis,1992,male,0.0
+3554,Saint Lucia,1986,female,0.0
+3555,Saint Lucia,1986,male,59.95
+3556,Saint Lucia,1987,female,9.8
+3557,Saint Lucia,1987,male,131.62
+3558,Saint Lucia,1988,female,100.79
+3559,Saint Lucia,1988,male,81.42
+3560,Saint Lucia,1989,female,30.9
+3561,Saint Lucia,1989,male,58.01
+3562,Saint Lucia,1990,female,9.53
+3563,Saint Lucia,1990,male,17.39
+3564,Saint Lucia,1991,female,0.0
+3565,Saint Lucia,1991,male,104.09
+3566,Saint Lucia,1992,female,0.0
+3567,Saint Lucia,1992,male,98.11
+3568,Saint Lucia,1993,female,0.0
+3569,Saint Lucia,1993,male,75.28
+3570,Saint Lucia,1994,female,14.39
+3571,Saint Lucia,1994,male,31.41
+3572,Saint Lucia,1995,female,7.7
+3573,Saint Lucia,1995,male,74.01
+3574,Saint Lucia,1996,female,13.53
+3575,Saint Lucia,1996,male,47.50000000000001
+3576,Saint Lucia,1997,female,0.0
+3577,Saint Lucia,1997,male,117.53999999999999
+3578,Saint Lucia,1998,female,45.370000000000005
+3579,Saint Lucia,1998,male,73.66
+3580,Saint Lucia,1999,female,6.77
+3581,Saint Lucia,1999,male,68.17
+3582,Saint Lucia,2000,female,27.299999999999997
+3583,Saint Lucia,2000,male,170.56
+3584,Saint Lucia,2001,female,0.0
+3585,Saint Lucia,2001,male,59.08
+3586,Saint Lucia,2002,female,56.01
+3587,Saint Lucia,2002,male,131.51
+3588,Saint Lucia,2003,female,49.37
+3589,Saint Lucia,2003,male,83.89
+3590,Saint Lucia,2004,female,0.0
+3591,Saint Lucia,2004,male,66.17
+3592,Saint Lucia,2005,female,0.0
+3593,Saint Lucia,2005,male,24.82
+3594,Saint Lucia,2006,female,0.0
+3595,Saint Lucia,2006,male,17.83
+3596,Saint Lucia,2008,female,0.0
+3597,Saint Lucia,2008,male,0.0
+3598,Saint Lucia,2009,female,0.0
+3599,Saint Lucia,2009,male,82.32
+3600,Saint Lucia,2010,female,6.38
+3601,Saint Lucia,2010,male,23.93
+3602,Saint Lucia,2011,female,0.0
+3603,Saint Lucia,2011,male,53.32
+3604,Saint Lucia,2012,female,4.06
+3605,Saint Lucia,2012,male,80.97
+3606,Saint Lucia,2013,female,4.01
+3607,Saint Lucia,2013,male,110.09000000000002
+3608,Saint Lucia,2014,female,20.299999999999997
+3609,Saint Lucia,2014,male,71.26
+3610,Saint Vincent and Grenadines,1985,female,0.0
+3611,Saint Vincent and Grenadines,1985,male,32.79
+3612,Saint Vincent and Grenadines,1986,female,0.0
+3613,Saint Vincent and Grenadines,1986,male,0.0
+3614,Saint Vincent and Grenadines,1987,female,0.0
+3615,Saint Vincent and Grenadines,1987,male,0.0
+3616,Saint Vincent and Grenadines,1990,female,0.0
+3617,Saint Vincent and Grenadines,1990,male,72.06
+3618,Saint Vincent and Grenadines,1995,female,0.0
+3619,Saint Vincent and Grenadines,1995,male,85.41
+3620,Saint Vincent and Grenadines,1996,female,10.9
+3621,Saint Vincent and Grenadines,1996,male,74.16
+3622,Saint Vincent and Grenadines,1997,female,0.0
+3623,Saint Vincent and Grenadines,1997,male,30.019999999999996
+3624,Saint Vincent and Grenadines,1998,female,0.0
+3625,Saint Vincent and Grenadines,1998,male,194.42000000000002
+3626,Saint Vincent and Grenadines,1999,female,0.0
+3627,Saint Vincent and Grenadines,1999,male,65.80000000000001
+3628,Saint Vincent and Grenadines,2000,female,0.0
+3629,Saint Vincent and Grenadines,2000,male,44.11
+3630,Saint Vincent and Grenadines,2001,female,12.33
+3631,Saint Vincent and Grenadines,2001,male,148.33
+3632,Saint Vincent and Grenadines,2002,female,8.59
+3633,Saint Vincent and Grenadines,2002,male,194.33999999999997
+3634,Saint Vincent and Grenadines,2003,female,0.0
+3635,Saint Vincent and Grenadines,2003,male,50.91
+3636,Saint Vincent and Grenadines,2004,female,0.0
+3637,Saint Vincent and Grenadines,2004,male,46.459999999999994
+3638,Saint Vincent and Grenadines,2005,female,8.01
+3639,Saint Vincent and Grenadines,2005,male,64.1
+3640,Saint Vincent and Grenadines,2006,female,7.88
+3641,Saint Vincent and Grenadines,2006,male,114.18999999999998
+3642,Saint Vincent and Grenadines,2007,female,0.0
+3643,Saint Vincent and Grenadines,2007,male,102.39
+3644,Saint Vincent and Grenadines,2008,female,7.66
+3645,Saint Vincent and Grenadines,2008,male,32.629999999999995
+3646,Saint Vincent and Grenadines,2009,female,0.0
+3647,Saint Vincent and Grenadines,2009,male,11.18
+3648,Saint Vincent and Grenadines,2010,female,0.0
+3649,Saint Vincent and Grenadines,2010,male,54.83
+3650,Saint Vincent and Grenadines,2011,female,16.42
+3651,Saint Vincent and Grenadines,2011,male,30.560000000000002
+3652,Saint Vincent and Grenadines,2012,female,24.89
+3653,Saint Vincent and Grenadines,2012,male,72.4
+3654,Saint Vincent and Grenadines,2013,female,0.0
+3655,Saint Vincent and Grenadines,2013,male,0.0
+3656,Saint Vincent and Grenadines,2014,female,0.0
+3657,Saint Vincent and Grenadines,2014,male,80.78
+3658,Saint Vincent and Grenadines,2015,female,11.02
+3659,Saint Vincent and Grenadines,2015,male,17.060000000000002
+3660,San Marino,1999,female,0.0
+3661,San Marino,1999,male,64.35000000000001
+3662,San Marino,2000,female,0.0
+3663,San Marino,2000,male,47.26
+3664,San Marino,2005,female,0.0
+3665,San Marino,2005,male,34.01
+3666,Serbia,1998,female,76.83
+3667,Serbia,1998,male,230.22000000000003
+3668,Serbia,1999,female,98.60000000000001
+3669,Serbia,1999,male,246.13
+3670,Serbia,2000,female,87.01
+3671,Serbia,2000,male,237.15
+3672,Serbia,2001,female,72.62
+3673,Serbia,2001,male,224.38
+3674,Serbia,2002,female,72.58000000000001
+3675,Serbia,2002,male,223.33
+3676,Serbia,2003,female,66.47
+3677,Serbia,2003,male,204.79999999999998
+3678,Serbia,2004,female,57.12
+3679,Serbia,2004,male,205.39
+3680,Serbia,2005,female,74.03
+3681,Serbia,2005,male,212.29000000000002
+3682,Serbia,2006,female,76.10999999999999
+3683,Serbia,2006,male,209.96
+3684,Serbia,2007,female,63.69
+3685,Serbia,2007,male,194.76
+3686,Serbia,2008,female,63.26
+3687,Serbia,2008,male,179.35
+3688,Serbia,2009,female,61.589999999999996
+3689,Serbia,2009,male,196.84
+3690,Serbia,2010,female,51.650000000000006
+3691,Serbia,2010,male,182.83
+3692,Serbia,2011,female,58.04
+3693,Serbia,2011,male,185.41000000000003
+3694,Serbia,2012,female,51.3
+3695,Serbia,2012,male,183.23
+3696,Serbia,2013,female,44.78
+3697,Serbia,2013,male,172.95
+3698,Serbia,2014,female,47.11
+3699,Serbia,2014,male,169.67000000000002
+3700,Serbia,2015,female,45.29
+3701,Serbia,2015,male,160.68
+3702,Seychelles,1985,female,13.33
+3703,Seychelles,1985,male,142.85000000000002
+3704,Seychelles,1986,female,0.0
+3705,Seychelles,1986,male,23.26
+3706,Seychelles,1987,female,0.0
+3707,Seychelles,1987,male,60.72
+3708,Seychelles,2001,female,10.39
+3709,Seychelles,2001,male,77.18
+3710,Seychelles,2002,female,0.0
+3711,Seychelles,2002,male,154.12
+3712,Seychelles,2003,female,18.31
+3713,Seychelles,2003,male,81.69
+3714,Seychelles,2004,female,0.0
+3715,Seychelles,2004,male,63.27000000000001
+3716,Seychelles,2005,female,14.33
+3717,Seychelles,2005,male,57.17
+3718,Seychelles,2006,female,0.0
+3719,Seychelles,2006,male,275.75
+3720,Seychelles,2007,female,12.96
+3721,Seychelles,2007,male,134.68
+3722,Seychelles,2008,female,0.0
+3723,Seychelles,2008,male,39.07
+3724,Seychelles,2009,female,0.0
+3725,Seychelles,2009,male,43.81
+3726,Seychelles,2010,female,0.0
+3727,Seychelles,2010,male,51.989999999999995
+3728,Seychelles,2011,female,0.0
+3729,Seychelles,2011,male,51.34
+3730,Seychelles,2012,female,0.0
+3731,Seychelles,2012,male,33.5
+3732,Seychelles,2013,female,0.0
+3733,Seychelles,2013,male,131.4
+3734,Seychelles,2014,female,20.54
+3735,Seychelles,2014,male,22.79
+3736,Seychelles,2015,female,16.79
+3737,Seychelles,2015,male,64.46000000000001
+3738,Singapore,1985,female,131.49
+3739,Singapore,1985,male,221.86999999999998
+3740,Singapore,1986,female,161.67
+3741,Singapore,1986,male,162.93999999999997
+3742,Singapore,1987,female,109.93
+3743,Singapore,1987,male,163.63000000000002
+3744,Singapore,1988,female,137.47
+3745,Singapore,1988,male,222.72
+3746,Singapore,1989,female,163.16
+3747,Singapore,1989,male,190.95
+3748,Singapore,1990,female,118.25
+3749,Singapore,1990,male,153.78
+3750,Singapore,1991,female,99.4
+3751,Singapore,1991,male,129.98
+3752,Singapore,1992,female,92.3
+3753,Singapore,1992,male,113.12000000000002
+3754,Singapore,1993,female,83.7
+3755,Singapore,1993,male,151.44000000000003
+3756,Singapore,1994,female,97.16999999999999
+3757,Singapore,1994,male,149.68
+3758,Singapore,1995,female,99.12
+3759,Singapore,1995,male,183.64000000000001
+3760,Singapore,1996,female,74.39
+3761,Singapore,1996,male,134.55
+3762,Singapore,1997,female,66.19000000000001
+3763,Singapore,1997,male,140.46
+3764,Singapore,1998,female,84.86
+3765,Singapore,1998,male,130.49999999999997
+3766,Singapore,1999,female,43.5
+3767,Singapore,1999,male,122.95
+3768,Singapore,2000,female,53.22
+3769,Singapore,2000,male,111.12000000000002
+3770,Singapore,2001,female,57.15999999999999
+3771,Singapore,2001,male,110.64000000000001
+3772,Singapore,2002,female,69.17
+3773,Singapore,2002,male,103.22
+3774,Singapore,2003,female,60.25000000000001
+3775,Singapore,2003,male,112.49000000000001
+3776,Singapore,2004,female,57.1
+3777,Singapore,2004,male,110.37999999999998
+3778,Singapore,2005,female,47.959999999999994
+3779,Singapore,2005,male,132.37
+3780,Singapore,2006,female,61.199999999999996
+3781,Singapore,2006,male,87.55
+3782,Singapore,2007,female,57.22
+3783,Singapore,2007,male,108.53999999999999
+3784,Singapore,2008,female,44.63
+3785,Singapore,2008,male,105.62
+3786,Singapore,2009,female,49.370000000000005
+3787,Singapore,2009,male,100.21
+3788,Singapore,2010,female,37.91
+3789,Singapore,2010,male,91.32000000000001
+3790,Singapore,2011,female,40.09
+3791,Singapore,2011,male,76.86999999999999
+3792,Singapore,2012,female,49.480000000000004
+3793,Singapore,2012,male,92.14
+3794,Singapore,2013,female,39.84
+3795,Singapore,2013,male,98.03
+3796,Singapore,2014,female,31.629999999999995
+3797,Singapore,2014,male,100.14999999999998
+3798,Singapore,2015,female,37.67
+3799,Singapore,2015,male,71.62
+3800,Slovakia,1992,female,35.059999999999995
+3801,Slovakia,1992,male,179.17000000000004
+3802,Slovakia,1993,female,30.660000000000004
+3803,Slovakia,1993,male,164.68
+3804,Slovakia,1994,female,25.229999999999997
+3805,Slovakia,1994,male,159.81000000000003
+3806,Slovakia,1995,female,28.859999999999996
+3807,Slovakia,1995,male,169.83999999999997
+3808,Slovakia,1996,female,24.559999999999995
+3809,Slovakia,1996,male,149.94
+3810,Slovakia,1997,female,25.919999999999998
+3811,Slovakia,1997,male,138.18
+3812,Slovakia,1998,female,20.060000000000002
+3813,Slovakia,1998,male,141.78
+3814,Slovakia,1999,female,22.46
+3815,Slovakia,1999,male,149.62
+3816,Slovakia,2000,female,29.92
+3817,Slovakia,2000,male,150.16
+3818,Slovakia,2001,female,25.41
+3819,Slovakia,2001,male,146.47
+3820,Slovakia,2002,female,24.200000000000003
+3821,Slovakia,2002,male,167.57
+3822,Slovakia,2003,female,21.68
+3823,Slovakia,2003,male,147.48000000000002
+3824,Slovakia,2004,female,22.88
+3825,Slovakia,2004,male,128.01999999999998
+3826,Slovakia,2005,female,20.240000000000002
+3827,Slovakia,2005,male,145.13
+3828,Slovakia,2006,female,0.0
+3829,Slovakia,2006,male,0.0
+3830,Slovakia,2007,female,0.0
+3831,Slovakia,2007,male,0.0
+3832,Slovakia,2008,female,18.07
+3833,Slovakia,2008,male,116.13000000000001
+3834,Slovakia,2009,female,11.530000000000001
+3835,Slovakia,2009,male,127.55
+3836,Slovakia,2010,female,19.160000000000004
+3837,Slovakia,2010,male,124.52
+3838,Slovakia,2012,female,12.45
+3839,Slovakia,2012,male,117.03000000000002
+3840,Slovakia,2013,female,16.5
+3841,Slovakia,2013,male,127.41
+3842,Slovakia,2014,female,16.43
+3843,Slovakia,2014,male,116.39000000000001
+3844,Slovenia,1995,female,80.08
+3845,Slovenia,1995,male,313.78999999999996
+3846,Slovenia,1996,female,84.19999999999999
+3847,Slovenia,1996,male,336.9099999999999
+3848,Slovenia,1997,female,71.17000000000002
+3849,Slovenia,1997,male,338.93
+3850,Slovenia,1998,female,85.45
+3851,Slovenia,1998,male,328.15
+3852,Slovenia,1999,female,75.31
+3853,Slovenia,1999,male,318.04999999999995
+3854,Slovenia,2000,female,89.31
+3855,Slovenia,2000,male,314.81
+3856,Slovenia,2001,female,75.55
+3857,Slovenia,2001,male,347.84999999999997
+3858,Slovenia,2002,female,62.650000000000006
+3859,Slovenia,2002,male,291.65
+3860,Slovenia,2003,female,73.38
+3861,Slovenia,2003,male,303.18
+3862,Slovenia,2004,female,82.66
+3863,Slovenia,2004,male,215.82
+3864,Slovenia,2005,female,62.470000000000006
+3865,Slovenia,2005,male,274.94
+3866,Slovenia,2006,female,65.11
+3867,Slovenia,2006,male,282.76000000000005
+3868,Slovenia,2007,female,57.65
+3869,Slovenia,2007,male,233.79999999999998
+3870,Slovenia,2008,female,46.92
+3871,Slovenia,2008,male,216.17000000000002
+3872,Slovenia,2009,female,52.169999999999995
+3873,Slovenia,2009,male,216.54
+3874,Slovenia,2010,female,39.15
+3875,Slovenia,2010,male,226.43999999999997
+3876,Slovenia,2011,female,47.22
+3877,Slovenia,2011,male,234.44
+3878,Slovenia,2012,female,41.559999999999995
+3879,Slovenia,2012,male,238.18
+3880,Slovenia,2013,female,47.39
+3881,Slovenia,2013,male,235.62999999999997
+3882,Slovenia,2014,female,34.13
+3883,Slovenia,2014,male,206.23999999999998
+3884,Slovenia,2015,female,47.14
+3885,Slovenia,2015,male,217.67000000000002
+3886,South Africa,1996,female,1.25
+3887,South Africa,1996,male,6.779999999999999
+3888,South Africa,1997,female,1.7000000000000002
+3889,South Africa,1997,male,3.25
+3890,South Africa,1998,female,1.7199999999999998
+3891,South Africa,1998,male,5.9799999999999995
+3892,South Africa,1999,female,2.35
+3893,South Africa,1999,male,8.52
+3894,South Africa,2000,female,1.6700000000000002
+3895,South Africa,2000,male,7.87
+3896,South Africa,2001,female,1.73
+3897,South Africa,2001,male,10.7
+3898,South Africa,2002,female,1.3299999999999998
+3899,South Africa,2002,male,5.6499999999999995
+3900,South Africa,2003,female,2.56
+3901,South Africa,2003,male,6.68
+3902,South Africa,2004,female,2.4799999999999995
+3903,South Africa,2004,male,10.15
+3904,South Africa,2005,female,3.6300000000000003
+3905,South Africa,2005,male,11.66
+3906,South Africa,2006,female,3.19
+3907,South Africa,2006,male,14.729999999999999
+3908,South Africa,2007,female,3.66
+3909,South Africa,2007,male,8.459999999999999
+3910,South Africa,2008,female,2.5
+3911,South Africa,2008,male,11.639999999999999
+3912,South Africa,2009,female,2.52
+3913,South Africa,2009,male,8.19
+3914,South Africa,2010,female,2.67
+3915,South Africa,2010,male,10.42
+3916,South Africa,2011,female,2.2600000000000002
+3917,South Africa,2011,male,7.049999999999999
+3918,South Africa,2012,female,2.5700000000000003
+3919,South Africa,2012,male,10.99
+3920,South Africa,2013,female,3.1399999999999992
+3921,South Africa,2013,male,11.76
+3922,South Africa,2014,female,2.77
+3923,South Africa,2014,male,12.309999999999999
+3924,South Africa,2015,female,2.3899999999999997
+3925,South Africa,2015,male,10.610000000000001
+3926,Spain,1985,female,26.080000000000002
+3927,Spain,1985,male,88.85000000000001
+3928,Spain,1986,female,26.7
+3929,Spain,1986,male,93.13000000000001
+3930,Spain,1987,female,27.830000000000002
+3931,Spain,1987,male,94.31
+3932,Spain,1988,female,29.200000000000003
+3933,Spain,1988,male,98.08000000000003
+3934,Spain,1989,female,27.790000000000003
+3935,Spain,1989,male,98.69999999999999
+3936,Spain,1990,female,29.27
+3937,Spain,1990,male,99.97
+3938,Spain,1991,female,28.16
+3939,Spain,1991,male,93.68
+3940,Spain,1992,female,23.96
+3941,Spain,1992,male,95.05
+3942,Spain,1993,female,25.29
+3943,Spain,1993,male,95.55999999999999
+3944,Spain,1994,female,24.87
+3945,Spain,1994,male,99.44999999999999
+3946,Spain,1995,female,24.919999999999998
+3947,Spain,1995,male,98.89
+3948,Spain,1996,female,27.960000000000004
+3949,Spain,1996,male,98.57
+3950,Spain,1997,female,27.830000000000002
+3951,Spain,1997,male,103.48999999999998
+3952,Spain,1998,female,24.12
+3953,Spain,1998,male,99.91999999999999
+3954,Spain,1999,female,25.11
+3955,Spain,1999,male,93.97
+3956,Spain,2000,female,24.740000000000002
+3957,Spain,2000,male,97.47000000000001
+3958,Spain,2001,female,22.53
+3959,Spain,2001,male,89.86999999999999
+3960,Spain,2002,female,23.230000000000004
+3961,Spain,2002,male,92.41
+3962,Spain,2003,female,23.19
+3963,Spain,2003,male,93.29999999999998
+3964,Spain,2004,female,23.93
+3965,Spain,2004,male,88.7
+3966,Spain,2005,female,22.599999999999998
+3967,Spain,2005,male,85.05999999999999
+3968,Spain,2006,female,19.33
+3969,Spain,2006,male,80.53999999999999
+3970,Spain,2007,female,20.2
+3971,Spain,2007,male,78.74999999999999
+3972,Spain,2008,female,19.57
+3973,Spain,2008,male,78.94999999999999
+3974,Spain,2009,female,18.720000000000002
+3975,Spain,2009,male,79.3
+3976,Spain,2010,female,16.01
+3977,Spain,2010,male,71.42999999999999
+3978,Spain,2011,female,17.320000000000004
+3979,Spain,2011,male,71.27
+3980,Spain,2012,female,18.65
+3981,Spain,2012,male,78.23
+3982,Spain,2013,female,22.229999999999997
+3983,Spain,2013,male,79.09
+3984,Spain,2014,female,22.430000000000003
+3985,Spain,2014,male,81.92
+3986,Spain,2015,female,21.24
+3987,Spain,2015,male,76.14
+3988,Sri Lanka,1985,female,143.30000000000004
+3989,Sri Lanka,1985,male,415.4200000000001
+3990,Sri Lanka,1986,female,123.49999999999999
+3991,Sri Lanka,1986,male,406.3
+3992,Sri Lanka,1996,female,85.67999999999999
+3993,Sri Lanka,1996,male,310.03
+3994,Sri Lanka,1997,female,113.69
+3995,Sri Lanka,1997,male,358.41
+3996,Sri Lanka,1998,female,92.88
+3997,Sri Lanka,1998,male,358.27
+3998,Sri Lanka,1999,female,100.75999999999998
+3999,Sri Lanka,1999,male,344.48
+4000,Sri Lanka,2000,female,92.78
+4001,Sri Lanka,2000,male,334.51000000000005
+4002,Sri Lanka,2001,female,70.89999999999999
+4003,Sri Lanka,2001,male,287.16
+4004,Sri Lanka,2002,female,65.34
+4005,Sri Lanka,2002,male,274.07
+4006,Sri Lanka,2003,female,67.33
+4007,Sri Lanka,2003,male,285.42
+4008,Sri Lanka,2006,female,66.75000000000001
+4009,Sri Lanka,2006,male,261.98
+4010,Suriname,1985,female,127.44999999999999
+4011,Suriname,1985,male,343.39
+4012,Suriname,1986,female,57.4
+4013,Suriname,1986,male,154.59
+4014,Suriname,1987,female,55.22999999999999
+4015,Suriname,1987,male,196.46999999999997
+4016,Suriname,1988,female,79.94
+4017,Suriname,1988,male,129.78
+4018,Suriname,1989,female,67.08
+4019,Suriname,1989,male,145.04
+4020,Suriname,1990,female,10.059999999999999
+4021,Suriname,1990,male,204.03
+4022,Suriname,1991,female,89.89000000000001
+4023,Suriname,1991,male,125.57000000000001
+4024,Suriname,1992,female,35.309999999999995
+4025,Suriname,1992,male,102.65
+4026,Suriname,1995,female,39.440000000000005
+4027,Suriname,1995,male,143.08
+4028,Suriname,1996,female,11.389999999999999
+4029,Suriname,1996,male,72.88000000000001
+4030,Suriname,1997,female,28.0
+4031,Suriname,1997,male,87.69
+4032,Suriname,1998,female,19.119999999999997
+4033,Suriname,1998,male,82.83
+4034,Suriname,1999,female,37.36
+4035,Suriname,1999,male,179.34
+4036,Suriname,2000,female,39.43
+4037,Suriname,2000,male,88.49999999999999
+4038,Suriname,2001,female,45.51
+4039,Suriname,2001,male,172.57999999999998
+4040,Suriname,2002,female,71.95999999999998
+4041,Suriname,2002,male,142.26999999999998
+4042,Suriname,2003,female,47.03999999999999
+4043,Suriname,2003,male,198.95999999999998
+4044,Suriname,2004,female,59.28
+4045,Suriname,2004,male,142.82
+4046,Suriname,2005,female,45.69
+4047,Suriname,2005,male,165.48
+4048,Suriname,2006,female,69.43
+4049,Suriname,2006,male,228.82999999999998
+4050,Suriname,2007,female,102.58999999999999
+4051,Suriname,2007,male,253.55
+4052,Suriname,2008,female,91.08
+4053,Suriname,2008,male,325.73999999999995
+4054,Suriname,2009,female,85.85000000000001
+4055,Suriname,2009,male,283.86
+4056,Suriname,2010,female,138.05999999999997
+4057,Suriname,2010,male,287.23999999999995
+4058,Suriname,2011,female,68.26
+4059,Suriname,2011,male,285.05
+4060,Suriname,2012,female,76.03999999999999
+4061,Suriname,2012,male,378.07
+4062,Suriname,2013,female,73.62
+4063,Suriname,2013,male,213.18
+4064,Suriname,2014,female,88.62
+4065,Suriname,2014,male,268.71999999999997
+4066,Sweden,1987,female,64.14
+4067,Sweden,1987,male,166.76999999999998
+4068,Sweden,1988,female,64.62999999999998
+4069,Sweden,1988,male,167.04
+4070,Sweden,1989,female,63.260000000000005
+4071,Sweden,1989,male,175.07999999999998
+4072,Sweden,1990,female,60.730000000000004
+4073,Sweden,1990,male,161.32
+4074,Sweden,1991,female,59.599999999999994
+4075,Sweden,1991,male,157.94
+4076,Sweden,1992,female,55.76
+4077,Sweden,1992,male,145.01999999999998
+4078,Sweden,1993,female,56.0
+4079,Sweden,1993,male,144.97000000000003
+4080,Sweden,1994,female,53.11
+4081,Sweden,1994,male,142.58
+4082,Sweden,1995,female,54.57
+4083,Sweden,1995,male,137.15
+4084,Sweden,1996,female,50.239999999999995
+4085,Sweden,1996,male,128.0
+4086,Sweden,1997,female,44.25999999999999
+4087,Sweden,1997,male,122.92999999999999
+4088,Sweden,1998,female,45.89000000000001
+4089,Sweden,1998,male,129.91
+4090,Sweden,1999,female,46.22
+4091,Sweden,1999,male,126.41999999999999
+4092,Sweden,2000,female,41.81
+4093,Sweden,2000,male,120.69000000000001
+4094,Sweden,2001,female,45.8
+4095,Sweden,2001,male,121.69
+4096,Sweden,2002,female,40.89
+4097,Sweden,2002,male,121.82000000000001
+4098,Sweden,2003,female,45.31
+4099,Sweden,2003,male,108.1
+4100,Sweden,2004,female,40.78
+4101,Sweden,2004,male,116.63000000000001
+4102,Sweden,2005,female,47.76
+4103,Sweden,2005,male,116.86
+4104,Sweden,2006,female,48.09
+4105,Sweden,2006,male,112.67
+4106,Sweden,2007,female,38.660000000000004
+4107,Sweden,2007,male,108.73
+4108,Sweden,2008,female,40.42
+4109,Sweden,2008,male,115.26
+4110,Sweden,2009,female,42.07
+4111,Sweden,2009,male,118.33
+4112,Sweden,2010,female,36.05
+4113,Sweden,2010,male,110.49000000000001
+4114,Sweden,2011,female,39.72
+4115,Sweden,2011,male,102.05
+4116,Sweden,2012,female,39.06999999999999
+4117,Sweden,2012,male,109.03999999999999
+4118,Sweden,2013,female,45.17000000000001
+4119,Sweden,2013,male,113.03000000000002
+4120,Sweden,2014,female,42.93
+4121,Sweden,2014,male,106.12
+4122,Sweden,2015,female,40.300000000000004
+4123,Sweden,2015,male,109.0
+4124,Sweden,2016,female,41.019999999999996
+4125,Sweden,2016,male,97.82000000000001
+4126,Switzerland,1995,female,66.21000000000001
+4127,Switzerland,1995,male,216.86
+4128,Switzerland,1996,female,70.69
+4129,Switzerland,1996,male,209.19999999999996
+4130,Switzerland,1997,female,68.61
+4131,Switzerland,1997,male,198.16
+4132,Switzerland,1998,female,61.36
+4133,Switzerland,1998,male,212.05999999999997
+4134,Switzerland,1999,female,62.05
+4135,Switzerland,1999,male,189.92999999999998
+4136,Switzerland,2000,female,66.98
+4137,Switzerland,2000,male,199.21999999999997
+4138,Switzerland,2001,female,66.32000000000001
+4139,Switzerland,2001,male,195.36999999999998
+4140,Switzerland,2002,female,77.10999999999999
+4141,Switzerland,2002,male,196.59
+4142,Switzerland,2003,female,72.74
+4143,Switzerland,2003,male,169.92000000000002
+4144,Switzerland,2004,female,71.28
+4145,Switzerland,2004,male,170.99
+4146,Switzerland,2005,female,65.67
+4147,Switzerland,2005,male,180.51999999999998
+4148,Switzerland,2006,female,72.30999999999999
+4149,Switzerland,2006,male,169.32
+4150,Switzerland,2007,female,74.25
+4151,Switzerland,2007,male,181.56
+4152,Switzerland,2008,female,73.43
+4153,Switzerland,2008,male,164.08
+4154,Switzerland,2009,female,39.42
+4155,Switzerland,2009,male,140.70999999999998
+4156,Switzerland,2010,female,38.72
+4157,Switzerland,2010,male,121.8
+4158,Switzerland,2011,female,38.67
+4159,Switzerland,2011,male,129.55
+4160,Switzerland,2012,female,38.27000000000001
+4161,Switzerland,2012,male,127.11999999999999
+4162,Switzerland,2013,female,37.559999999999995
+4163,Switzerland,2013,male,132.70000000000002
+4164,Switzerland,2014,female,37.830000000000005
+4165,Switzerland,2014,male,124.26999999999998
+4166,Switzerland,2015,female,36.82
+4167,Switzerland,2015,male,127.83999999999999
+4168,Thailand,1985,female,30.8
+4169,Thailand,1985,male,51.74
+4170,Thailand,1986,female,23.13
+4171,Thailand,1986,male,48.78000000000001
+4172,Thailand,1987,female,28.51
+4173,Thailand,1987,male,53.309999999999995
+4174,Thailand,1990,female,30.45
+4175,Thailand,1990,male,65.47
+4176,Thailand,1991,female,26.11
+4177,Thailand,1991,male,60.35000000000001
+4178,Thailand,1992,female,24.92
+4179,Thailand,1992,male,58.18
+4180,Thailand,1994,female,15.03
+4181,Thailand,1994,male,41.24000000000001
+4182,Thailand,1995,female,24.65
+4183,Thailand,1995,male,68.87
+4184,Thailand,1996,female,23.240000000000002
+4185,Thailand,1996,male,69.81
+4186,Thailand,1997,female,18.68
+4187,Thailand,1997,male,67.69
+4188,Thailand,1998,female,22.23
+4189,Thailand,1998,male,77.33
+4190,Thailand,1999,female,24.38
+4191,Thailand,1999,male,84.64999999999999
+4192,Thailand,2000,female,23.98
+4193,Thailand,2000,male,82.12
+4194,Thailand,2002,female,24.060000000000002
+4195,Thailand,2002,male,79.06
+4196,Thailand,2003,female,21.119999999999997
+4197,Thailand,2003,male,70.04
+4198,Thailand,2004,female,20.689999999999998
+4199,Thailand,2004,male,65.37
+4200,Thailand,2005,female,16.84
+4201,Thailand,2005,male,61.150000000000006
+4202,Thailand,2006,female,13.549999999999999
+4203,Thailand,2006,male,55.49
+4204,Thailand,2007,female,16.419999999999998
+4205,Thailand,2007,male,62.72
+4206,Thailand,2008,female,17.57
+4207,Thailand,2008,male,60.61
+4208,Thailand,2009,female,16.150000000000002
+4209,Thailand,2009,male,62.40999999999999
+4210,Thailand,2010,female,16.39
+4211,Thailand,2010,male,64.11
+4212,Thailand,2011,female,17.619999999999997
+4213,Thailand,2011,male,59.97
+4214,Thailand,2012,female,17.66
+4215,Thailand,2012,male,63.029999999999994
+4216,Thailand,2013,female,16.419999999999998
+4217,Thailand,2013,male,63.14
+4218,Thailand,2014,female,16.63
+4219,Thailand,2014,male,60.33
+4220,Thailand,2015,female,15.37
+4221,Thailand,2015,male,65.78000000000002
+4222,Thailand,2016,female,15.34
+4223,Thailand,2016,male,61.97999999999999
+4224,Trinidad and Tobago,1985,female,4.59
+4225,Trinidad and Tobago,1985,male,25.580000000000002
+4226,Trinidad and Tobago,1986,female,41.56
+4227,Trinidad and Tobago,1986,male,81.57
+4228,Trinidad and Tobago,1987,female,25.19
+4229,Trinidad and Tobago,1987,male,130.35
+4230,Trinidad and Tobago,1988,female,55.230000000000004
+4231,Trinidad and Tobago,1988,male,173.51999999999998
+4232,Trinidad and Tobago,1989,female,43.24
+4233,Trinidad and Tobago,1989,male,154.92000000000002
+4234,Trinidad and Tobago,1990,female,48.53000000000001
+4235,Trinidad and Tobago,1990,male,137.85
+4236,Trinidad and Tobago,1991,female,32.52
+4237,Trinidad and Tobago,1991,male,121.02
+4238,Trinidad and Tobago,1992,female,26.54
+4239,Trinidad and Tobago,1992,male,167.85
+4240,Trinidad and Tobago,1993,female,26.12
+4241,Trinidad and Tobago,1993,male,135.40999999999997
+4242,Trinidad and Tobago,1994,female,29.86
+4243,Trinidad and Tobago,1994,male,129.54
+4244,Trinidad and Tobago,1995,female,35.4
+4245,Trinidad and Tobago,1995,male,207.53
+4246,Trinidad and Tobago,1996,female,42.73
+4247,Trinidad and Tobago,1996,male,153.63
+4248,Trinidad and Tobago,1997,female,28.990000000000002
+4249,Trinidad and Tobago,1997,male,160.4
+4250,Trinidad and Tobago,1998,female,34.6
+4251,Trinidad and Tobago,1998,male,161.44000000000003
+4252,Trinidad and Tobago,1999,female,31.339999999999996
+4253,Trinidad and Tobago,1999,male,113.97999999999999
+4254,Trinidad and Tobago,2000,female,49.6
+4255,Trinidad and Tobago,2000,male,148.72
+4256,Trinidad and Tobago,2001,female,36.06
+4257,Trinidad and Tobago,2001,male,169.27
+4258,Trinidad and Tobago,2002,female,27.03
+4259,Trinidad and Tobago,2002,male,131.98
+4260,Trinidad and Tobago,2003,female,34.62
+4261,Trinidad and Tobago,2003,male,123.63
+4262,Trinidad and Tobago,2004,female,30.55
+4263,Trinidad and Tobago,2004,male,157.73000000000002
+4264,Trinidad and Tobago,2005,female,28.57
+4265,Trinidad and Tobago,2005,male,115.57000000000001
+4266,Trinidad and Tobago,2006,female,21.589999999999996
+4267,Trinidad and Tobago,2006,male,112.30000000000001
+4268,Trinidad and Tobago,2007,female,20.379999999999995
+4269,Trinidad and Tobago,2007,male,123.20000000000002
+4270,Trinidad and Tobago,2008,female,30.59
+4271,Trinidad and Tobago,2008,male,147.66
+4272,Trinidad and Tobago,2009,female,17.62
+4273,Trinidad and Tobago,2009,male,102.62
+4274,Trinidad and Tobago,2010,female,25.43
+4275,Trinidad and Tobago,2010,male,125.07000000000001
+4276,Trinidad and Tobago,2011,female,21.91
+4277,Trinidad and Tobago,2011,male,116.78
+4278,Turkey,2009,female,5.1899999999999995
+4279,Turkey,2009,male,16.099999999999998
+4280,Turkey,2010,female,7.680000000000001
+4281,Turkey,2010,male,24.01
+4282,Turkey,2011,female,5.47
+4283,Turkey,2011,male,17.599999999999998
+4284,Turkey,2012,female,7.05
+4285,Turkey,2012,male,21.35
+4286,Turkey,2013,female,8.649999999999999
+4287,Turkey,2013,male,26.770000000000007
+4288,Turkey,2014,female,7.3500000000000005
+4289,Turkey,2014,male,23.48
+4290,Turkey,2015,female,7.05
+4291,Turkey,2015,male,21.42
+4292,Turkmenistan,1987,female,65.25
+4293,Turkmenistan,1987,male,108.36000000000001
+4294,Turkmenistan,1988,female,51.6
+4295,Turkmenistan,1988,male,110.85000000000001
+4296,Turkmenistan,1989,female,42.86
+4297,Turkmenistan,1989,male,92.47000000000001
+4298,Turkmenistan,1990,female,60.46999999999999
+4299,Turkmenistan,1990,male,111.53999999999998
+4300,Turkmenistan,1991,female,38.1
+4301,Turkmenistan,1991,male,88.84
+4302,Turkmenistan,1992,female,41.93
+4303,Turkmenistan,1992,male,69.92
+4304,Turkmenistan,1993,female,31.75
+4305,Turkmenistan,1993,male,83.67999999999999
+4306,Turkmenistan,1994,female,55.53
+4307,Turkmenistan,1994,male,61.39000000000001
+4308,Turkmenistan,1995,female,17.800000000000004
+4309,Turkmenistan,1995,male,72.64
+4310,Turkmenistan,1996,female,26.64
+4311,Turkmenistan,1996,male,77.0
+4312,Turkmenistan,1997,female,21.63
+4313,Turkmenistan,1997,male,79.34
+4314,Turkmenistan,1998,female,38.23
+4315,Turkmenistan,1998,male,98.27000000000001
+4316,Turkmenistan,1999,female,35.07
+4317,Turkmenistan,1999,male,109.99
+4318,Turkmenistan,2000,female,30.580000000000002
+4319,Turkmenistan,2000,male,81.55000000000001
+4320,Turkmenistan,2001,female,20.23
+4321,Turkmenistan,2001,male,113.23
+4322,Turkmenistan,2002,female,22.290000000000003
+4323,Turkmenistan,2002,male,93.14
+4324,Turkmenistan,2003,female,25.13
+4325,Turkmenistan,2003,male,81.89000000000001
+4326,Turkmenistan,2004,female,27.200000000000003
+4327,Turkmenistan,2004,male,85.6
+4328,Turkmenistan,2005,female,24.549999999999997
+4329,Turkmenistan,2005,male,109.64000000000001
+4330,Turkmenistan,2006,female,29.06
+4331,Turkmenistan,2006,male,114.78
+4332,Turkmenistan,2007,female,23.12
+4333,Turkmenistan,2007,male,73.57000000000001
+4334,Turkmenistan,2008,female,28.290000000000003
+4335,Turkmenistan,2008,male,89.29
+4336,Turkmenistan,2009,female,8.47
+4337,Turkmenistan,2009,male,34.07
+4338,Turkmenistan,2010,female,9.61
+4339,Turkmenistan,2010,male,36.14
+4340,Turkmenistan,2011,female,8.5
+4341,Turkmenistan,2011,male,23.130000000000003
+4342,Turkmenistan,2012,female,6.39
+4343,Turkmenistan,2012,male,24.21
+4344,Turkmenistan,2013,female,5.63
+4345,Turkmenistan,2013,male,17.66
+4346,Turkmenistan,2014,female,9.17
+4347,Turkmenistan,2014,male,18.98
+4348,Turkmenistan,2015,female,9.95
+4349,Turkmenistan,2015,male,18.53
+4350,Ukraine,1987,female,63.220000000000006
+4351,Ukraine,1987,male,230.82000000000002
+4352,Ukraine,1988,female,61.66
+4353,Ukraine,1988,male,225.06000000000003
+4354,Ukraine,1989,female,63.35
+4355,Ukraine,1989,male,252.96999999999997
+4356,Ukraine,1990,female,58.21
+4357,Ukraine,1990,male,238.48999999999998
+4358,Ukraine,1991,female,57.980000000000004
+4359,Ukraine,1991,male,239.93
+4360,Ukraine,1992,female,58.11000000000001
+4361,Ukraine,1992,male,264.38
+4362,Ukraine,1993,female,63.79
+4363,Ukraine,1993,male,288.32000000000005
+4364,Ukraine,1994,female,67.37
+4365,Ukraine,1994,male,316.92
+4366,Ukraine,1995,female,62.61000000000001
+4367,Ukraine,1995,male,334.05999999999995
+4368,Ukraine,1996,female,62.08
+4369,Ukraine,1996,male,341.34000000000003
+4370,Ukraine,1997,female,65.65
+4371,Ukraine,1997,male,330.02
+4372,Ukraine,1998,female,67.18
+4373,Ukraine,1998,male,322.96999999999997
+4374,Ukraine,1999,female,64.17999999999999
+4375,Ukraine,1999,male,311.87999999999994
+4376,Ukraine,2000,female,63.589999999999996
+4377,Ukraine,2000,male,313.6
+4378,Ukraine,2001,female,53.36
+4379,Ukraine,2001,male,294.78000000000003
+4380,Ukraine,2002,female,51.919999999999995
+4381,Ukraine,2002,male,292.13
+4382,Ukraine,2003,female,51.72999999999999
+4383,Ukraine,2003,male,285.34000000000003
+4384,Ukraine,2004,female,45.769999999999996
+4385,Ukraine,2004,male,261.28
+4386,Ukraine,2005,female,43.12
+4387,Ukraine,2005,male,254.06
+4388,Ukraine,2006,female,41.339999999999996
+4389,Ukraine,2006,male,241.44999999999996
+4390,Ukraine,2007,female,40.39
+4391,Ukraine,2007,male,240.73000000000002
+4392,Ukraine,2008,female,42.16
+4393,Ukraine,2008,male,232.33999999999997
+4394,Ukraine,2009,female,42.940000000000005
+4395,Ukraine,2009,male,236.32000000000002
+4396,Ukraine,2010,female,40.29
+4397,Ukraine,2010,male,222.78
+4398,Ukraine,2011,female,42.089999999999996
+4399,Ukraine,2011,male,221.91
+4400,Ukraine,2012,female,43.089999999999996
+4401,Ukraine,2012,male,225.38000000000002
+4402,Ukraine,2014,female,41.83
+4403,Ukraine,2014,male,208.67
+4404,Ukraine,2015,female,38.08
+4405,Ukraine,2015,male,206.64
+4406,United Arab Emirates,2005,female,5.28
+4407,United Arab Emirates,2005,male,10.77
+4408,United Arab Emirates,2006,female,8.440000000000001
+4409,United Arab Emirates,2006,male,8.11
+4410,United Arab Emirates,2007,female,7.46
+4411,United Arab Emirates,2007,male,8.53
+4412,United Arab Emirates,2008,female,4.09
+4413,United Arab Emirates,2008,male,7.77
+4414,United Arab Emirates,2009,female,3.61
+4415,United Arab Emirates,2009,male,8.120000000000001
+4416,United Arab Emirates,2010,female,5.930000000000001
+4417,United Arab Emirates,2010,male,16.78
+4418,United Kingdom,1985,female,34.900000000000006
+4419,United Kingdom,1985,male,81.55
+4420,United Kingdom,1986,female,30.52
+4421,United Kingdom,1986,male,81.48999999999998
+4422,United Kingdom,1987,female,27.3
+4423,United Kingdom,1987,male,76.50999999999999
+4424,United Kingdom,1988,female,28.43
+4425,United Kingdom,1988,male,86.11999999999999
+4426,United Kingdom,1989,female,23.559999999999995
+4427,United Kingdom,1989,male,75.63
+4428,United Kingdom,1990,female,22.930000000000003
+4429,United Kingdom,1990,male,80.41000000000001
+4430,United Kingdom,1991,female,21.619999999999997
+4431,United Kingdom,1991,male,77.18
+4432,United Kingdom,1992,female,21.819999999999997
+4433,United Kingdom,1992,male,76.93
+4434,United Kingdom,1993,female,21.509999999999998
+4435,United Kingdom,1993,male,75.33999999999999
+4436,United Kingdom,1994,female,20.5
+4437,United Kingdom,1994,male,74.26
+4438,United Kingdom,1995,female,19.69
+4439,United Kingdom,1995,male,72.64999999999999
+4440,United Kingdom,1996,female,19.79
+4441,United Kingdom,1996,male,68.53
+4442,United Kingdom,1997,female,18.5
+4443,United Kingdom,1997,male,70.28
+4444,United Kingdom,1998,female,19.709999999999997
+4445,United Kingdom,1998,male,71.05
+4446,United Kingdom,1999,female,20.1
+4447,United Kingdom,1999,male,72.34
+4448,United Kingdom,2000,female,19.0
+4449,United Kingdom,2000,male,68.33
+4450,United Kingdom,2001,female,17.629999999999995
+4451,United Kingdom,2001,male,67.50999999999999
+4452,United Kingdom,2002,female,18.72
+4453,United Kingdom,2002,male,63.99
+4454,United Kingdom,2003,female,17.66
+4455,United Kingdom,2003,male,62.489999999999995
+4456,United Kingdom,2004,female,19.1
+4457,United Kingdom,2004,male,63.62
+4458,United Kingdom,2005,female,18.400000000000002
+4459,United Kingdom,2005,male,60.76
+4460,United Kingdom,2006,female,16.849999999999998
+4461,United Kingdom,2006,male,61.32
+4462,United Kingdom,2007,female,15.759999999999998
+4463,United Kingdom,2007,male,59.160000000000004
+4464,United Kingdom,2008,female,17.259999999999998
+4465,United Kingdom,2008,male,63.45
+4466,United Kingdom,2009,female,16.81
+4467,United Kingdom,2009,male,61.190000000000005
+4468,United Kingdom,2010,female,17.15
+4469,United Kingdom,2010,male,60.260000000000005
+4470,United Kingdom,2011,female,16.51
+4471,United Kingdom,2011,male,61.78
+4472,United Kingdom,2012,female,16.15
+4473,United Kingdom,2012,male,63.32
+4474,United Kingdom,2013,female,16.88
+4475,United Kingdom,2013,male,68.03999999999999
+4476,United Kingdom,2014,female,17.990000000000002
+4477,United Kingdom,2014,male,65.94
+4478,United Kingdom,2015,female,20.05
+4479,United Kingdom,2015,male,66.69
+4480,United States,1985,female,31.860000000000003
+4481,United States,1985,male,152.86
+4482,United States,1986,female,33.36
+4483,United States,1986,male,158.29000000000002
+4484,United States,1987,female,32.11
+4485,United States,1987,male,159.54999999999998
+4486,United States,1988,female,31.070000000000004
+4487,United States,1988,male,156.64000000000001
+4488,United States,1989,female,29.679999999999996
+4489,United States,1989,male,152.76000000000002
+4490,United States,1990,female,29.89
+4491,United States,1990,male,157.91000000000003
+4492,United States,1991,female,28.629999999999995
+4493,United States,1991,male,155.14
+4494,United States,1992,female,28.42
+4495,United States,1992,male,149.35000000000002
+4496,United States,1993,female,28.33
+4497,United States,1993,male,150.79
+4498,United States,1994,female,27.17
+4499,United States,1994,male,148.86
+4500,United States,1995,female,26.73
+4501,United States,1995,male,146.36
+4502,United States,1996,female,25.79
+4503,United States,1996,male,140.65999999999997
+4504,United States,1997,female,26.060000000000002
+4505,United States,1997,male,135.89999999999998
+4506,United States,1998,female,25.729999999999997
+4507,United States,1998,male,134.78
+4508,United States,1999,female,24.05
+4509,United States,1999,male,126.72
+4510,United States,2000,female,22.96
+4511,United States,2000,male,123.61999999999999
+4512,United States,2001,female,23.26
+4513,United States,2001,male,124.96000000000001
+4514,United States,2002,female,24.07
+4515,United States,2002,male,125.95
+4516,United States,2003,female,23.880000000000003
+4517,United States,2003,male,121.76
+4518,United States,2004,female,25.619999999999997
+4519,United States,2004,male,121.28
+4520,United States,2005,female,25.170000000000005
+4521,United States,2005,male,121.50999999999999
+4522,United States,2006,female,25.430000000000003
+4523,United States,2006,male,119.7
+4524,United States,2007,female,26.3
+4525,United States,2007,male,122.82
+4526,United States,2008,female,27.349999999999998
+4527,United States,2008,male,125.89
+4528,United States,2009,female,27.68
+4529,United States,2009,male,126.51
+4530,United States,2010,female,28.599999999999998
+4531,United States,2010,male,130.29
+4532,United States,2011,female,29.93
+4533,United States,2011,male,132.42999999999998
+4534,United States,2012,female,30.700000000000003
+4535,United States,2012,male,134.44
+4536,United States,2013,female,31.539999999999996
+4537,United States,2013,male,135.13
+4538,United States,2014,female,33.21
+4539,United States,2014,male,138.12
+4540,United States,2015,female,35.23
+4541,United States,2015,male,140.17999999999998
+4542,Uruguay,1985,female,22.190000000000005
+4543,Uruguay,1985,male,156.42000000000002
+4544,Uruguay,1986,female,26.77
+4545,Uruguay,1986,male,145.7
+4546,Uruguay,1987,female,30.6
+4547,Uruguay,1987,male,133.82999999999998
+4548,Uruguay,1988,female,27.09
+4549,Uruguay,1988,male,137.37
+4550,Uruguay,1989,female,30.0
+4551,Uruguay,1989,male,166.45999999999998
+4552,Uruguay,1990,female,30.369999999999997
+4553,Uruguay,1990,male,150.3
+4554,Uruguay,1993,female,43.46000000000001
+4555,Uruguay,1993,male,179.56
+4556,Uruguay,1994,female,32.59
+4557,Uruguay,1994,male,181.41000000000003
+4558,Uruguay,1995,female,45.550000000000004
+4559,Uruguay,1995,male,192.39000000000001
+4560,Uruguay,1996,female,35.940000000000005
+4561,Uruguay,1996,male,151.98999999999998
+4562,Uruguay,1997,female,36.2
+4563,Uruguay,1997,male,197.71
+4564,Uruguay,1998,female,43.150000000000006
+4565,Uruguay,1998,male,220.93
+4566,Uruguay,1999,female,31.369999999999997
+4567,Uruguay,1999,male,212.25000000000003
+4568,Uruguay,2000,female,36.25
+4569,Uruguay,2000,male,238.02
+4570,Uruguay,2001,female,39.650000000000006
+4571,Uruguay,2001,male,196.47
+4572,Uruguay,2002,female,54.43999999999999
+4573,Uruguay,2002,male,277.25
+4574,Uruguay,2003,female,43.58
+4575,Uruguay,2003,male,215.67000000000002
+4576,Uruguay,2004,female,41.17
+4577,Uruguay,2004,male,217.32
+4578,Uruguay,2005,female,45.12
+4579,Uruguay,2005,male,196.19000000000003
+4580,Uruguay,2006,female,46.82
+4581,Uruguay,2006,male,201.29000000000002
+4582,Uruguay,2007,female,48.2
+4583,Uruguay,2007,male,218.10999999999999
+4584,Uruguay,2008,female,40.919999999999995
+4585,Uruguay,2008,male,193.61
+4586,Uruguay,2009,female,37.510000000000005
+4587,Uruguay,2009,male,200.24
+4588,Uruguay,2010,female,45.0
+4589,Uruguay,2010,male,212.43
+4590,Uruguay,2012,female,42.57999999999999
+4591,Uruguay,2012,male,221.76999999999998
+4592,Uruguay,2013,female,46.419999999999995
+4593,Uruguay,2013,male,202.67
+4594,Uruguay,2014,female,44.31
+4595,Uruguay,2014,male,204.32999999999996
+4596,Uruguay,2015,female,46.989999999999995
+4597,Uruguay,2015,male,223.03
+4598,Uzbekistan,1990,female,41.24
+4599,Uzbekistan,1990,male,88.11999999999999
+4600,Uzbekistan,1991,female,35.67
+4601,Uzbekistan,1991,male,88.51
+4602,Uzbekistan,1992,female,32.809999999999995
+4603,Uzbekistan,1992,male,78.48
+4604,Uzbekistan,1993,female,31.18
+4605,Uzbekistan,1993,male,80.58
+4606,Uzbekistan,1994,female,31.660000000000004
+4607,Uzbekistan,1994,male,79.19
+4608,Uzbekistan,1995,female,27.14
+4609,Uzbekistan,1995,male,84.16
+4610,Uzbekistan,1996,female,29.569999999999997
+4611,Uzbekistan,1996,male,95.49
+4612,Uzbekistan,1997,female,25.229999999999997
+4613,Uzbekistan,1997,male,85.35
+4614,Uzbekistan,1998,female,25.14
+4615,Uzbekistan,1998,male,83.16
+4616,Uzbekistan,1999,female,27.12
+4617,Uzbekistan,1999,male,86.21000000000001
+4618,Uzbekistan,2000,female,31.64
+4619,Uzbekistan,2000,male,88.67
+4620,Uzbekistan,2001,female,28.69
+4621,Uzbekistan,2001,male,87.22999999999999
+4622,Uzbekistan,2002,female,24.200000000000003
+4623,Uzbekistan,2002,male,71.08
+4624,Uzbekistan,2003,female,21.58
+4625,Uzbekistan,2003,male,60.47999999999999
+4626,Uzbekistan,2004,female,17.12
+4627,Uzbekistan,2004,male,50.92
+4628,Uzbekistan,2005,female,15.58
+4629,Uzbekistan,2005,male,52.22999999999999
+4630,Uzbekistan,2009,female,15.92
+4631,Uzbekistan,2009,male,44.94
+4632,Uzbekistan,2010,female,17.69
+4633,Uzbekistan,2010,male,45.54
+4634,Uzbekistan,2011,female,20.089999999999996
+4635,Uzbekistan,2011,male,47.05
+4636,Uzbekistan,2012,female,22.939999999999998
+4637,Uzbekistan,2012,male,54.589999999999996
+4638,Uzbekistan,2013,female,23.990000000000002
+4639,Uzbekistan,2013,male,54.870000000000005
+4640,Uzbekistan,2014,female,26.18
+4641,Uzbekistan,2014,male,58.940000000000005
