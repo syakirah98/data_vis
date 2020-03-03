@@ -1,0 +1,5578 @@
+[
+ {
+   "FIELD1": 6,
+   "country": "Albania",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 10020,
+   "hdi": 7.428
+ },
+ {
+   "FIELD1": 11,
+   "country": "Albania",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 15588,
+   "hdi": 7.872000000000001
+ },
+ {
+   "FIELD1": 16,
+   "country": "Albania",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 35172,
+   "hdi": 8.34
+ },
+ {
+   "FIELD1": 21,
+   "country": "Albania",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 52308,
+   "hdi": 8.664
+ },
+ {
+   "FIELD1": 45,
+   "country": "Antigua and Barbuda",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 163884,
+   "hdi": 9.372
+ },
+ {
+   "FIELD1": 46,
+   "country": "Antigua and Barbuda",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 159444,
+   "hdi": 9.372
+ },
+ {
+   "FIELD1": 47,
+   "country": "Antigua and Barbuda",
+   "continent": "North America",
+   "year": 2014,
+   "gdp_per_capita": 169116,
+   "hdi": 9.396
+ },
+ {
+   "FIELD1": 49,
+   "country": "Argentina",
+   "continent": "South America",
+   "year": 1985,
+   "gdp_per_capita": 39168,
+   "hdi": 8.328
+ },
+ {
+   "FIELD1": 54,
+   "country": "Argentina",
+   "continent": "South America",
+   "year": 1990,
+   "gdp_per_capita": 58308,
+   "hdi": 8.46
+ },
+ {
+   "FIELD1": 59,
+   "country": "Argentina",
+   "continent": "South America",
+   "year": 1995,
+   "gdp_per_capita": 98784,
+   "hdi": 8.772
+ },
+ {
+   "FIELD1": 64,
+   "country": "Argentina",
+   "continent": "South America",
+   "year": 2000,
+   "gdp_per_capita": 101544,
+   "hdi": 9.144
+ },
+ {
+   "FIELD1": 69,
+   "country": "Argentina",
+   "continent": "South America",
+   "year": 2005,
+   "gdp_per_capita": 67080,
+   "hdi": 9.3
+ },
+ {
+   "FIELD1": 74,
+   "country": "Argentina",
+   "continent": "South America",
+   "year": 2010,
+   "gdp_per_capita": 135276,
+   "hdi": 9.732000000000001
+ },
+ {
+   "FIELD1": 75,
+   "country": "Argentina",
+   "continent": "South America",
+   "year": 2011,
+   "gdp_per_capita": 167352,
+   "hdi": 9.816
+ },
+ {
+   "FIELD1": 76,
+   "country": "Argentina",
+   "continent": "South America",
+   "year": 2012,
+   "gdp_per_capita": 170436,
+   "hdi": 9.972000000000001
+ },
+ {
+   "FIELD1": 77,
+   "country": "Argentina",
+   "continent": "South America",
+   "year": 2013,
+   "gdp_per_capita": 170472,
+   "hdi": 9.996
+ },
+ {
+   "FIELD1": 78,
+   "country": "Argentina",
+   "continent": "South America",
+   "year": 2014,
+   "gdp_per_capita": 160800,
+   "hdi": 10.032
+ },
+ {
+   "FIELD1": 80,
+   "country": "Armenia",
+   "continent": "Asia",
+   "year": 1990,
+   "gdp_per_capita": 9072,
+   "hdi": 7.584
+ },
+ {
+   "FIELD1": 85,
+   "country": "Armenia",
+   "continent": "Asia",
+   "year": 1995,
+   "gdp_per_capita": 5112,
+   "hdi": 7.26
+ },
+ {
+   "FIELD1": 90,
+   "country": "Armenia",
+   "continent": "Asia",
+   "year": 2000,
+   "gdp_per_capita": 6360,
+   "hdi": 7.776
+ },
+ {
+   "FIELD1": 98,
+   "country": "Armenia",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 41520,
+   "hdi": 8.652000000000001
+ },
+ {
+   "FIELD1": 99,
+   "country": "Armenia",
+   "continent": "Asia",
+   "year": 2011,
+   "gdp_per_capita": 45576,
+   "hdi": 8.676
+ },
+ {
+   "FIELD1": 100,
+   "country": "Armenia",
+   "continent": "Asia",
+   "year": 2012,
+   "gdp_per_capita": 45276,
+   "hdi": 8.736
+ },
+ {
+   "FIELD1": 101,
+   "country": "Armenia",
+   "continent": "Asia",
+   "year": 2013,
+   "gdp_per_capita": 47484,
+   "hdi": 8.772
+ },
+ {
+   "FIELD1": 102,
+   "country": "Armenia",
+   "continent": "Asia",
+   "year": 2014,
+   "gdp_per_capita": 49704,
+   "hdi": 8.796
+ },
+ {
+   "FIELD1": 124,
+   "country": "Australia",
+   "continent": "Oceania",
+   "year": 1990,
+   "gdp_per_capita": 235980,
+   "hdi": 10.38
+ },
+ {
+   "FIELD1": 129,
+   "country": "Australia",
+   "continent": "Oceania",
+   "year": 1995,
+   "gdp_per_capita": 262824,
+   "hdi": 10.584000000000001
+ },
+ {
+   "FIELD1": 134,
+   "country": "Australia",
+   "continent": "Oceania",
+   "year": 2000,
+   "gdp_per_capita": 278628,
+   "hdi": 10.776
+ },
+ {
+   "FIELD1": 143,
+   "country": "Australia",
+   "continent": "Oceania",
+   "year": 2010,
+   "gdp_per_capita": 658644,
+   "hdi": 11.124
+ },
+ {
+   "FIELD1": 144,
+   "country": "Australia",
+   "continent": "Oceania",
+   "year": 2011,
+   "gdp_per_capita": 801240,
+   "hdi": 11.16
+ },
+ {
+   "FIELD1": 145,
+   "country": "Australia",
+   "continent": "Oceania",
+   "year": 2012,
+   "gdp_per_capita": 872028,
+   "hdi": 11.184000000000001
+ },
+ {
+   "FIELD1": 146,
+   "country": "Australia",
+   "continent": "Oceania",
+   "year": 2013,
+   "gdp_per_capita": 874272,
+   "hdi": 11.196
+ },
+ {
+   "FIELD1": 147,
+   "country": "Australia",
+   "continent": "Oceania",
+   "year": 2014,
+   "gdp_per_capita": 801708,
+   "hdi": 11.22
+ },
+ {
+   "FIELD1": 149,
+   "country": "Austria",
+   "continent": "Europe",
+   "year": 1985,
+   "gdp_per_capita": 117108,
+   "hdi": 9.168
+ },
+ {
+   "FIELD1": 154,
+   "country": "Austria",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 276240,
+   "hdi": 9.527999999999999
+ },
+ {
+   "FIELD1": 159,
+   "country": "Austria",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 386844,
+   "hdi": 9.78
+ },
+ {
+   "FIELD1": 164,
+   "country": "Austria",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 311064,
+   "hdi": 10.032
+ },
+ {
+   "FIELD1": 169,
+   "country": "Austria",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 484404,
+   "hdi": 10.236
+ },
+ {
+   "FIELD1": 174,
+   "country": "Austria",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 590172,
+   "hdi": 10.548
+ },
+ {
+   "FIELD1": 175,
+   "country": "Austria",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 647076,
+   "hdi": 10.572000000000001
+ },
+ {
+   "FIELD1": 176,
+   "country": "Austria",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 611748,
+   "hdi": 10.607999999999999
+ },
+ {
+   "FIELD1": 177,
+   "country": "Austria",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 638748,
+   "hdi": 10.607999999999999
+ },
+ {
+   "FIELD1": 178,
+   "country": "Austria",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 651336,
+   "hdi": 10.62
+ },
+ {
+   "FIELD1": 186,
+   "country": "Azerbaijan",
+   "continent": "Eurasia",
+   "year": 1995,
+   "gdp_per_capita": 5544,
+   "hdi": 7.308
+ },
+ {
+   "FIELD1": 191,
+   "country": "Azerbaijan",
+   "continent": "Eurasia",
+   "year": 2000,
+   "gdp_per_capita": 8532,
+   "hdi": 7.68
+ },
+ {
+   "FIELD1": 206,
+   "country": "Bahamas",
+   "continent": "North America",
+   "year": 2000,
+   "gdp_per_capita": 359304,
+   "hdi": 9.336
+ },
+ {
+   "FIELD1": 211,
+   "country": "Bahamas",
+   "continent": "North America",
+   "year": 2005,
+   "gdp_per_capita": 391152,
+   "hdi": 9.36
+ },
+ {
+   "FIELD1": 216,
+   "country": "Bahamas",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 362868,
+   "hdi": 9.288
+ },
+ {
+   "FIELD1": 217,
+   "country": "Bahamas",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 357132,
+   "hdi": 9.336
+ },
+ {
+   "FIELD1": 218,
+   "country": "Bahamas",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 374448,
+   "hdi": 9.396
+ },
+ {
+   "FIELD1": 219,
+   "country": "Bahamas",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 365460,
+   "hdi": 9.432
+ },
+ {
+   "FIELD1": 220,
+   "country": "Bahrain",
+   "continent": "Asia",
+   "year": 1985,
+   "gdp_per_capita": 119760,
+   "hdi": 8.724
+ },
+ {
+   "FIELD1": 226,
+   "country": "Bahrain",
+   "continent": "Asia",
+   "year": 2000,
+   "gdp_per_capita": 184140,
+   "hdi": 9.527999999999999
+ },
+ {
+   "FIELD1": 231,
+   "country": "Bahrain",
+   "continent": "Asia",
+   "year": 2005,
+   "gdp_per_capita": 233820,
+   "hdi": 9.792
+ },
+ {
+   "FIELD1": 236,
+   "country": "Bahrain",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 270864,
+   "hdi": 9.828
+ },
+ {
+   "FIELD1": 237,
+   "country": "Bahrain",
+   "continent": "Asia",
+   "year": 2011,
+   "gdp_per_capita": 312936,
+   "hdi": 9.804
+ },
+ {
+   "FIELD1": 238,
+   "country": "Bahrain",
+   "continent": "Asia",
+   "year": 2012,
+   "gdp_per_capita": 307044,
+   "hdi": 9.828
+ },
+ {
+   "FIELD1": 239,
+   "country": "Bahrain",
+   "continent": "Asia",
+   "year": 2013,
+   "gdp_per_capita": 321516,
+   "hdi": 9.852
+ },
+ {
+   "FIELD1": 240,
+   "country": "Bahrain",
+   "continent": "Asia",
+   "year": 2014,
+   "gdp_per_capita": 330036,
+   "hdi": 9.888
+ },
+ {
+   "FIELD1": 241,
+   "country": "Barbados",
+   "continent": "North America",
+   "year": 1985,
+   "gdp_per_capita": 73644,
+   "hdi": 8.4
+ },
+ {
+   "FIELD1": 246,
+   "country": "Barbados",
+   "continent": "North America",
+   "year": 1990,
+   "gdp_per_capita": 102444,
+   "hdi": 8.592
+ },
+ {
+   "FIELD1": 251,
+   "country": "Barbados",
+   "continent": "North America",
+   "year": 1995,
+   "gdp_per_capita": 112536,
+   "hdi": 8.772
+ },
+ {
+   "FIELD1": 252,
+   "country": "Barbados",
+   "continent": "North America",
+   "year": 2000,
+   "gdp_per_capita": 149160,
+   "hdi": 9.036
+ },
+ {
+   "FIELD1": 257,
+   "country": "Barbados",
+   "continent": "North America",
+   "year": 2005,
+   "gdp_per_capita": 182760,
+   "hdi": 9.18
+ },
+ {
+   "FIELD1": 262,
+   "country": "Barbados",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 204408,
+   "hdi": 9.36
+ },
+ {
+   "FIELD1": 263,
+   "country": "Barbados",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 212496,
+   "hdi": 9.432
+ },
+ {
+   "FIELD1": 264,
+   "country": "Barbados",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 211440,
+   "hdi": 9.516
+ },
+ {
+   "FIELD1": 265,
+   "country": "Barbados",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 208740,
+   "hdi": 9.42
+ },
+ {
+   "FIELD1": 276,
+   "country": "Belarus",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 16020,
+   "hdi": 8.196
+ },
+ {
+   "FIELD1": 283,
+   "country": "Belarus",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 76452,
+   "hdi": 9.432
+ },
+ {
+   "FIELD1": 284,
+   "country": "Belarus",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 82824,
+   "hdi": 9.516
+ },
+ {
+   "FIELD1": 285,
+   "country": "Belarus",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 101724,
+   "hdi": 9.552
+ },
+ {
+   "FIELD1": 286,
+   "country": "Belarus",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 106188,
+   "hdi": 9.576
+ },
+ {
+   "FIELD1": 287,
+   "country": "Belgium",
+   "continent": "Europe",
+   "year": 1985,
+   "gdp_per_capita": 112272,
+   "hdi": 9.288
+ },
+ {
+   "FIELD1": 292,
+   "country": "Belgium",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 264384,
+   "hdi": 9.672
+ },
+ {
+   "FIELD1": 297,
+   "country": "Belgium",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 364728,
+   "hdi": 10.212
+ },
+ {
+   "FIELD1": 302,
+   "country": "Belgium",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 295104,
+   "hdi": 10.488
+ },
+ {
+   "FIELD1": 307,
+   "country": "Belgium",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 469488,
+   "hdi": 10.392000000000001
+ },
+ {
+   "FIELD1": 312,
+   "country": "Belgium",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 568260,
+   "hdi": 10.595999999999998
+ },
+ {
+   "FIELD1": 313,
+   "country": "Belgium",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 610716,
+   "hdi": 10.632
+ },
+ {
+   "FIELD1": 314,
+   "country": "Belgium",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 572136,
+   "hdi": 10.668
+ },
+ {
+   "FIELD1": 315,
+   "country": "Belgium",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 593868,
+   "hdi": 10.655999999999999
+ },
+ {
+   "FIELD1": 316,
+   "country": "Belgium",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 602076,
+   "hdi": 10.68
+ },
+ {
+   "FIELD1": 321,
+   "country": "Belize",
+   "continent": "North America",
+   "year": 1990,
+   "gdp_per_capita": 31368,
+   "hdi": 7.728
+ },
+ {
+   "FIELD1": 325,
+   "country": "Belize",
+   "continent": "North America",
+   "year": 1995,
+   "gdp_per_capita": 41232,
+   "hdi": 7.968
+ },
+ {
+   "FIELD1": 330,
+   "country": "Belize",
+   "continent": "North America",
+   "year": 2000,
+   "gdp_per_capita": 47520,
+   "hdi": 8.196
+ },
+ {
+   "FIELD1": 335,
+   "country": "Belize",
+   "continent": "North America",
+   "year": 2005,
+   "gdp_per_capita": 54564,
+   "hdi": 8.412
+ },
+ {
+   "FIELD1": 340,
+   "country": "Belize",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 59076,
+   "hdi": 8.52
+ },
+ {
+   "FIELD1": 341,
+   "country": "Belize",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 61176,
+   "hdi": 8.532
+ },
+ {
+   "FIELD1": 342,
+   "country": "Belize",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 63168,
+   "hdi": 8.592
+ },
+ {
+   "FIELD1": 343,
+   "country": "Belize",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 63264,
+   "hdi": 8.58
+ },
+ {
+   "FIELD1": 344,
+   "country": "Belize",
+   "continent": "North America",
+   "year": 2014,
+   "gdp_per_capita": 65376,
+   "hdi": 8.58
+ },
+ {
+   "FIELD1": 346,
+   "country": "Bosnia and Herzegovina",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 60912,
+   "hdi": 8.687999999999999
+ },
+ {
+   "FIELD1": 347,
+   "country": "Bosnia and Herzegovina",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 60948,
+   "hdi": 8.796
+ },
+ {
+   "FIELD1": 348,
+   "country": "Brazil",
+   "continent": "South America",
+   "year": 1985,
+   "gdp_per_capita": 22776,
+   "hdi": 6.912000000000001
+ },
+ {
+   "FIELD1": 353,
+   "country": "Brazil",
+   "continent": "South America",
+   "year": 1990,
+   "gdp_per_capita": 42192,
+   "hdi": 7.296
+ },
+ {
+   "FIELD1": 358,
+   "country": "Brazil",
+   "continent": "South America",
+   "year": 1995,
+   "gdp_per_capita": 63756,
+   "hdi": 7.776
+ },
+ {
+   "FIELD1": 363,
+   "country": "Brazil",
+   "continent": "South America",
+   "year": 2000,
+   "gdp_per_capita": 49872,
+   "hdi": 8.196
+ },
+ {
+   "FIELD1": 368,
+   "country": "Brazil",
+   "continent": "South America",
+   "year": 2005,
+   "gdp_per_capita": 62760,
+   "hdi": 8.424
+ },
+ {
+   "FIELD1": 373,
+   "country": "Brazil",
+   "continent": "South America",
+   "year": 2010,
+   "gdp_per_capita": 145932,
+   "hdi": 8.844
+ },
+ {
+   "FIELD1": 374,
+   "country": "Brazil",
+   "continent": "South America",
+   "year": 2011,
+   "gdp_per_capita": 170940,
+   "hdi": 8.904
+ },
+ {
+   "FIELD1": 375,
+   "country": "Brazil",
+   "continent": "South America",
+   "year": 2012,
+   "gdp_per_capita": 159396,
+   "hdi": 8.952
+ },
+ {
+   "FIELD1": 376,
+   "country": "Brazil",
+   "continent": "South America",
+   "year": 2013,
+   "gdp_per_capita": 158292,
+   "hdi": 9.024
+ },
+ {
+   "FIELD1": 377,
+   "country": "Brazil",
+   "continent": "South America",
+   "year": 2014,
+   "gdp_per_capita": 155700,
+   "hdi": 9.06
+ },
+ {
+   "FIELD1": 379,
+   "country": "Bulgaria",
+   "continent": "Europe",
+   "year": 1985,
+   "gdp_per_capita": 24528,
+   "hdi": 8.232000000000001
+ },
+ {
+   "FIELD1": 384,
+   "country": "Bulgaria",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 29412,
+   "hdi": 8.34
+ },
+ {
+   "FIELD1": 389,
+   "country": "Bulgaria",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 19632,
+   "hdi": 8.352
+ },
+ {
+   "FIELD1": 394,
+   "country": "Bulgaria",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 20160,
+   "hdi": 8.556000000000001
+ },
+ {
+   "FIELD1": 399,
+   "country": "Bulgaria",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 48036,
+   "hdi": 8.988
+ },
+ {
+   "FIELD1": 404,
+   "country": "Bulgaria",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 84792,
+   "hdi": 9.276
+ },
+ {
+   "FIELD1": 405,
+   "country": "Bulgaria",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 97644,
+   "hdi": 9.3
+ },
+ {
+   "FIELD1": 406,
+   "country": "Bulgaria",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 92940,
+   "hdi": 9.336
+ },
+ {
+   "FIELD1": 407,
+   "country": "Bulgaria",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 96684,
+   "hdi": 9.347999999999999
+ },
+ {
+   "FIELD1": 408,
+   "country": "Bulgaria",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 98892,
+   "hdi": 9.384
+ },
+ {
+   "FIELD1": 410,
+   "country": "Canada",
+   "continent": "North America",
+   "year": 1985,
+   "gdp_per_capita": 186264,
+   "hdi": 9.924
+ },
+ {
+   "FIELD1": 415,
+   "country": "Canada",
+   "continent": "North America",
+   "year": 1990,
+   "gdp_per_capita": 288492,
+   "hdi": 10.187999999999999
+ },
+ {
+   "FIELD1": 420,
+   "country": "Canada",
+   "continent": "North America",
+   "year": 1995,
+   "gdp_per_capita": 262452,
+   "hdi": 10.332
+ },
+ {
+   "FIELD1": 425,
+   "country": "Canada",
+   "continent": "North America",
+   "year": 2000,
+   "gdp_per_capita": 307068,
+   "hdi": 10.404000000000002
+ },
+ {
+   "FIELD1": 430,
+   "country": "Canada",
+   "continent": "North America",
+   "year": 2005,
+   "gdp_per_capita": 458616,
+   "hdi": 10.704
+ },
+ {
+   "FIELD1": 435,
+   "country": "Canada",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 599688,
+   "hdi": 10.835999999999999
+ },
+ {
+   "FIELD1": 436,
+   "country": "Canada",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 658092,
+   "hdi": 10.908
+ },
+ {
+   "FIELD1": 437,
+   "country": "Canada",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 664164,
+   "hdi": 10.92
+ },
+ {
+   "FIELD1": 438,
+   "country": "Canada",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 663720,
+   "hdi": 10.944
+ },
+ {
+   "FIELD1": 439,
+   "country": "Chile",
+   "continent": "South America",
+   "year": 1985,
+   "gdp_per_capita": 19896,
+   "hdi": 7.848
+ },
+ {
+   "FIELD1": 444,
+   "country": "Chile",
+   "continent": "South America",
+   "year": 1990,
+   "gdp_per_capita": 33936,
+   "hdi": 8.388
+ },
+ {
+   "FIELD1": 449,
+   "country": "Chile",
+   "continent": "South America",
+   "year": 1995,
+   "gdp_per_capita": 68340,
+   "hdi": 8.676
+ },
+ {
+   "FIELD1": 454,
+   "country": "Chile",
+   "continent": "South America",
+   "year": 2000,
+   "gdp_per_capita": 67008,
+   "hdi": 9.024
+ },
+ {
+   "FIELD1": 459,
+   "country": "Chile",
+   "continent": "South America",
+   "year": 2005,
+   "gdp_per_capita": 99072,
+   "hdi": 9.456
+ },
+ {
+   "FIELD1": 464,
+   "country": "Chile",
+   "continent": "South America",
+   "year": 2010,
+   "gdp_per_capita": 166488,
+   "hdi": 9.767999999999999
+ },
+ {
+   "FIELD1": 465,
+   "country": "Chile",
+   "continent": "South America",
+   "year": 2011,
+   "gdp_per_capita": 190248,
+   "hdi": 9.852
+ },
+ {
+   "FIELD1": 466,
+   "country": "Chile",
+   "continent": "South America",
+   "year": 2012,
+   "gdp_per_capita": 199404,
+   "hdi": 9.924
+ },
+ {
+   "FIELD1": 467,
+   "country": "Chile",
+   "continent": "South America",
+   "year": 2013,
+   "gdp_per_capita": 205680,
+   "hdi": 9.96
+ },
+ {
+   "FIELD1": 468,
+   "country": "Chile",
+   "continent": "South America",
+   "year": 2014,
+   "gdp_per_capita": 190596,
+   "hdi": 9.984
+ },
+ {
+   "FIELD1": 470,
+   "country": "Colombia",
+   "continent": "South America",
+   "year": 1985,
+   "gdp_per_capita": 16716,
+   "hdi": 6.876
+ },
+ {
+   "FIELD1": 475,
+   "country": "Colombia",
+   "continent": "South America",
+   "year": 1990,
+   "gdp_per_capita": 16152,
+   "hdi": 7.152
+ },
+ {
+   "FIELD1": 480,
+   "country": "Colombia",
+   "continent": "South America",
+   "year": 1995,
+   "gdp_per_capita": 33552,
+   "hdi": 7.547999999999999
+ },
+ {
+   "FIELD1": 485,
+   "country": "Colombia",
+   "continent": "South America",
+   "year": 2000,
+   "gdp_per_capita": 33060,
+   "hdi": 7.848
+ },
+ {
+   "FIELD1": 490,
+   "country": "Colombia",
+   "continent": "South America",
+   "year": 2005,
+   "gdp_per_capita": 44904,
+   "hdi": 8.148
+ },
+ {
+   "FIELD1": 495,
+   "country": "Colombia",
+   "continent": "South America",
+   "year": 2010,
+   "gdp_per_capita": 82032,
+   "hdi": 8.472000000000001
+ },
+ {
+   "FIELD1": 496,
+   "country": "Colombia",
+   "continent": "South America",
+   "year": 2011,
+   "gdp_per_capita": 94620,
+   "hdi": 8.556000000000001
+ },
+ {
+   "FIELD1": 497,
+   "country": "Colombia",
+   "continent": "South America",
+   "year": 2012,
+   "gdp_per_capita": 103032,
+   "hdi": 8.58
+ },
+ {
+   "FIELD1": 498,
+   "country": "Colombia",
+   "continent": "South America",
+   "year": 2013,
+   "gdp_per_capita": 104772,
+   "hdi": 8.616
+ },
+ {
+   "FIELD1": 499,
+   "country": "Colombia",
+   "continent": "South America",
+   "year": 2014,
+   "gdp_per_capita": 103092,
+   "hdi": 8.64
+ },
+ {
+   "FIELD1": 501,
+   "country": "Costa Rica",
+   "continent": "North America",
+   "year": 1985,
+   "gdp_per_capita": 25740,
+   "hdi": 7.476
+ },
+ {
+   "FIELD1": 506,
+   "country": "Costa Rica",
+   "continent": "North America",
+   "year": 1990,
+   "gdp_per_capita": 33804,
+   "hdi": 7.824
+ },
+ {
+   "FIELD1": 511,
+   "country": "Costa Rica",
+   "continent": "North America",
+   "year": 1995,
+   "gdp_per_capita": 44064,
+   "hdi": 8.184
+ },
+ {
+   "FIELD1": 516,
+   "country": "Costa Rica",
+   "continent": "North America",
+   "year": 2000,
+   "gdp_per_capita": 50796,
+   "hdi": 8.448
+ },
+ {
+   "FIELD1": 521,
+   "country": "Costa Rica",
+   "continent": "North America",
+   "year": 2005,
+   "gdp_per_capita": 61596,
+   "hdi": 8.676
+ },
+ {
+   "FIELD1": 526,
+   "country": "Costa Rica",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 106872,
+   "hdi": 9
+ },
+ {
+   "FIELD1": 527,
+   "country": "Costa Rica",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 119736,
+   "hdi": 9.072000000000001
+ },
+ {
+   "FIELD1": 528,
+   "country": "Costa Rica",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 129984,
+   "hdi": 9.132
+ },
+ {
+   "FIELD1": 529,
+   "country": "Costa Rica",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 137316,
+   "hdi": 9.168
+ },
+ {
+   "FIELD1": 530,
+   "country": "Costa Rica",
+   "continent": "North America",
+   "year": 2014,
+   "gdp_per_capita": 137820,
+   "hdi": 9.192
+ },
+ {
+   "FIELD1": 531,
+   "country": "Croatia",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 59736,
+   "hdi": 8.328
+ },
+ {
+   "FIELD1": 536,
+   "country": "Croatia",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 63456,
+   "hdi": 8.988
+ },
+ {
+   "FIELD1": 541,
+   "country": "Croatia",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 128664,
+   "hdi": 9.384
+ },
+ {
+   "FIELD1": 546,
+   "country": "Croatia",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 170784,
+   "hdi": 9.684
+ },
+ {
+   "FIELD1": 547,
+   "country": "Croatia",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 178680,
+   "hdi": 9.767999999999999
+ },
+ {
+   "FIELD1": 548,
+   "country": "Croatia",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 167424,
+   "hdi": 9.804
+ },
+ {
+   "FIELD1": 549,
+   "country": "Croatia",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 172344,
+   "hdi": 9.804
+ },
+ {
+   "FIELD1": 550,
+   "country": "Croatia",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 171588,
+   "hdi": 9.816
+ },
+ {
+   "FIELD1": 556,
+   "country": "Cuba",
+   "continent": "North America",
+   "year": 1995,
+   "gdp_per_capita": 35916,
+   "hdi": 7.836
+ },
+ {
+   "FIELD1": 561,
+   "country": "Cuba",
+   "continent": "North America",
+   "year": 2000,
+   "gdp_per_capita": 35280,
+   "hdi": 8.22
+ },
+ {
+   "FIELD1": 566,
+   "country": "Cuba",
+   "continent": "North America",
+   "year": 2005,
+   "gdp_per_capita": 48204,
+   "hdi": 8.76
+ },
+ {
+   "FIELD1": 571,
+   "country": "Cuba",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 71964,
+   "hdi": 9.336
+ },
+ {
+   "FIELD1": 572,
+   "country": "Cuba",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 77028,
+   "hdi": 9.312000000000001
+ },
+ {
+   "FIELD1": 573,
+   "country": "Cuba",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 81492,
+   "hdi": 9.264
+ },
+ {
+   "FIELD1": 574,
+   "country": "Cuba",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 85776,
+   "hdi": 9.216000000000001
+ },
+ {
+   "FIELD1": 575,
+   "country": "Cuba",
+   "continent": "North America",
+   "year": 2014,
+   "gdp_per_capita": 89508,
+   "hdi": 9.228
+ },
+ {
+   "FIELD1": 578,
+   "country": "Cyprus",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 139620,
+   "hdi": 9.6
+ },
+ {
+   "FIELD1": 580,
+   "country": "Cyprus",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 320052,
+   "hdi": 9.96
+ },
+ {
+   "FIELD1": 585,
+   "country": "Cyprus",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 389724,
+   "hdi": 10.176
+ },
+ {
+   "FIELD1": 586,
+   "country": "Cyprus",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 410988,
+   "hdi": 10.224
+ },
+ {
+   "FIELD1": 587,
+   "country": "Cyprus",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 369024,
+   "hdi": 10.224
+ },
+ {
+   "FIELD1": 588,
+   "country": "Cyprus",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 355488,
+   "hdi": 10.2
+ },
+ {
+   "FIELD1": 589,
+   "country": "Cyprus",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 348288,
+   "hdi": 10.2
+ },
+ {
+   "FIELD1": 592,
+   "country": "Czech Republic",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 50016,
+   "hdi": 9.132
+ },
+ {
+   "FIELD1": 597,
+   "country": "Czech Republic",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 73608,
+   "hdi": 9.42
+ },
+ {
+   "FIELD1": 602,
+   "country": "Czech Republic",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 75336,
+   "hdi": 9.852
+ },
+ {
+   "FIELD1": 607,
+   "country": "Czech Republic",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 167532,
+   "hdi": 10.164
+ },
+ {
+   "FIELD1": 612,
+   "country": "Czech Republic",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 250344,
+   "hdi": 10.356
+ },
+ {
+   "FIELD1": 613,
+   "country": "Czech Republic",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 276120,
+   "hdi": 10.392000000000001
+ },
+ {
+   "FIELD1": 614,
+   "country": "Czech Republic",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 250776,
+   "hdi": 10.404000000000002
+ },
+ {
+   "FIELD1": 615,
+   "country": "Czech Republic",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 252876,
+   "hdi": 10.415999999999999
+ },
+ {
+   "FIELD1": 616,
+   "country": "Czech Republic",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 250308,
+   "hdi": 10.44
+ },
+ {
+   "FIELD1": 620,
+   "country": "Denmark",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 454092,
+   "hdi": 9.96
+ },
+ {
+   "FIELD1": 625,
+   "country": "Denmark",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 394092,
+   "hdi": 10.344000000000001
+ },
+ {
+   "FIELD1": 630,
+   "country": "Denmark",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 623520,
+   "hdi": 10.824000000000002
+ },
+ {
+   "FIELD1": 635,
+   "country": "Denmark",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 740532,
+   "hdi": 10.895999999999999
+ },
+ {
+   "FIELD1": 636,
+   "country": "Denmark",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 787176,
+   "hdi": 11.04
+ },
+ {
+   "FIELD1": 637,
+   "country": "Denmark",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 744852,
+   "hdi": 11.052
+ },
+ {
+   "FIELD1": 638,
+   "country": "Denmark",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 777972,
+   "hdi": 11.075999999999999
+ },
+ {
+   "FIELD1": 639,
+   "country": "Denmark",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 793368,
+   "hdi": 11.075999999999999
+ },
+ {
+   "FIELD1": 642,
+   "country": "Ecuador",
+   "continent": "South America",
+   "year": 1985,
+   "gdp_per_capita": 26856,
+   "hdi": 7.572
+ },
+ {
+   "FIELD1": 647,
+   "country": "Ecuador",
+   "continent": "South America",
+   "year": 1990,
+   "gdp_per_capita": 20784,
+   "hdi": 7.74
+ },
+ {
+   "FIELD1": 652,
+   "country": "Ecuador",
+   "continent": "South America",
+   "year": 1995,
+   "gdp_per_capita": 29436,
+   "hdi": 7.98
+ },
+ {
+   "FIELD1": 657,
+   "country": "Ecuador",
+   "continent": "South America",
+   "year": 2000,
+   "gdp_per_capita": 19800,
+   "hdi": 8.088
+ },
+ {
+   "FIELD1": 662,
+   "country": "Ecuador",
+   "continent": "South America",
+   "year": 2005,
+   "gdp_per_capita": 40764,
+   "hdi": 8.376
+ },
+ {
+   "FIELD1": 667,
+   "country": "Ecuador",
+   "continent": "South America",
+   "year": 2010,
+   "gdp_per_capita": 62472,
+   "hdi": 8.604
+ },
+ {
+   "FIELD1": 668,
+   "country": "Ecuador",
+   "continent": "South America",
+   "year": 2011,
+   "gdp_per_capita": 70032,
+   "hdi": 8.676
+ },
+ {
+   "FIELD1": 669,
+   "country": "Ecuador",
+   "continent": "South America",
+   "year": 2012,
+   "gdp_per_capita": 76368,
+   "hdi": 8.724
+ },
+ {
+   "FIELD1": 670,
+   "country": "Ecuador",
+   "continent": "South America",
+   "year": 2013,
+   "gdp_per_capita": 81228,
+   "hdi": 8.76
+ },
+ {
+   "FIELD1": 671,
+   "country": "Ecuador",
+   "continent": "South America",
+   "year": 2014,
+   "gdp_per_capita": 85392,
+   "hdi": 8.783999999999999
+ },
+ {
+   "FIELD1": 673,
+   "country": "El Salvador",
+   "continent": "North America",
+   "year": 1990,
+   "gdp_per_capita": 12816,
+   "hdi": 6.263999999999999
+ },
+ {
+   "FIELD1": 677,
+   "country": "El Salvador",
+   "continent": "North America",
+   "year": 1995,
+   "gdp_per_capita": 22140,
+   "hdi": 6.792000000000001
+ },
+ {
+   "FIELD1": 682,
+   "country": "El Salvador",
+   "continent": "North America",
+   "year": 2000,
+   "gdp_per_capita": 27636,
+   "hdi": 7.236000000000001
+ },
+ {
+   "FIELD1": 687,
+   "country": "El Salvador",
+   "continent": "North America",
+   "year": 2005,
+   "gdp_per_capita": 32796,
+   "hdi": 7.656000000000001
+ },
+ {
+   "FIELD1": 692,
+   "country": "El Salvador",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 39816,
+   "hdi": 7.836
+ },
+ {
+   "FIELD1": 693,
+   "country": "El Salvador",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 43572,
+   "hdi": 7.896
+ },
+ {
+   "FIELD1": 694,
+   "country": "El Salvador",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 45672,
+   "hdi": 7.944
+ },
+ {
+   "FIELD1": 695,
+   "country": "El Salvador",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 46620,
+   "hdi": 7.968
+ },
+ {
+   "FIELD1": 696,
+   "country": "El Salvador",
+   "continent": "North America",
+   "year": 2014,
+   "gdp_per_capita": 47580,
+   "hdi": 7.992000000000001
+ },
+ {
+   "FIELD1": 697,
+   "country": "Estonia",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 38688,
+   "hdi": 8.628
+ },
+ {
+   "FIELD1": 702,
+   "country": "Estonia",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 51144,
+   "hdi": 9.36
+ },
+ {
+   "FIELD1": 707,
+   "country": "Estonia",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 130440,
+   "hdi": 9.888
+ },
+ {
+   "FIELD1": 712,
+   "country": "Estonia",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 186480,
+   "hdi": 10.056000000000001
+ },
+ {
+   "FIELD1": 713,
+   "country": "Estonia",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 222540,
+   "hdi": 10.187999999999999
+ },
+ {
+   "FIELD1": 714,
+   "country": "Estonia",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 220932,
+   "hdi": 10.26
+ },
+ {
+   "FIELD1": 715,
+   "country": "Estonia",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 242652,
+   "hdi": 10.308
+ },
+ {
+   "FIELD1": 716,
+   "country": "Estonia",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 253404,
+   "hdi": 10.332
+ },
+ {
+   "FIELD1": 722,
+   "country": "Fiji",
+   "continent": "Oceania",
+   "year": 2005,
+   "gdp_per_capita": 49248,
+   "hdi": 8.328
+ },
+ {
+   "FIELD1": 727,
+   "country": "Fiji",
+   "continent": "Oceania",
+   "year": 2011,
+   "gdp_per_capita": 58344,
+   "hdi": 8.64
+ },
+ {
+   "FIELD1": 728,
+   "country": "Fiji",
+   "continent": "Oceania",
+   "year": 2012,
+   "gdp_per_capita": 60876,
+   "hdi": 8.664
+ },
+ {
+   "FIELD1": 732,
+   "country": "Finland",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 363252,
+   "hdi": 9.396
+ },
+ {
+   "FIELD1": 737,
+   "country": "Finland",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 336816,
+   "hdi": 9.78
+ },
+ {
+   "FIELD1": 742,
+   "country": "Finland",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 308592,
+   "hdi": 10.284
+ },
+ {
+   "FIELD1": 747,
+   "country": "Finland",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 494424,
+   "hdi": 10.427999999999999
+ },
+ {
+   "FIELD1": 752,
+   "country": "Finland",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 587268,
+   "hdi": 10.536
+ },
+ {
+   "FIELD1": 753,
+   "country": "Finland",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 645708,
+   "hdi": 10.572000000000001
+ },
+ {
+   "FIELD1": 754,
+   "country": "Finland",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 602784,
+   "hdi": 10.584000000000001
+ },
+ {
+   "FIELD1": 755,
+   "country": "Finland",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 630864,
+   "hdi": 10.584000000000001
+ },
+ {
+   "FIELD1": 756,
+   "country": "Finland",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 633984,
+   "hdi": 10.595999999999998
+ },
+ {
+   "FIELD1": 758,
+   "country": "France",
+   "continent": "Europe",
+   "year": 1985,
+   "gdp_per_capita": 129180,
+   "hdi": 8.892000000000001
+ },
+ {
+   "FIELD1": 763,
+   "country": "France",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 287616,
+   "hdi": 9.347999999999999
+ },
+ {
+   "FIELD1": 768,
+   "country": "France",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 352356,
+   "hdi": 9.9
+ },
+ {
+   "FIELD1": 773,
+   "country": "France",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 295776,
+   "hdi": 10.176
+ },
+ {
+   "FIELD1": 778,
+   "country": "France",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 461040,
+   "hdi": 10.404000000000002
+ },
+ {
+   "FIELD1": 783,
+   "country": "France",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 536964,
+   "hdi": 10.572000000000001
+ },
+ {
+   "FIELD1": 784,
+   "country": "France",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 578604,
+   "hdi": 10.607999999999999
+ },
+ {
+   "FIELD1": 785,
+   "country": "France",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 540024,
+   "hdi": 10.632
+ },
+ {
+   "FIELD1": 786,
+   "country": "France",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 563064,
+   "hdi": 10.644
+ },
+ {
+   "FIELD1": 787,
+   "country": "France",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 567816,
+   "hdi": 10.655999999999999
+ },
+ {
+   "FIELD1": 797,
+   "country": "Georgia",
+   "continent": "Eurasia",
+   "year": 2000,
+   "gdp_per_capita": 8808,
+   "hdi": 8.064
+ },
+ {
+   "FIELD1": 800,
+   "country": "Georgia",
+   "continent": "Eurasia",
+   "year": 2005,
+   "gdp_per_capita": 18624,
+   "hdi": 8.532
+ },
+ {
+   "FIELD1": 804,
+   "country": "Georgia",
+   "continent": "Eurasia",
+   "year": 2010,
+   "gdp_per_capita": 33300,
+   "hdi": 8.82
+ },
+ {
+   "FIELD1": 805,
+   "country": "Georgia",
+   "continent": "Eurasia",
+   "year": 2011,
+   "gdp_per_capita": 41220,
+   "hdi": 8.88
+ },
+ {
+   "FIELD1": 806,
+   "country": "Georgia",
+   "continent": "Eurasia",
+   "year": 2012,
+   "gdp_per_capita": 45264,
+   "hdi": 8.964
+ },
+ {
+   "FIELD1": 807,
+   "country": "Georgia",
+   "continent": "Eurasia",
+   "year": 2013,
+   "gdp_per_capita": 46200,
+   "hdi": 9
+ },
+ {
+   "FIELD1": 808,
+   "country": "Georgia",
+   "continent": "Eurasia",
+   "year": 2014,
+   "gdp_per_capita": 57084,
+   "hdi": 9.048
+ },
+ {
+   "FIELD1": 810,
+   "country": "Germany",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 282552,
+   "hdi": 9.612
+ },
+ {
+   "FIELD1": 815,
+   "country": "Germany",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 401040,
+   "hdi": 9.96
+ },
+ {
+   "FIELD1": 820,
+   "country": "Germany",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 299064,
+   "hdi": 10.26
+ },
+ {
+   "FIELD1": 825,
+   "country": "Germany",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 435468,
+   "hdi": 10.644
+ },
+ {
+   "FIELD1": 830,
+   "country": "Germany",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 523368,
+   "hdi": 10.872
+ },
+ {
+   "FIELD1": 831,
+   "country": "Germany",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 575364,
+   "hdi": 10.932
+ },
+ {
+   "FIELD1": 832,
+   "country": "Germany",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 541704,
+   "hdi": 10.98
+ },
+ {
+   "FIELD1": 833,
+   "country": "Germany",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 582756,
+   "hdi": 10.98
+ },
+ {
+   "FIELD1": 834,
+   "country": "Germany",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 602004,
+   "hdi": 10.992
+ },
+ {
+   "FIELD1": 836,
+   "country": "Greece",
+   "continent": "Europe",
+   "year": 1985,
+   "gdp_per_capita": 61872,
+   "hdi": 8.892000000000001
+ },
+ {
+   "FIELD1": 841,
+   "country": "Greece",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 122148,
+   "hdi": 9.107999999999999
+ },
+ {
+   "FIELD1": 846,
+   "country": "Greece",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 162600,
+   "hdi": 9.264
+ },
+ {
+   "FIELD1": 851,
+   "country": "Greece",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 150108,
+   "hdi": 9.588
+ },
+ {
+   "FIELD1": 856,
+   "country": "Greece",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 280968,
+   "hdi": 10.236
+ },
+ {
+   "FIELD1": 861,
+   "country": "Greece",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 334632,
+   "hdi": 10.404000000000002
+ },
+ {
+   "FIELD1": 862,
+   "country": "Greece",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 321900,
+   "hdi": 10.368
+ },
+ {
+   "FIELD1": 863,
+   "country": "Greece",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 279708,
+   "hdi": 10.38
+ },
+ {
+   "FIELD1": 864,
+   "country": "Greece",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 275928,
+   "hdi": 10.356
+ },
+ {
+   "FIELD1": 865,
+   "country": "Greece",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 274008,
+   "hdi": 10.38
+ },
+ {
+   "FIELD1": 886,
+   "country": "Grenada",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 97416,
+   "hdi": 8.844
+ },
+ {
+   "FIELD1": 887,
+   "country": "Grenada",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 98256,
+   "hdi": 8.868
+ },
+ {
+   "FIELD1": 888,
+   "country": "Grenada",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 100584,
+   "hdi": 8.88
+ },
+ {
+   "FIELD1": 889,
+   "country": "Grenada",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 105468,
+   "hdi": 8.904
+ },
+ {
+   "FIELD1": 890,
+   "country": "Grenada",
+   "continent": "North America",
+   "year": 2014,
+   "gdp_per_capita": 113472,
+   "hdi": 9
+ },
+ {
+   "FIELD1": 897,
+   "country": "Guatemala",
+   "continent": "North America",
+   "year": 1990,
+   "gdp_per_capita": 11952,
+   "hdi": 5.796
+ },
+ {
+   "FIELD1": 902,
+   "country": "Guatemala",
+   "continent": "North America",
+   "year": 1995,
+   "gdp_per_capita": 20352,
+   "hdi": 6.156000000000001
+ },
+ {
+   "FIELD1": 907,
+   "country": "Guatemala",
+   "continent": "North America",
+   "year": 2000,
+   "gdp_per_capita": 23724,
+   "hdi": 6.624
+ },
+ {
+   "FIELD1": 912,
+   "country": "Guatemala",
+   "continent": "North America",
+   "year": 2005,
+   "gdp_per_capita": 29400,
+   "hdi": 6.912000000000001
+ },
+ {
+   "FIELD1": 917,
+   "country": "Guatemala",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 39120,
+   "hdi": 7.332000000000001
+ },
+ {
+   "FIELD1": 918,
+   "country": "Guatemala",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 43932,
+   "hdi": 7.404
+ },
+ {
+   "FIELD1": 919,
+   "country": "Guatemala",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 45348,
+   "hdi": 7.4879999999999995
+ },
+ {
+   "FIELD1": 920,
+   "country": "Guatemala",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 47364,
+   "hdi": 7.5120000000000005
+ },
+ {
+   "FIELD1": 921,
+   "country": "Guatemala",
+   "continent": "North America",
+   "year": 2014,
+   "gdp_per_capita": 50520,
+   "hdi": 7.524
+ },
+ {
+   "FIELD1": 925,
+   "country": "Guyana",
+   "continent": "South America",
+   "year": 1990,
+   "gdp_per_capita": 7284,
+   "hdi": 6.504
+ },
+ {
+   "FIELD1": 930,
+   "country": "Guyana",
+   "continent": "South America",
+   "year": 1995,
+   "gdp_per_capita": 11268,
+   "hdi": 6.972
+ },
+ {
+   "FIELD1": 939,
+   "country": "Guyana",
+   "continent": "South America",
+   "year": 2005,
+   "gdp_per_capita": 14820,
+   "hdi": 7.416
+ },
+ {
+   "FIELD1": 944,
+   "country": "Guyana",
+   "continent": "South America",
+   "year": 2010,
+   "gdp_per_capita": 40608,
+   "hdi": 7.4879999999999995
+ },
+ {
+   "FIELD1": 945,
+   "country": "Guyana",
+   "continent": "South America",
+   "year": 2011,
+   "gdp_per_capita": 45780,
+   "hdi": 7.56
+ },
+ {
+   "FIELD1": 946,
+   "country": "Guyana",
+   "continent": "South America",
+   "year": 2012,
+   "gdp_per_capita": 50544,
+   "hdi": 7.547999999999999
+ },
+ {
+   "FIELD1": 947,
+   "country": "Guyana",
+   "continent": "South America",
+   "year": 2013,
+   "gdp_per_capita": 52464,
+   "hdi": 7.608
+ },
+ {
+   "FIELD1": 952,
+   "country": "Hungary",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 57204,
+   "hdi": 8.88
+ },
+ {
+   "FIELD1": 957,
+   "country": "Hungary",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 59592,
+   "hdi": 9.228
+ },
+ {
+   "FIELD1": 962,
+   "country": "Hungary",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 141168,
+   "hdi": 9.624
+ },
+ {
+   "FIELD1": 967,
+   "country": "Hungary",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 165132,
+   "hdi": 9.852
+ },
+ {
+   "FIELD1": 968,
+   "country": "Hungary",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 177924,
+   "hdi": 9.876
+ },
+ {
+   "FIELD1": 969,
+   "country": "Hungary",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 162300,
+   "hdi": 9.876
+ },
+ {
+   "FIELD1": 970,
+   "country": "Hungary",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 171996,
+   "hdi": 9.9
+ },
+ {
+   "FIELD1": 971,
+   "country": "Hungary",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 178632,
+   "hdi": 9.936
+ },
+ {
+   "FIELD1": 974,
+   "country": "Iceland",
+   "continent": "Europe",
+   "year": 1985,
+   "gdp_per_capita": 160284,
+   "hdi": 9.312000000000001
+ },
+ {
+   "FIELD1": 979,
+   "country": "Iceland",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 327792,
+   "hdi": 9.624
+ },
+ {
+   "FIELD1": 984,
+   "country": "Iceland",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 344160,
+   "hdi": 9.912
+ },
+ {
+   "FIELD1": 989,
+   "country": "Iceland",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 412464,
+   "hdi": 10.308
+ },
+ {
+   "FIELD1": 994,
+   "country": "Iceland",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 728544,
+   "hdi": 10.668
+ },
+ {
+   "FIELD1": 999,
+   "country": "Iceland",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 542148,
+   "hdi": 10.704
+ },
+ {
+   "FIELD1": 1000,
+   "country": "Iceland",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 598332,
+   "hdi": 10.752
+ },
+ {
+   "FIELD1": 1001,
+   "country": "Iceland",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 576996,
+   "hdi": 10.764000000000001
+ },
+ {
+   "FIELD1": 1002,
+   "country": "Iceland",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 620988,
+   "hdi": 10.788
+ },
+ {
+   "FIELD1": 1003,
+   "country": "Iceland",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 681996,
+   "hdi": 10.788
+ },
+ {
+   "FIELD1": 1006,
+   "country": "Ireland",
+   "continent": "Europe",
+   "year": 1985,
+   "gdp_per_capita": 79656,
+   "hdi": 8.904
+ },
+ {
+   "FIELD1": 1011,
+   "country": "Ireland",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 183744,
+   "hdi": 9.24
+ },
+ {
+   "FIELD1": 1016,
+   "country": "Ireland",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 248268,
+   "hdi": 9.636000000000001
+ },
+ {
+   "FIELD1": 1021,
+   "country": "Ireland",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 340080,
+   "hdi": 10.332
+ },
+ {
+   "FIELD1": 1026,
+   "country": "Ireland",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 662556,
+   "hdi": 10.74
+ },
+ {
+   "FIELD1": 1031,
+   "country": "Ireland",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 624504,
+   "hdi": 10.895999999999999
+ },
+ {
+   "FIELD1": 1032,
+   "country": "Ireland",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 679860,
+   "hdi": 10.908
+ },
+ {
+   "FIELD1": 1033,
+   "country": "Ireland",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 641316,
+   "hdi": 10.92
+ },
+ {
+   "FIELD1": 1034,
+   "country": "Ireland",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 679536,
+   "hdi": 10.944
+ },
+ {
+   "FIELD1": 1035,
+   "country": "Ireland",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 715608,
+   "hdi": 10.992
+ },
+ {
+   "FIELD1": 1036,
+   "country": "Israel",
+   "continent": "Asia",
+   "year": 1985,
+   "gdp_per_capita": 87900,
+   "hdi": 9.216000000000001
+ },
+ {
+   "FIELD1": 1041,
+   "country": "Israel",
+   "continent": "Asia",
+   "year": 1990,
+   "gdp_per_capita": 170316,
+   "hdi": 9.42
+ },
+ {
+   "FIELD1": 1046,
+   "country": "Israel",
+   "continent": "Asia",
+   "year": 1995,
+   "gdp_per_capita": 241908,
+   "hdi": 9.804
+ },
+ {
+   "FIELD1": 1051,
+   "country": "Israel",
+   "continent": "Asia",
+   "year": 2000,
+   "gdp_per_capita": 281412,
+   "hdi": 10.2
+ },
+ {
+   "FIELD1": 1056,
+   "country": "Israel",
+   "continent": "Asia",
+   "year": 2005,
+   "gdp_per_capita": 274812,
+   "hdi": 10.44
+ },
+ {
+   "FIELD1": 1061,
+   "country": "Israel",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 409248,
+   "hdi": 10.595999999999998
+ },
+ {
+   "FIELD1": 1062,
+   "country": "Israel",
+   "continent": "Asia",
+   "year": 2011,
+   "gdp_per_capita": 450336,
+   "hdi": 10.655999999999999
+ },
+ {
+   "FIELD1": 1063,
+   "country": "Israel",
+   "continent": "Asia",
+   "year": 2012,
+   "gdp_per_capita": 435156,
+   "hdi": 10.68
+ },
+ {
+   "FIELD1": 1064,
+   "country": "Israel",
+   "continent": "Asia",
+   "year": 2013,
+   "gdp_per_capita": 485724,
+   "hdi": 10.716
+ },
+ {
+   "FIELD1": 1065,
+   "country": "Israel",
+   "continent": "Asia",
+   "year": 2014,
+   "gdp_per_capita": 502428,
+   "hdi": 10.728
+ },
+ {
+   "FIELD1": 1067,
+   "country": "Italy",
+   "continent": "Europe",
+   "year": 1985,
+   "gdp_per_capita": 99948,
+   "hdi": 8.856
+ },
+ {
+   "FIELD1": 1072,
+   "country": "Italy",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 257664,
+   "hdi": 9.192
+ },
+ {
+   "FIELD1": 1077,
+   "country": "Italy",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 259500,
+   "hdi": 9.588
+ },
+ {
+   "FIELD1": 1082,
+   "country": "Italy",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 252324,
+   "hdi": 9.948
+ },
+ {
+   "FIELD1": 1087,
+   "country": "Italy",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 402432,
+   "hdi": 10.272
+ },
+ {
+   "FIELD1": 1092,
+   "country": "Italy",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 442428,
+   "hdi": 10.427999999999999
+ },
+ {
+   "FIELD1": 1093,
+   "country": "Italy",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 482520,
+   "hdi": 10.475999999999999
+ },
+ {
+   "FIELD1": 1094,
+   "country": "Italy",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 437964,
+   "hdi": 10.464
+ },
+ {
+   "FIELD1": 1095,
+   "country": "Italy",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 444600,
+   "hdi": 10.475999999999999
+ },
+ {
+   "FIELD1": 1096,
+   "country": "Italy",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 444420,
+   "hdi": 10.475999999999999
+ },
+ {
+   "FIELD1": 1098,
+   "country": "Jamaica",
+   "continent": "North America",
+   "year": 1985,
+   "gdp_per_capita": 12384,
+   "hdi": 7.8
+ },
+ {
+   "FIELD1": 1103,
+   "country": "Jamaica",
+   "continent": "North America",
+   "year": 1990,
+   "gdp_per_capita": 25860,
+   "hdi": 8.052
+ },
+ {
+   "FIELD1": 1105,
+   "country": "Jamaica",
+   "continent": "North America",
+   "year": 2000,
+   "gdp_per_capita": 45540,
+   "hdi": 8.4
+ },
+ {
+   "FIELD1": 1110,
+   "country": "Jamaica",
+   "continent": "North America",
+   "year": 2005,
+   "gdp_per_capita": 54060,
+   "hdi": 8.748
+ },
+ {
+   "FIELD1": 1113,
+   "country": "Jamaica",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 61200,
+   "hdi": 8.724
+ },
+ {
+   "FIELD1": 1114,
+   "country": "Jamaica",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 66624,
+   "hdi": 8.724
+ },
+ {
+   "FIELD1": 1115,
+   "country": "Japan",
+   "continent": "Asia",
+   "year": 1985,
+   "gdp_per_capita": 148812,
+   "hdi": 9.492
+ },
+ {
+   "FIELD1": 1120,
+   "country": "Japan",
+   "continent": "Asia",
+   "year": 1990,
+   "gdp_per_capita": 323388,
+   "hdi": 9.767999999999999
+ },
+ {
+   "FIELD1": 1125,
+   "country": "Japan",
+   "continent": "Asia",
+   "year": 1995,
+   "gdp_per_capita": 552516,
+   "hdi": 10.056000000000001
+ },
+ {
+   "FIELD1": 1130,
+   "country": "Japan",
+   "continent": "Asia",
+   "year": 2000,
+   "gdp_per_capita": 489756,
+   "hdi": 10.284
+ },
+ {
+   "FIELD1": 1135,
+   "country": "Japan",
+   "continent": "Asia",
+   "year": 2005,
+   "gdp_per_capita": 472944,
+   "hdi": 10.488
+ },
+ {
+   "FIELD1": 1140,
+   "country": "Japan",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 564708,
+   "hdi": 10.607999999999999
+ },
+ {
+   "FIELD1": 1141,
+   "country": "Japan",
+   "continent": "Asia",
+   "year": 2011,
+   "gdp_per_capita": 611028,
+   "hdi": 10.632
+ },
+ {
+   "FIELD1": 1142,
+   "country": "Japan",
+   "continent": "Asia",
+   "year": 2012,
+   "gdp_per_capita": 616548,
+   "hdi": 10.655999999999999
+ },
+ {
+   "FIELD1": 1143,
+   "country": "Japan",
+   "continent": "Asia",
+   "year": 2013,
+   "gdp_per_capita": 513372,
+   "hdi": 10.68
+ },
+ {
+   "FIELD1": 1144,
+   "country": "Japan",
+   "continent": "Asia",
+   "year": 2014,
+   "gdp_per_capita": 483936,
+   "hdi": 10.692
+ },
+ {
+   "FIELD1": 1146,
+   "country": "Kazakhstan",
+   "continent": "Asia",
+   "year": 1990,
+   "gdp_per_capita": 21876,
+   "hdi": 8.28
+ },
+ {
+   "FIELD1": 1151,
+   "country": "Kazakhstan",
+   "continent": "Asia",
+   "year": 1995,
+   "gdp_per_capita": 16308,
+   "hdi": 7.968
+ },
+ {
+   "FIELD1": 1156,
+   "country": "Kazakhstan",
+   "continent": "Asia",
+   "year": 2000,
+   "gdp_per_capita": 15936,
+   "hdi": 8.148
+ },
+ {
+   "FIELD1": 1161,
+   "country": "Kazakhstan",
+   "continent": "Asia",
+   "year": 2005,
+   "gdp_per_capita": 49152,
+   "hdi": 8.952
+ },
+ {
+   "FIELD1": 1166,
+   "country": "Kazakhstan",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 120744,
+   "hdi": 9.192
+ },
+ {
+   "FIELD1": 1167,
+   "country": "Kazakhstan",
+   "continent": "Asia",
+   "year": 2011,
+   "gdp_per_capita": 155628,
+   "hdi": 9.264
+ },
+ {
+   "FIELD1": 1168,
+   "country": "Kazakhstan",
+   "continent": "Asia",
+   "year": 2012,
+   "gdp_per_capita": 166140,
+   "hdi": 9.336
+ },
+ {
+   "FIELD1": 1169,
+   "country": "Kazakhstan",
+   "continent": "Asia",
+   "year": 2013,
+   "gdp_per_capita": 186624,
+   "hdi": 9.42
+ },
+ {
+   "FIELD1": 1170,
+   "country": "Kazakhstan",
+   "continent": "Asia",
+   "year": 2014,
+   "gdp_per_capita": 172212,
+   "hdi": 9.456
+ },
+ {
+   "FIELD1": 1183,
+   "country": "Kuwait",
+   "continent": "Asia",
+   "year": 1985,
+   "gdp_per_capita": 175284,
+   "hdi": 8.783999999999999
+ },
+ {
+   "FIELD1": 1188,
+   "country": "Kuwait",
+   "continent": "Asia",
+   "year": 1995,
+   "gdp_per_capita": 215940,
+   "hdi": 9.024
+ },
+ {
+   "FIELD1": 1193,
+   "country": "Kuwait",
+   "continent": "Asia",
+   "year": 2000,
+   "gdp_per_capita": 229344,
+   "hdi": 9.648
+ },
+ {
+   "FIELD1": 1198,
+   "country": "Kuwait",
+   "continent": "Asia",
+   "year": 2005,
+   "gdp_per_capita": 469992,
+   "hdi": 9.54
+ },
+ {
+   "FIELD1": 1203,
+   "country": "Kuwait",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 422052,
+   "hdi": 9.708
+ },
+ {
+   "FIELD1": 1204,
+   "country": "Kuwait",
+   "continent": "Asia",
+   "year": 2011,
+   "gdp_per_capita": 554436,
+   "hdi": 9.744
+ },
+ {
+   "FIELD1": 1205,
+   "country": "Kuwait",
+   "continent": "Asia",
+   "year": 2012,
+   "gdp_per_capita": 597372,
+   "hdi": 9.78
+ },
+ {
+   "FIELD1": 1206,
+   "country": "Kuwait",
+   "continent": "Asia",
+   "year": 2013,
+   "gdp_per_capita": 584748,
+   "hdi": 9.792
+ },
+ {
+   "FIELD1": 1207,
+   "country": "Kuwait",
+   "continent": "Asia",
+   "year": 2014,
+   "gdp_per_capita": 525288,
+   "hdi": 9.792
+ },
+ {
+   "FIELD1": 1208,
+   "country": "Kyrgyzstan",
+   "continent": "Asia",
+   "year": 1990,
+   "gdp_per_capita": 8580,
+   "hdi": 7.38
+ },
+ {
+   "FIELD1": 1213,
+   "country": "Kyrgyzstan",
+   "continent": "Asia",
+   "year": 1995,
+   "gdp_per_capita": 5100,
+   "hdi": 6.744
+ },
+ {
+   "FIELD1": 1218,
+   "country": "Kyrgyzstan",
+   "continent": "Asia",
+   "year": 2000,
+   "gdp_per_capita": 3756,
+   "hdi": 7.1160000000000005
+ },
+ {
+   "FIELD1": 1223,
+   "country": "Kyrgyzstan",
+   "continent": "Asia",
+   "year": 2005,
+   "gdp_per_capita": 6396,
+   "hdi": 7.367999999999999
+ },
+ {
+   "FIELD1": 1228,
+   "country": "Kyrgyzstan",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 11892,
+   "hdi": 7.608
+ },
+ {
+   "FIELD1": 1229,
+   "country": "Kyrgyzstan",
+   "continent": "Asia",
+   "year": 2011,
+   "gdp_per_capita": 15276,
+   "hdi": 7.667999999999999
+ },
+ {
+   "FIELD1": 1230,
+   "country": "Kyrgyzstan",
+   "continent": "Asia",
+   "year": 2012,
+   "gdp_per_capita": 16068,
+   "hdi": 7.74
+ },
+ {
+   "FIELD1": 1231,
+   "country": "Kyrgyzstan",
+   "continent": "Asia",
+   "year": 2013,
+   "gdp_per_capita": 17556,
+   "hdi": 7.824
+ },
+ {
+   "FIELD1": 1232,
+   "country": "Kyrgyzstan",
+   "continent": "Asia",
+   "year": 2014,
+   "gdp_per_capita": 17580,
+   "hdi": 7.86
+ },
+ {
+   "FIELD1": 1234,
+   "country": "Latvia",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 29256,
+   "hdi": 8.04
+ },
+ {
+   "FIELD1": 1239,
+   "country": "Latvia",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 41928,
+   "hdi": 8.724
+ },
+ {
+   "FIELD1": 1244,
+   "country": "Latvia",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 94992,
+   "hdi": 9.672
+ },
+ {
+   "FIELD1": 1249,
+   "country": "Latvia",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 143412,
+   "hdi": 9.732000000000001
+ },
+ {
+   "FIELD1": 1250,
+   "country": "Latvia",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 173364,
+   "hdi": 9.744
+ },
+ {
+   "FIELD1": 1251,
+   "country": "Latvia",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 174696,
+   "hdi": 9.756
+ },
+ {
+   "FIELD1": 1252,
+   "country": "Latvia",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 189840,
+   "hdi": 9.792
+ },
+ {
+   "FIELD1": 1253,
+   "country": "Latvia",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 198528,
+   "hdi": 9.828
+ },
+ {
+   "FIELD1": 1255,
+   "country": "Lithuania",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 27888,
+   "hdi": 8.412
+ },
+ {
+   "FIELD1": 1260,
+   "country": "Lithuania",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 41772,
+   "hdi": 9.048
+ },
+ {
+   "FIELD1": 1265,
+   "country": "Lithuania",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 98748,
+   "hdi": 9.672
+ },
+ {
+   "FIELD1": 1270,
+   "country": "Lithuania",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 151008,
+   "hdi": 9.924
+ },
+ {
+   "FIELD1": 1271,
+   "country": "Lithuania",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 181164,
+   "hdi": 9.972000000000001
+ },
+ {
+   "FIELD1": 1272,
+   "country": "Lithuania",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 181188,
+   "hdi": 9.996
+ },
+ {
+   "FIELD1": 1273,
+   "country": "Lithuania",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 198456,
+   "hdi": 10.044
+ },
+ {
+   "FIELD1": 1274,
+   "country": "Lithuania",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 209304,
+   "hdi": 10.068
+ },
+ {
+   "FIELD1": 1277,
+   "country": "Luxembourg",
+   "continent": "Europe",
+   "year": 1985,
+   "gdp_per_capita": 164916,
+   "hdi": 9.024
+ },
+ {
+   "FIELD1": 1282,
+   "country": "Luxembourg",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 442452,
+   "hdi": 9.347999999999999
+ },
+ {
+   "FIELD1": 1287,
+   "country": "Luxembourg",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 677988,
+   "hdi": 9.66
+ },
+ {
+   "FIELD1": 1292,
+   "country": "Luxembourg",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 622092,
+   "hdi": 10.212
+ },
+ {
+   "FIELD1": 1297,
+   "country": "Luxembourg",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 1024764,
+   "hdi": 10.56
+ },
+ {
+   "FIELD1": 1302,
+   "country": "Luxembourg",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 1335936,
+   "hdi": 10.632
+ },
+ {
+   "FIELD1": 1303,
+   "country": "Luxembourg",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 1472748,
+   "hdi": 10.655999999999999
+ },
+ {
+   "FIELD1": 1304,
+   "country": "Luxembourg",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 1357440,
+   "hdi": 10.655999999999999
+ },
+ {
+   "FIELD1": 1305,
+   "country": "Luxembourg",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 1445076,
+   "hdi": 10.68
+ },
+ {
+   "FIELD1": 1306,
+   "country": "Luxembourg",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 1516224,
+   "hdi": 10.704
+ },
+ {
+   "FIELD1": 1309,
+   "country": "Maldives",
+   "continent": "Asia",
+   "year": 2000,
+   "gdp_per_capita": 30288,
+   "hdi": 7.236000000000001
+ },
+ {
+   "FIELD1": 1314,
+   "country": "Maldives",
+   "continent": "Asia",
+   "year": 2005,
+   "gdp_per_capita": 48312,
+   "hdi": 7.656000000000001
+ },
+ {
+   "FIELD1": 1317,
+   "country": "Maldives",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 93672,
+   "hdi": 8.196
+ },
+ {
+   "FIELD1": 1318,
+   "country": "Maldives",
+   "continent": "Asia",
+   "year": 2011,
+   "gdp_per_capita": 97620,
+   "hdi": 8.28
+ },
+ {
+   "FIELD1": 1319,
+   "country": "Malta",
+   "continent": "Europe",
+   "year": 1985,
+   "gdp_per_capita": 43668,
+   "hdi": 8.556000000000001
+ },
+ {
+   "FIELD1": 1324,
+   "country": "Malta",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 93360,
+   "hdi": 8.748
+ },
+ {
+   "FIELD1": 1329,
+   "country": "Malta",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 119688,
+   "hdi": 8.892000000000001
+ },
+ {
+   "FIELD1": 1334,
+   "country": "Malta",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 142476,
+   "hdi": 9.192
+ },
+ {
+   "FIELD1": 1339,
+   "country": "Malta",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 199776,
+   "hdi": 9.624
+ },
+ {
+   "FIELD1": 1344,
+   "country": "Malta",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 265584,
+   "hdi": 9.888
+ },
+ {
+   "FIELD1": 1345,
+   "country": "Malta",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 287808,
+   "hdi": 9.863999999999999
+ },
+ {
+   "FIELD1": 1346,
+   "country": "Malta",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 276888,
+   "hdi": 9.96
+ },
+ {
+   "FIELD1": 1347,
+   "country": "Malta",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 302292,
+   "hdi": 10.044
+ },
+ {
+   "FIELD1": 1348,
+   "country": "Malta",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 331608,
+   "hdi": 10.068
+ },
+ {
+   "FIELD1": 1350,
+   "country": "Mauritius",
+   "continent": "Africa",
+   "year": 1985,
+   "gdp_per_capita": 14676,
+   "hdi": 6.9
+ },
+ {
+   "FIELD1": 1355,
+   "country": "Mauritius",
+   "continent": "Africa",
+   "year": 1990,
+   "gdp_per_capita": 33840,
+   "hdi": 7.428
+ },
+ {
+   "FIELD1": 1360,
+   "country": "Mauritius",
+   "continent": "Africa",
+   "year": 1995,
+   "gdp_per_capita": 49380,
+   "hdi": 7.763999999999999
+ },
+ {
+   "FIELD1": 1365,
+   "country": "Mauritius",
+   "continent": "Africa",
+   "year": 2000,
+   "gdp_per_capita": 52068,
+   "hdi": 8.088
+ },
+ {
+   "FIELD1": 1370,
+   "country": "Mauritius",
+   "continent": "Africa",
+   "year": 2005,
+   "gdp_per_capita": 67692,
+   "hdi": 8.664
+ },
+ {
+   "FIELD1": 1375,
+   "country": "Mauritius",
+   "continent": "Africa",
+   "year": 2010,
+   "gdp_per_capita": 103044,
+   "hdi": 9.072000000000001
+ },
+ {
+   "FIELD1": 1376,
+   "country": "Mauritius",
+   "continent": "Africa",
+   "year": 2011,
+   "gdp_per_capita": 117804,
+   "hdi": 9.144
+ },
+ {
+   "FIELD1": 1377,
+   "country": "Mauritius",
+   "continent": "Africa",
+   "year": 2012,
+   "gdp_per_capita": 118608,
+   "hdi": 9.264
+ },
+ {
+   "FIELD1": 1378,
+   "country": "Mauritius",
+   "continent": "Africa",
+   "year": 2013,
+   "gdp_per_capita": 126864,
+   "hdi": 9.3
+ },
+ {
+   "FIELD1": 1379,
+   "country": "Mauritius",
+   "continent": "Africa",
+   "year": 2014,
+   "gdp_per_capita": 133440,
+   "hdi": 9.324
+ },
+ {
+   "FIELD1": 1382,
+   "country": "Mexico",
+   "continent": "North America",
+   "year": 1985,
+   "gdp_per_capita": 32760,
+   "hdi": 7.608
+ },
+ {
+   "FIELD1": 1387,
+   "country": "Mexico",
+   "continent": "North America",
+   "year": 1990,
+   "gdp_per_capita": 43140,
+   "hdi": 7.776
+ },
+ {
+   "FIELD1": 1392,
+   "country": "Mexico",
+   "continent": "North America",
+   "year": 1995,
+   "gdp_per_capita": 54060,
+   "hdi": 8.04
+ },
+ {
+   "FIELD1": 1397,
+   "country": "Mexico",
+   "continent": "North America",
+   "year": 2000,
+   "gdp_per_capita": 94704,
+   "hdi": 8.388
+ },
+ {
+   "FIELD1": 1402,
+   "country": "Mexico",
+   "continent": "North America",
+   "year": 2005,
+   "gdp_per_capita": 108852,
+   "hdi": 8.664
+ },
+ {
+   "FIELD1": 1407,
+   "country": "Mexico",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 119892,
+   "hdi": 8.952
+ },
+ {
+   "FIELD1": 1408,
+   "country": "Mexico",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 131580,
+   "hdi": 8.976
+ },
+ {
+   "FIELD1": 1409,
+   "country": "Mexico",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 131784,
+   "hdi": 9.048
+ },
+ {
+   "FIELD1": 1410,
+   "country": "Mexico",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 137736,
+   "hdi": 9.06
+ },
+ {
+   "FIELD1": 1411,
+   "country": "Mexico",
+   "continent": "North America",
+   "year": 2014,
+   "gdp_per_capita": 139956,
+   "hdi": 9.072000000000001
+ },
+ {
+   "FIELD1": 1419,
+   "country": "Montenegro",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 46440,
+   "hdi": 9
+ },
+ {
+   "FIELD1": 1424,
+   "country": "Netherlands",
+   "continent": "Europe",
+   "year": 1985,
+   "gdp_per_capita": 125136,
+   "hdi": 9.588
+ },
+ {
+   "FIELD1": 1429,
+   "country": "Netherlands",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 269100,
+   "hdi": 9.948
+ },
+ {
+   "FIELD1": 1434,
+   "country": "Netherlands",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 370200,
+   "hdi": 10.332
+ },
+ {
+   "FIELD1": 1439,
+   "country": "Netherlands",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 331728,
+   "hdi": 10.524000000000001
+ },
+ {
+   "FIELD1": 1444,
+   "country": "Netherlands",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 531468,
+   "hdi": 10.692
+ },
+ {
+   "FIELD1": 1449,
+   "country": "Netherlands",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 639624,
+   "hdi": 10.908
+ },
+ {
+   "FIELD1": 1450,
+   "country": "Netherlands",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 680004,
+   "hdi": 11.027999999999999
+ },
+ {
+   "FIELD1": 1451,
+   "country": "Netherlands",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 628008,
+   "hdi": 11.04
+ },
+ {
+   "FIELD1": 1452,
+   "country": "Netherlands",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 654120,
+   "hdi": 11.04
+ },
+ {
+   "FIELD1": 1453,
+   "country": "Netherlands",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 663900,
+   "hdi": 11.064
+ },
+ {
+   "FIELD1": 1456,
+   "country": "New Zealand",
+   "continent": "Oceania",
+   "year": 1985,
+   "gdp_per_capita": 98952,
+   "hdi": 9.66
+ },
+ {
+   "FIELD1": 1461,
+   "country": "New Zealand",
+   "continent": "Oceania",
+   "year": 1990,
+   "gdp_per_capita": 176808,
+   "hdi": 9.84
+ },
+ {
+   "FIELD1": 1466,
+   "country": "New Zealand",
+   "continent": "Oceania",
+   "year": 1995,
+   "gdp_per_capita": 227340,
+   "hdi": 10.26
+ },
+ {
+   "FIELD1": 1471,
+   "country": "New Zealand",
+   "continent": "Oceania",
+   "year": 2000,
+   "gdp_per_capita": 176700,
+   "hdi": 10.488
+ },
+ {
+   "FIELD1": 1476,
+   "country": "New Zealand",
+   "continent": "Oceania",
+   "year": 2005,
+   "gdp_per_capita": 357636,
+   "hdi": 10.74
+ },
+ {
+   "FIELD1": 1481,
+   "country": "New Zealand",
+   "continent": "Oceania",
+   "year": 2010,
+   "gdp_per_capita": 433740,
+   "hdi": 10.86
+ },
+ {
+   "FIELD1": 1482,
+   "country": "New Zealand",
+   "continent": "Oceania",
+   "year": 2011,
+   "gdp_per_capita": 494208,
+   "hdi": 10.884
+ },
+ {
+   "FIELD1": 1483,
+   "country": "New Zealand",
+   "continent": "Oceania",
+   "year": 2012,
+   "gdp_per_capita": 513072,
+   "hdi": 10.908
+ },
+ {
+   "FIELD1": 1484,
+   "country": "New Zealand",
+   "continent": "Oceania",
+   "year": 2013,
+   "gdp_per_capita": 554376,
+   "hdi": 10.932
+ },
+ {
+   "FIELD1": 1485,
+   "country": "Nicaragua",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 20580,
+   "hdi": 7.428
+ },
+ {
+   "FIELD1": 1486,
+   "country": "Nicaragua",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 22656,
+   "hdi": 7.476
+ },
+ {
+   "FIELD1": 1487,
+   "country": "Nicaragua",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 24072,
+   "hdi": 7.5
+ },
+ {
+   "FIELD1": 1488,
+   "country": "Nicaragua",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 24744,
+   "hdi": 7.5360000000000005
+ },
+ {
+   "FIELD1": 1489,
+   "country": "Nicaragua",
+   "continent": "North America",
+   "year": 2014,
+   "gdp_per_capita": 26388,
+   "hdi": 7.572
+ },
+ {
+   "FIELD1": 1495,
+   "country": "Norway",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 362880,
+   "hdi": 10.187999999999999
+ },
+ {
+   "FIELD1": 1500,
+   "country": "Norway",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 449796,
+   "hdi": 10.595999999999998
+ },
+ {
+   "FIELD1": 1505,
+   "country": "Norway",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 493188,
+   "hdi": 11.004000000000001
+ },
+ {
+   "FIELD1": 1510,
+   "country": "Norway",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 854580,
+   "hdi": 11.172
+ },
+ {
+   "FIELD1": 1515,
+   "country": "Norway",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 1123656,
+   "hdi": 11.28
+ },
+ {
+   "FIELD1": 1516,
+   "country": "Norway",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 1289160,
+   "hdi": 11.292
+ },
+ {
+   "FIELD1": 1517,
+   "country": "Norway",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 1300896,
+   "hdi": 11.304
+ },
+ {
+   "FIELD1": 1518,
+   "country": "Norway",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 1317648,
+   "hdi": 11.304
+ },
+ {
+   "FIELD1": 1519,
+   "country": "Norway",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 1241316,
+   "hdi": 11.328
+ },
+ {
+   "FIELD1": 1522,
+   "country": "Oman",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 256044,
+   "hdi": 9.54
+ },
+ {
+   "FIELD1": 1523,
+   "country": "Oman",
+   "continent": "Asia",
+   "year": 2014,
+   "gdp_per_capita": 267936,
+   "hdi": 9.516
+ },
+ {
+   "FIELD1": 1524,
+   "country": "Panama",
+   "continent": "North America",
+   "year": 1985,
+   "gdp_per_capita": 41316,
+   "hdi": 7.776
+ },
+ {
+   "FIELD1": 1533,
+   "country": "Panama",
+   "continent": "North America",
+   "year": 2000,
+   "gdp_per_capita": 54924,
+   "hdi": 8.568
+ },
+ {
+   "FIELD1": 1538,
+   "country": "Panama",
+   "continent": "North America",
+   "year": 2005,
+   "gdp_per_capita": 65988,
+   "hdi": 8.796
+ },
+ {
+   "FIELD1": 1543,
+   "country": "Panama",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 107892,
+   "hdi": 9.132
+ },
+ {
+   "FIELD1": 1544,
+   "country": "Panama",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 124836,
+   "hdi": 9.107999999999999
+ },
+ {
+   "FIELD1": 1545,
+   "country": "Panama",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 142896,
+   "hdi": 9.264
+ },
+ {
+   "FIELD1": 1546,
+   "country": "Panama",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 158268,
+   "hdi": 9.324
+ },
+ {
+   "FIELD1": 1547,
+   "country": "Panama",
+   "continent": "North America",
+   "year": 2014,
+   "gdp_per_capita": 170172,
+   "hdi": 9.36
+ },
+ {
+   "FIELD1": 1549,
+   "country": "Paraguay",
+   "continent": "South America",
+   "year": 1985,
+   "gdp_per_capita": 11568,
+   "hdi": 6.768
+ },
+ {
+   "FIELD1": 1553,
+   "country": "Paraguay",
+   "continent": "South America",
+   "year": 1990,
+   "gdp_per_capita": 19200,
+   "hdi": 6.9479999999999995
+ },
+ {
+   "FIELD1": 1556,
+   "country": "Paraguay",
+   "continent": "South America",
+   "year": 1995,
+   "gdp_per_capita": 26676,
+   "hdi": 7.247999999999999
+ },
+ {
+   "FIELD1": 1561,
+   "country": "Paraguay",
+   "continent": "South America",
+   "year": 2000,
+   "gdp_per_capita": 21384,
+   "hdi": 7.476
+ },
+ {
+   "FIELD1": 1566,
+   "country": "Paraguay",
+   "continent": "South America",
+   "year": 2005,
+   "gdp_per_capita": 20448,
+   "hdi": 7.752000000000001
+ },
+ {
+   "FIELD1": 1571,
+   "country": "Paraguay",
+   "continent": "South America",
+   "year": 2010,
+   "gdp_per_capita": 43428,
+   "hdi": 8.016
+ },
+ {
+   "FIELD1": 1572,
+   "country": "Paraguay",
+   "continent": "South America",
+   "year": 2011,
+   "gdp_per_capita": 53688,
+   "hdi": 8.052
+ },
+ {
+   "FIELD1": 1573,
+   "country": "Paraguay",
+   "continent": "South America",
+   "year": 2012,
+   "gdp_per_capita": 51828,
+   "hdi": 8.027999999999999
+ },
+ {
+   "FIELD1": 1574,
+   "country": "Paraguay",
+   "continent": "South America",
+   "year": 2013,
+   "gdp_per_capita": 60072,
+   "hdi": 8.124
+ },
+ {
+   "FIELD1": 1575,
+   "country": "Paraguay",
+   "continent": "South America",
+   "year": 2014,
+   "gdp_per_capita": 63048,
+   "hdi": 8.148
+ },
+ {
+   "FIELD1": 1581,
+   "country": "Philippines",
+   "continent": "Asia",
+   "year": 2000,
+   "gdp_per_capita": 14460,
+   "hdi": 7.476
+ },
+ {
+   "FIELD1": 1589,
+   "country": "Philippines",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 28944,
+   "hdi": 7.848
+ },
+ {
+   "FIELD1": 1590,
+   "country": "Philippines",
+   "continent": "Asia",
+   "year": 2011,
+   "gdp_per_capita": 31944,
+   "hdi": 7.836
+ },
+ {
+   "FIELD1": 1591,
+   "country": "Poland",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 22512,
+   "hdi": 8.556000000000001
+ },
+ {
+   "FIELD1": 1596,
+   "country": "Poland",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 47244,
+   "hdi": 8.88
+ },
+ {
+   "FIELD1": 1599,
+   "country": "Poland",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 56928,
+   "hdi": 9.432
+ },
+ {
+   "FIELD1": 1604,
+   "country": "Poland",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 101004,
+   "hdi": 9.66
+ },
+ {
+   "FIELD1": 1609,
+   "country": "Poland",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 159648,
+   "hdi": 9.948
+ },
+ {
+   "FIELD1": 1610,
+   "country": "Poland",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 176232,
+   "hdi": 9.996
+ },
+ {
+   "FIELD1": 1611,
+   "country": "Poland",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 166728,
+   "hdi": 10.056000000000001
+ },
+ {
+   "FIELD1": 1612,
+   "country": "Poland",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 174624,
+   "hdi": 10.08
+ },
+ {
+   "FIELD1": 1613,
+   "country": "Poland",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 181428,
+   "hdi": 10.116
+ },
+ {
+   "FIELD1": 1615,
+   "country": "Portugal",
+   "continent": "Europe",
+   "year": 1985,
+   "gdp_per_capita": 34944,
+   "hdi": 8.112
+ },
+ {
+   "FIELD1": 1620,
+   "country": "Portugal",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 100272,
+   "hdi": 8.52
+ },
+ {
+   "FIELD1": 1625,
+   "country": "Portugal",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 149628,
+   "hdi": 9.107999999999999
+ },
+ {
+   "FIELD1": 1630,
+   "country": "Portugal",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 145824,
+   "hdi": 9.384
+ },
+ {
+   "FIELD1": 1637,
+   "country": "Portugal",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 284076,
+   "hdi": 9.828
+ },
+ {
+   "FIELD1": 1638,
+   "country": "Portugal",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 292044,
+   "hdi": 9.9
+ },
+ {
+   "FIELD1": 1639,
+   "country": "Portugal",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 258876,
+   "hdi": 9.924
+ },
+ {
+   "FIELD1": 1640,
+   "country": "Portugal",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 271692,
+   "hdi": 9.936
+ },
+ {
+   "FIELD1": 1641,
+   "country": "Portugal",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 277092,
+   "hdi": 9.96
+ },
+ {
+   "FIELD1": 1673,
+   "country": "Qatar",
+   "continent": "Asia",
+   "year": 1995,
+   "gdp_per_capita": 210708,
+   "hdi": 9.396
+ },
+ {
+   "FIELD1": 1676,
+   "country": "Qatar",
+   "continent": "Asia",
+   "year": 2005,
+   "gdp_per_capita": 670788,
+   "hdi": 10.044
+ },
+ {
+   "FIELD1": 1681,
+   "country": "Qatar",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 888660,
+   "hdi": 10.128
+ },
+ {
+   "FIELD1": 1682,
+   "country": "Qatar",
+   "continent": "Asia",
+   "year": 2011,
+   "gdp_per_capita": 1085880,
+   "hdi": 10.092
+ },
+ {
+   "FIELD1": 1683,
+   "country": "Qatar",
+   "continent": "Asia",
+   "year": 2012,
+   "gdp_per_capita": 1119240,
+   "hdi": 10.176
+ },
+ {
+   "FIELD1": 1684,
+   "country": "Qatar",
+   "continent": "Asia",
+   "year": 2013,
+   "gdp_per_capita": 1116792,
+   "hdi": 10.187999999999999
+ },
+ {
+   "FIELD1": 1685,
+   "country": "Qatar",
+   "continent": "Asia",
+   "year": 2014,
+   "gdp_per_capita": 1099044,
+   "hdi": 10.2
+ },
+ {
+   "FIELD1": 1720,
+   "country": "Romania",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 21864,
+   "hdi": 8.436
+ },
+ {
+   "FIELD1": 1725,
+   "country": "Romania",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 21072,
+   "hdi": 8.28
+ },
+ {
+   "FIELD1": 1730,
+   "country": "Romania",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 21096,
+   "hdi": 8.472000000000001
+ },
+ {
+   "FIELD1": 1735,
+   "country": "Romania",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 58164,
+   "hdi": 9.012
+ },
+ {
+   "FIELD1": 1740,
+   "country": "Romania",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 98280,
+   "hdi": 9.42
+ },
+ {
+   "FIELD1": 1741,
+   "country": "Romania",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 109032,
+   "hdi": 9.432
+ },
+ {
+   "FIELD1": 1742,
+   "country": "Romania",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 108180,
+   "hdi": 9.456
+ },
+ {
+   "FIELD1": 1743,
+   "country": "Romania",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 120960,
+   "hdi": 9.492
+ },
+ {
+   "FIELD1": 1744,
+   "country": "Romania",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 126312,
+   "hdi": 9.516
+ },
+ {
+   "FIELD1": 1791,
+   "country": "Saint Lucia",
+   "continent": "North America",
+   "year": 2000,
+   "gdp_per_capita": 66684,
+   "hdi": 8.196
+ },
+ {
+   "FIELD1": 1796,
+   "country": "Saint Lucia",
+   "continent": "North America",
+   "year": 2005,
+   "gdp_per_capita": 75504,
+   "hdi": 8.292
+ },
+ {
+   "FIELD1": 1800,
+   "country": "Saint Lucia",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 102684,
+   "hdi": 8.76
+ },
+ {
+   "FIELD1": 1801,
+   "country": "Saint Lucia",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 105912,
+   "hdi": 8.76
+ },
+ {
+   "FIELD1": 1802,
+   "country": "Saint Lucia",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 105168,
+   "hdi": 8.76
+ },
+ {
+   "FIELD1": 1803,
+   "country": "Saint Lucia",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 108492,
+   "hdi": 8.748
+ },
+ {
+   "FIELD1": 1804,
+   "country": "Saint Lucia",
+   "continent": "North America",
+   "year": 2014,
+   "gdp_per_capita": 112464,
+   "hdi": 8.748
+ },
+ {
+   "FIELD1": 1814,
+   "country": "Saint Vincent and Grenadines",
+   "continent": "North America",
+   "year": 2000,
+   "gdp_per_capita": 49044,
+   "hdi": 8.088
+ },
+ {
+   "FIELD1": 1819,
+   "country": "Saint Vincent and Grenadines",
+   "continent": "North America",
+   "year": 2005,
+   "gdp_per_capita": 66672,
+   "hdi": 8.363999999999999
+ },
+ {
+   "FIELD1": 1824,
+   "country": "Saint Vincent and Grenadines",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 81708,
+   "hdi": 8.532
+ },
+ {
+   "FIELD1": 1825,
+   "country": "Saint Vincent and Grenadines",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 81108,
+   "hdi": 8.556000000000001
+ },
+ {
+   "FIELD1": 1826,
+   "country": "Saint Vincent and Grenadines",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 83016,
+   "hdi": 8.58
+ },
+ {
+   "FIELD1": 1827,
+   "country": "Saint Vincent and Grenadines",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 86196,
+   "hdi": 8.604
+ },
+ {
+   "FIELD1": 1828,
+   "country": "Saint Vincent and Grenadines",
+   "continent": "North America",
+   "year": 2014,
+   "gdp_per_capita": 86436,
+   "hdi": 8.64
+ },
+ {
+   "FIELD1": 1835,
+   "country": "Serbia",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 10980,
+   "hdi": 8.52
+ },
+ {
+   "FIELD1": 1840,
+   "country": "Serbia",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 44628,
+   "hdi": 8.892000000000001
+ },
+ {
+   "FIELD1": 1845,
+   "country": "Serbia",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 68184,
+   "hdi": 9.084
+ },
+ {
+   "FIELD1": 1846,
+   "country": "Serbia",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 80808,
+   "hdi": 9.132
+ },
+ {
+   "FIELD1": 1847,
+   "country": "Serbia",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 71196,
+   "hdi": 9.144
+ },
+ {
+   "FIELD1": 1848,
+   "country": "Serbia",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 79944,
+   "hdi": 9.252
+ },
+ {
+   "FIELD1": 1849,
+   "country": "Serbia",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 78000,
+   "hdi": 9.252
+ },
+ {
+   "FIELD1": 1858,
+   "country": "Seychelles",
+   "continent": "Africa",
+   "year": 2005,
+   "gdp_per_capita": 136332,
+   "hdi": 8.832
+ },
+ {
+   "FIELD1": 1863,
+   "country": "Seychelles",
+   "continent": "Africa",
+   "year": 2010,
+   "gdp_per_capita": 138756,
+   "hdi": 8.916
+ },
+ {
+   "FIELD1": 1864,
+   "country": "Seychelles",
+   "continent": "Africa",
+   "year": 2011,
+   "gdp_per_capita": 158448,
+   "hdi": 9.024
+ },
+ {
+   "FIELD1": 1865,
+   "country": "Seychelles",
+   "continent": "Africa",
+   "year": 2012,
+   "gdp_per_capita": 156528,
+   "hdi": 9.132
+ },
+ {
+   "FIELD1": 1866,
+   "country": "Seychelles",
+   "continent": "Africa",
+   "year": 2013,
+   "gdp_per_capita": 193080,
+   "hdi": 9.204
+ },
+ {
+   "FIELD1": 1867,
+   "country": "Seychelles",
+   "continent": "Africa",
+   "year": 2014,
+   "gdp_per_capita": 192216,
+   "hdi": 9.264
+ },
+ {
+   "FIELD1": 1874,
+   "country": "Singapore",
+   "continent": "Asia",
+   "year": 1990,
+   "gdp_per_capita": 172716,
+   "hdi": 8.616
+ },
+ {
+   "FIELD1": 1879,
+   "country": "Singapore",
+   "continent": "Asia",
+   "year": 1995,
+   "gdp_per_capita": 381396,
+   "hdi": 9.276
+ },
+ {
+   "FIELD1": 1884,
+   "country": "Singapore",
+   "continent": "Asia",
+   "year": 2000,
+   "gdp_per_capita": 377352,
+   "hdi": 9.828
+ },
+ {
+   "FIELD1": 1889,
+   "country": "Singapore",
+   "continent": "Asia",
+   "year": 2005,
+   "gdp_per_capita": 457464,
+   "hdi": 10.092
+ },
+ {
+   "FIELD1": 1894,
+   "country": "Singapore",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 793188,
+   "hdi": 10.764000000000001
+ },
+ {
+   "FIELD1": 1895,
+   "country": "Singapore",
+   "continent": "Asia",
+   "year": 2011,
+   "gdp_per_capita": 919656,
+   "hdi": 10.835999999999999
+ },
+ {
+   "FIELD1": 1896,
+   "country": "Singapore",
+   "continent": "Asia",
+   "year": 2012,
+   "gdp_per_capita": 960480,
+   "hdi": 10.86
+ },
+ {
+   "FIELD1": 1897,
+   "country": "Singapore",
+   "continent": "Asia",
+   "year": 2013,
+   "gdp_per_capita": 997812,
+   "hdi": 10.908
+ },
+ {
+   "FIELD1": 1898,
+   "country": "Singapore",
+   "continent": "Asia",
+   "year": 2014,
+   "gdp_per_capita": 1013304,
+   "hdi": 10.944
+ },
+ {
+   "FIELD1": 1903,
+   "country": "Slovakia",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 61692,
+   "hdi": 9
+ },
+ {
+   "FIELD1": 1908,
+   "country": "Slovakia",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 68352,
+   "hdi": 9.156
+ },
+ {
+   "FIELD1": 1913,
+   "country": "Slovakia",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 146748,
+   "hdi": 9.516
+ },
+ {
+   "FIELD1": 1918,
+   "country": "Slovakia",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 208644,
+   "hdi": 9.924
+ },
+ {
+   "FIELD1": 1919,
+   "country": "Slovakia",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 219072,
+   "hdi": 10.032
+ },
+ {
+   "FIELD1": 1920,
+   "country": "Slovakia",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 230712,
+   "hdi": 10.08
+ },
+ {
+   "FIELD1": 1921,
+   "country": "Slovakia",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 236148,
+   "hdi": 10.128
+ },
+ {
+   "FIELD1": 1922,
+   "country": "Slovenia",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 135492,
+   "hdi": 9.384
+ },
+ {
+   "FIELD1": 1927,
+   "country": "Slovenia",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 129396,
+   "hdi": 9.888
+ },
+ {
+   "FIELD1": 1932,
+   "country": "Slovenia",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 228144,
+   "hdi": 10.284
+ },
+ {
+   "FIELD1": 1937,
+   "country": "Slovenia",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 296268,
+   "hdi": 10.512
+ },
+ {
+   "FIELD1": 1938,
+   "country": "Slovenia",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 316524,
+   "hdi": 10.524000000000001
+ },
+ {
+   "FIELD1": 1939,
+   "country": "Slovenia",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 285840,
+   "hdi": 10.536
+ },
+ {
+   "FIELD1": 1940,
+   "country": "Slovenia",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 296364,
+   "hdi": 10.536
+ },
+ {
+   "FIELD1": 1941,
+   "country": "Slovenia",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 306828,
+   "hdi": 10.56
+ },
+ {
+   "FIELD1": 1947,
+   "country": "South Africa",
+   "continent": "Africa",
+   "year": 2000,
+   "gdp_per_capita": 40332,
+   "hdi": 7.584
+ },
+ {
+   "FIELD1": 1952,
+   "country": "South Africa",
+   "continent": "Africa",
+   "year": 2005,
+   "gdp_per_capita": 70968,
+   "hdi": 7.356
+ },
+ {
+   "FIELD1": 1957,
+   "country": "South Africa",
+   "continent": "Africa",
+   "year": 2010,
+   "gdp_per_capita": 97536,
+   "hdi": 7.716
+ },
+ {
+   "FIELD1": 1958,
+   "country": "South Africa",
+   "continent": "Africa",
+   "year": 2011,
+   "gdp_per_capita": 106872,
+   "hdi": 7.812
+ },
+ {
+   "FIELD1": 1959,
+   "country": "South Africa",
+   "continent": "Africa",
+   "year": 2012,
+   "gdp_per_capita": 100164,
+   "hdi": 7.9079999999999995
+ },
+ {
+   "FIELD1": 1960,
+   "country": "South Africa",
+   "continent": "Africa",
+   "year": 2013,
+   "gdp_per_capita": 91344,
+   "hdi": 7.956
+ },
+ {
+   "FIELD1": 1961,
+   "country": "South Africa",
+   "continent": "Africa",
+   "year": 2014,
+   "gdp_per_capita": 86088,
+   "hdi": 7.992000000000001
+ },
+ {
+   "FIELD1": 1963,
+   "country": "Spain",
+   "continent": "Europe",
+   "year": 1985,
+   "gdp_per_capita": 60108,
+   "hdi": 8.7
+ },
+ {
+   "FIELD1": 1968,
+   "country": "Spain",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 174204,
+   "hdi": 9.072000000000001
+ },
+ {
+   "FIELD1": 1973,
+   "country": "Spain",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 197328,
+   "hdi": 9.636000000000001
+ },
+ {
+   "FIELD1": 1978,
+   "country": "Spain",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 186456,
+   "hdi": 9.924
+ },
+ {
+   "FIELD1": 1983,
+   "country": "Spain",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 337104,
+   "hdi": 10.14
+ },
+ {
+   "FIELD1": 1988,
+   "country": "Spain",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 394068,
+   "hdi": 10.404000000000002
+ },
+ {
+   "FIELD1": 1989,
+   "country": "Spain",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 409164,
+   "hdi": 10.44
+ },
+ {
+   "FIELD1": 1990,
+   "country": "Spain",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 361752,
+   "hdi": 10.488
+ },
+ {
+   "FIELD1": 1991,
+   "country": "Spain",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 369504,
+   "hdi": 10.488
+ },
+ {
+   "FIELD1": 1992,
+   "country": "Spain",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 374052,
+   "hdi": 10.512
+ },
+ {
+   "FIELD1": 1994,
+   "country": "Sri Lanka",
+   "continent": "Asia",
+   "year": 1985,
+   "gdp_per_capita": 5172,
+   "hdi": 7.164
+ },
+ {
+   "FIELD1": 2000,
+   "country": "Sri Lanka",
+   "continent": "Asia",
+   "year": 2000,
+   "gdp_per_capita": 11436,
+   "hdi": 8.148
+ },
+ {
+   "FIELD1": 2023,
+   "country": "Suriname",
+   "continent": "South America",
+   "year": 2005,
+   "gdp_per_capita": 48108,
+   "hdi": 8.304
+ },
+ {
+   "FIELD1": 2028,
+   "country": "Suriname",
+   "continent": "South America",
+   "year": 2010,
+   "gdp_per_capita": 110112,
+   "hdi": 8.484
+ },
+ {
+   "FIELD1": 2029,
+   "country": "Suriname",
+   "continent": "South America",
+   "year": 2011,
+   "gdp_per_capita": 110208,
+   "hdi": 8.508
+ },
+ {
+   "FIELD1": 2030,
+   "country": "Suriname",
+   "continent": "South America",
+   "year": 2012,
+   "gdp_per_capita": 122724,
+   "hdi": 8.532
+ },
+ {
+   "FIELD1": 2031,
+   "country": "Suriname",
+   "continent": "South America",
+   "year": 2013,
+   "gdp_per_capita": 125412,
+   "hdi": 8.556000000000001
+ },
+ {
+   "FIELD1": 2032,
+   "country": "Suriname",
+   "continent": "South America",
+   "year": 2014,
+   "gdp_per_capita": 126360,
+   "hdi": 8.568
+ },
+ {
+   "FIELD1": 2036,
+   "country": "Sweden",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 386952,
+   "hdi": 9.78
+ },
+ {
+   "FIELD1": 2041,
+   "country": "Sweden",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 384864,
+   "hdi": 10.272
+ },
+ {
+   "FIELD1": 2046,
+   "country": "Sweden",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 370752,
+   "hdi": 10.764000000000001
+ },
+ {
+   "FIELD1": 2051,
+   "country": "Sweden",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 546756,
+   "hdi": 10.704
+ },
+ {
+   "FIELD1": 2056,
+   "country": "Sweden",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 664224,
+   "hdi": 10.812000000000001
+ },
+ {
+   "FIELD1": 2057,
+   "country": "Sweden",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 760560,
+   "hdi": 10.835999999999999
+ },
+ {
+   "FIELD1": 2058,
+   "country": "Sweden",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 729312,
+   "hdi": 10.847999999999999
+ },
+ {
+   "FIELD1": 2059,
+   "country": "Sweden",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 769596,
+   "hdi": 10.86
+ },
+ {
+   "FIELD1": 2060,
+   "country": "Sweden",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 755472,
+   "hdi": 10.884
+ },
+ {
+   "FIELD1": 2063,
+   "country": "Switzerland",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 621288,
+   "hdi": 10.152000000000001
+ },
+ {
+   "FIELD1": 2068,
+   "country": "Switzerland",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 479424,
+   "hdi": 10.655999999999999
+ },
+ {
+   "FIELD1": 2073,
+   "country": "Switzerland",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 693480,
+   "hdi": 10.847999999999999
+ },
+ {
+   "FIELD1": 2078,
+   "country": "Switzerland",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 941688,
+   "hdi": 11.088
+ },
+ {
+   "FIELD1": 2079,
+   "country": "Switzerland",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 1116636,
+   "hdi": 11.1
+ },
+ {
+   "FIELD1": 2080,
+   "country": "Switzerland",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 1055412,
+   "hdi": 11.124
+ },
+ {
+   "FIELD1": 2081,
+   "country": "Switzerland",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 1075608,
+   "hdi": 11.136
+ },
+ {
+   "FIELD1": 2082,
+   "country": "Switzerland",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 1089708,
+   "hdi": 11.16
+ },
+ {
+   "FIELD1": 2084,
+   "country": "Thailand",
+   "continent": "Asia",
+   "year": 1985,
+   "gdp_per_capita": 10080,
+   "hdi": 6.468
+ },
+ {
+   "FIELD1": 2087,
+   "country": "Thailand",
+   "continent": "Asia",
+   "year": 1990,
+   "gdp_per_capita": 19992,
+   "hdi": 6.864
+ },
+ {
+   "FIELD1": 2091,
+   "country": "Thailand",
+   "continent": "Asia",
+   "year": 1995,
+   "gdp_per_capita": 37368,
+   "hdi": 7.332000000000001
+ },
+ {
+   "FIELD1": 2096,
+   "country": "Thailand",
+   "continent": "Asia",
+   "year": 2000,
+   "gdp_per_capita": 26028,
+   "hdi": 7.776
+ },
+ {
+   "FIELD1": 2100,
+   "country": "Thailand",
+   "continent": "Asia",
+   "year": 2005,
+   "gdp_per_capita": 37128,
+   "hdi": 8.208
+ },
+ {
+   "FIELD1": 2105,
+   "country": "Thailand",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 68484,
+   "hdi": 8.592
+ },
+ {
+   "FIELD1": 2106,
+   "country": "Thailand",
+   "continent": "Asia",
+   "year": 2011,
+   "gdp_per_capita": 73836,
+   "hdi": 8.652000000000001
+ },
+ {
+   "FIELD1": 2107,
+   "country": "Thailand",
+   "continent": "Asia",
+   "year": 2012,
+   "gdp_per_capita": 79008,
+   "hdi": 8.687999999999999
+ },
+ {
+   "FIELD1": 2108,
+   "country": "Thailand",
+   "continent": "Asia",
+   "year": 2013,
+   "gdp_per_capita": 83004,
+   "hdi": 8.687999999999999
+ },
+ {
+   "FIELD1": 2109,
+   "country": "Thailand",
+   "continent": "Asia",
+   "year": 2014,
+   "gdp_per_capita": 79944,
+   "hdi": 8.712
+ },
+ {
+   "FIELD1": 2112,
+   "country": "Trinidad and Tobago",
+   "continent": "South America",
+   "year": 1985,
+   "gdp_per_capita": 87804,
+   "hdi": 8.076
+ },
+ {
+   "FIELD1": 2117,
+   "country": "Trinidad and Tobago",
+   "continent": "South America",
+   "year": 1990,
+   "gdp_per_capita": 55872,
+   "hdi": 8.076
+ },
+ {
+   "FIELD1": 2122,
+   "country": "Trinidad and Tobago",
+   "continent": "South America",
+   "year": 1995,
+   "gdp_per_capita": 55644,
+   "hdi": 8.208
+ },
+ {
+   "FIELD1": 2127,
+   "country": "Trinidad and Tobago",
+   "continent": "South America",
+   "year": 2000,
+   "gdp_per_capita": 83040,
+   "hdi": 8.604
+ },
+ {
+   "FIELD1": 2132,
+   "country": "Trinidad and Tobago",
+   "continent": "South America",
+   "year": 2005,
+   "gdp_per_capita": 159096,
+   "hdi": 9.036
+ },
+ {
+   "FIELD1": 2137,
+   "country": "Trinidad and Tobago",
+   "continent": "South America",
+   "year": 2010,
+   "gdp_per_capita": 216000,
+   "hdi": 9.264
+ },
+ {
+   "FIELD1": 2138,
+   "country": "Trinidad and Tobago",
+   "continent": "South America",
+   "year": 2011,
+   "gdp_per_capita": 246684,
+   "hdi": 9.204
+ },
+ {
+   "FIELD1": 2140,
+   "country": "Turkey",
+   "continent": "Eurasia",
+   "year": 2010,
+   "gdp_per_capita": 138300,
+   "hdi": 8.856
+ },
+ {
+   "FIELD1": 2141,
+   "country": "Turkey",
+   "continent": "Eurasia",
+   "year": 2011,
+   "gdp_per_capita": 146844,
+   "hdi": 9.012
+ },
+ {
+   "FIELD1": 2142,
+   "country": "Turkey",
+   "continent": "Eurasia",
+   "year": 2012,
+   "gdp_per_capita": 152052,
+   "hdi": 9.072000000000001
+ },
+ {
+   "FIELD1": 2143,
+   "country": "Turkey",
+   "continent": "Eurasia",
+   "year": 2013,
+   "gdp_per_capita": 163236,
+   "hdi": 9.107999999999999
+ },
+ {
+   "FIELD1": 2144,
+   "country": "Turkey",
+   "continent": "Eurasia",
+   "year": 2014,
+   "gdp_per_capita": 158040,
+   "hdi": 9.132
+ },
+ {
+   "FIELD1": 2169,
+   "country": "Turkmenistan",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 59544,
+   "hdi": 7.992000000000001
+ },
+ {
+   "FIELD1": 2170,
+   "country": "Turkmenistan",
+   "continent": "Asia",
+   "year": 2011,
+   "gdp_per_capita": 75828,
+   "hdi": 8.052
+ },
+ {
+   "FIELD1": 2171,
+   "country": "Turkmenistan",
+   "continent": "Asia",
+   "year": 2012,
+   "gdp_per_capita": 89976,
+   "hdi": 8.124
+ },
+ {
+   "FIELD1": 2172,
+   "country": "Turkmenistan",
+   "continent": "Asia",
+   "year": 2013,
+   "gdp_per_capita": 99060,
+   "hdi": 8.184
+ },
+ {
+   "FIELD1": 2173,
+   "country": "Turkmenistan",
+   "continent": "Asia",
+   "year": 2014,
+   "gdp_per_capita": 108552,
+   "hdi": 8.256
+ },
+ {
+   "FIELD1": 2178,
+   "country": "Ukraine",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 20376,
+   "hdi": 8.46
+ },
+ {
+   "FIELD1": 2183,
+   "country": "Ukraine",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 11952,
+   "hdi": 7.944
+ },
+ {
+   "FIELD1": 2188,
+   "country": "Ukraine",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 7956,
+   "hdi": 8.016
+ },
+ {
+   "FIELD1": 2193,
+   "country": "Ukraine",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 23004,
+   "hdi": 8.556000000000001
+ },
+ {
+   "FIELD1": 2198,
+   "country": "Ukraine",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 37692,
+   "hdi": 8.783999999999999
+ },
+ {
+   "FIELD1": 2199,
+   "country": "Ukraine",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 45456,
+   "hdi": 8.856
+ },
+ {
+   "FIELD1": 2200,
+   "country": "Ukraine",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 49152,
+   "hdi": 8.916
+ },
+ {
+   "FIELD1": 2201,
+   "country": "Ukraine",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 39588,
+   "hdi": 8.964
+ },
+ {
+   "FIELD1": 2203,
+   "country": "United Arab Emirates",
+   "continent": "Asia",
+   "year": 2005,
+   "gdp_per_capita": 506352,
+   "hdi": 9.863999999999999
+ },
+ {
+   "FIELD1": 2208,
+   "country": "United Arab Emirates",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 443568,
+   "hdi": 9.936
+ },
+ {
+   "FIELD1": 2209,
+   "country": "United Kingdom",
+   "continent": "Europe",
+   "year": 1985,
+   "gdp_per_capita": 110772,
+   "hdi": 9.036
+ },
+ {
+   "FIELD1": 2214,
+   "country": "United Kingdom",
+   "continent": "Europe",
+   "year": 1990,
+   "gdp_per_capita": 244932,
+   "hdi": 9.276
+ },
+ {
+   "FIELD1": 2219,
+   "country": "United Kingdom",
+   "continent": "Europe",
+   "year": 1995,
+   "gdp_per_capita": 292668,
+   "hdi": 10.044
+ },
+ {
+   "FIELD1": 2224,
+   "country": "United Kingdom",
+   "continent": "Europe",
+   "year": 2000,
+   "gdp_per_capita": 352296,
+   "hdi": 10.38
+ },
+ {
+   "FIELD1": 2229,
+   "country": "United Kingdom",
+   "continent": "Europe",
+   "year": 2005,
+   "gdp_per_capita": 532464,
+   "hdi": 10.68
+ },
+ {
+   "FIELD1": 2234,
+   "country": "United Kingdom",
+   "continent": "Europe",
+   "year": 2010,
+   "gdp_per_capita": 501576,
+   "hdi": 10.872
+ },
+ {
+   "FIELD1": 2235,
+   "country": "United Kingdom",
+   "continent": "Europe",
+   "year": 2011,
+   "gdp_per_capita": 533892,
+   "hdi": 10.812000000000001
+ },
+ {
+   "FIELD1": 2236,
+   "country": "United Kingdom",
+   "continent": "Europe",
+   "year": 2012,
+   "gdp_per_capita": 535020,
+   "hdi": 10.812000000000001
+ },
+ {
+   "FIELD1": 2237,
+   "country": "United Kingdom",
+   "continent": "Europe",
+   "year": 2013,
+   "gdp_per_capita": 547128,
+   "hdi": 10.824000000000002
+ },
+ {
+   "FIELD1": 2238,
+   "country": "United Kingdom",
+   "continent": "Europe",
+   "year": 2014,
+   "gdp_per_capita": 598872,
+   "hdi": 10.884
+ },
+ {
+   "FIELD1": 2240,
+   "country": "United States",
+   "continent": "North America",
+   "year": 1985,
+   "gdp_per_capita": 236316,
+   "hdi": 10.092
+ },
+ {
+   "FIELD1": 2245,
+   "country": "United States",
+   "continent": "North America",
+   "year": 1990,
+   "gdp_per_capita": 312048,
+   "hdi": 10.308
+ },
+ {
+   "FIELD1": 2250,
+   "country": "United States",
+   "continent": "North America",
+   "year": 1995,
+   "gdp_per_capita": 378216,
+   "hdi": 10.512
+ },
+ {
+   "FIELD1": 2255,
+   "country": "United States",
+   "continent": "North America",
+   "year": 2000,
+   "gdp_per_capita": 470616,
+   "hdi": 10.595999999999998
+ },
+ {
+   "FIELD1": 2260,
+   "country": "United States",
+   "continent": "North America",
+   "year": 2005,
+   "gdp_per_capita": 569076,
+   "hdi": 10.764000000000001
+ },
+ {
+   "FIELD1": 2265,
+   "country": "United States",
+   "continent": "North America",
+   "year": 2010,
+   "gdp_per_capita": 623868,
+   "hdi": 10.908
+ },
+ {
+   "FIELD1": 2266,
+   "country": "United States",
+   "continent": "North America",
+   "year": 2011,
+   "gdp_per_capita": 641424,
+   "hdi": 10.932
+ },
+ {
+   "FIELD1": 2267,
+   "country": "United States",
+   "continent": "North America",
+   "year": 2012,
+   "gdp_per_capita": 662040,
+   "hdi": 10.944
+ },
+ {
+   "FIELD1": 2268,
+   "country": "United States",
+   "continent": "North America",
+   "year": 2013,
+   "gdp_per_capita": 678240,
+   "hdi": 10.956
+ },
+ {
+   "FIELD1": 2269,
+   "country": "United States",
+   "continent": "North America",
+   "year": 2014,
+   "gdp_per_capita": 702372,
+   "hdi": 10.98
+ },
+ {
+   "FIELD1": 2271,
+   "country": "Uruguay",
+   "continent": "South America",
+   "year": 1985,
+   "gdp_per_capita": 20748,
+   "hdi": 8.004
+ },
+ {
+   "FIELD1": 2276,
+   "country": "Uruguay",
+   "continent": "South America",
+   "year": 1990,
+   "gdp_per_capita": 39372,
+   "hdi": 8.304
+ },
+ {
+   "FIELD1": 2279,
+   "country": "Uruguay",
+   "continent": "South America",
+   "year": 1995,
+   "gdp_per_capita": 78660,
+   "hdi": 8.532
+ },
+ {
+   "FIELD1": 2284,
+   "country": "Uruguay",
+   "continent": "South America",
+   "year": 2000,
+   "gdp_per_capita": 89796,
+   "hdi": 8.904
+ },
+ {
+   "FIELD1": 2289,
+   "country": "Uruguay",
+   "continent": "South America",
+   "year": 2005,
+   "gdp_per_capita": 67860,
+   "hdi": 9.072000000000001
+ },
+ {
+   "FIELD1": 2294,
+   "country": "Uruguay",
+   "continent": "South America",
+   "year": 2010,
+   "gdp_per_capita": 154584,
+   "hdi": 9.36
+ },
+ {
+   "FIELD1": 2295,
+   "country": "Uruguay",
+   "continent": "South America",
+   "year": 2012,
+   "gdp_per_capita": 195168,
+   "hdi": 9.456
+ },
+ {
+   "FIELD1": 2296,
+   "country": "Uruguay",
+   "continent": "South America",
+   "year": 2013,
+   "gdp_per_capita": 218148,
+   "hdi": 9.48
+ },
+ {
+   "FIELD1": 2297,
+   "country": "Uruguay",
+   "continent": "South America",
+   "year": 2014,
+   "gdp_per_capita": 216144,
+   "hdi": 9.516
+ },
+ {
+   "FIELD1": 2309,
+   "country": "Uzbekistan",
+   "continent": "Asia",
+   "year": 2000,
+   "gdp_per_capita": 7584,
+   "hdi": 7.127999999999999
+ },
+ {
+   "FIELD1": 2314,
+   "country": "Uzbekistan",
+   "continent": "Asia",
+   "year": 2005,
+   "gdp_per_capita": 7272,
+   "hdi": 7.5
+ },
+ {
+   "FIELD1": 2316,
+   "country": "Uzbekistan",
+   "continent": "Asia",
+   "year": 2010,
+   "gdp_per_capita": 18396,
+   "hdi": 7.86
+ },
+ {
+   "FIELD1": 2317,
+   "country": "Uzbekistan",
+   "continent": "Asia",
+   "year": 2011,
+   "gdp_per_capita": 21204,
+   "hdi": 7.932
+ },
+ {
+   "FIELD1": 2318,
+   "country": "Uzbekistan",
+   "continent": "Asia",
+   "year": 2012,
+   "gdp_per_capita": 23568,
+   "hdi": 8.016
+ },
+ {
+   "FIELD1": 2319,
+   "country": "Uzbekistan",
+   "continent": "Asia",
+   "year": 2013,
+   "gdp_per_capita": 25800,
+   "hdi": 8.064
+ },
+ {
+   "FIELD1": 2320,
+   "country": "Uzbekistan",
+   "continent": "Asia",
+   "year": 2014,
+   "gdp_per_capita": 27708,
+   "hdi": 8.1
+ }
+]
